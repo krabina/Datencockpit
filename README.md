@@ -7,3 +7,13 @@ Datencockpit.at is an internal knowledge management system to support organizati
 ## Deutsch: Einführung
 Datencockpit ist das Open-Source-Repository zur Lösung www.datencockpit.at. Die Website demonstriert die Verwendung von https://github.com/SemanticMediaWiki/SemanticMediaWiki und zahlreichen weiteren Extensions zur Erfüllung der Dokumentationspflichten der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union. Die Idee ist, dass Organisationen eine Website wie www.datencockpit.at in einem internen Netzwerk (Einzelunternehmer auf ihrem PC) betreiben und ihr Datencockpit dazu benutzen, aktives Datenschutzmanagement zu betreiben. Das bedeutet, allen Dokumentationserfordernissen, wie z. B. das Verfahrensverzeichnis, Datenschutzverletzungen, Folgenabschätzungen etc. nachzukommen und laufend einen Überblick über datenschutzrelevante Themen und Vorkommnisse zu haben. 
 
+Da für die Lösung keine eingene Programmierung erfolgt ist, sondern lediglich die Konfiguration von Semantic MediaWiki, wird dieses Repository dazu verwendet, die aktuellen Inhalte anzubieten, um eigene Installationen der Lösungen zu unterstützen.
+
+## Installation
+Es gibt grundsätzlich mehrere Möglichkeiten, wie man ein eigenes Datencockpit installieren kann, je nach eigenem Know-how bzw. technischen Voraussetzungen sollte man die Variante wählen, die am passendsten erscheint. Daher zunächst ein Überblick. Manche der möglichen Installationsvarianten werden hier mehr oder weniger ausführlich dokumentiert, andere aus Ressourcengründen nicht. Die Reihenfolge entspricht der Komplexität.
+
+Installationsvariante | Anmerkungen
+------------ | -------------
+1. VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. COMING SOON....
+2. Installation auf eigenem Webserver | die Software wird auf einem Webserver entpackt, die Datenbank installiert
+3. Integration in bestehendes Wiki | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
