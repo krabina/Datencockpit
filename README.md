@@ -16,3 +16,8 @@ Installationsvariante | Anmerkungen
 1. VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. COMING SOON....
 2. Installation auf eigenem Webserver | die Software wird auf einem Webserver entpackt, die Datenbank installiert
 3. Integration in bestehendes Wiki | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
