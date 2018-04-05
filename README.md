@@ -13,7 +13,6 @@ Da für die Lösung keine eingene Programmierung erfolgt ist, sondern lediglich 
 Es gibt grundsätzlich mehrere Möglichkeiten, wie man ein eigenes Datencockpit installieren kann, je nach eigenem Know-how bzw. technischen Voraussetzungen sollte man die Variante wählen, die am passendsten erscheint. Daher zunächst ein Überblick. Manche der möglichen Installationsvarianten werden hier mehr oder weniger ausführlich dokumentiert, andere aus Ressourcengründen nicht. Die Reihenfolge entspricht der Komplexität.
 
 Installationsvariante | Anmerkungen
------------- | -------------
 1. VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. COMING SOON....
 2. Installation auf eigenem Webserver | die Software wird auf einem Webserver entpackt, die Datenbank installiert
 3. Integration in bestehendes Wiki | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
