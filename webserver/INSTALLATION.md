@@ -1,6 +1,6 @@
 # Installation - Variante Installation auf einem Webserver
 
-Diese Version ist die empfohlene Version!
+Diese Varante der Installation ist die empfohlene Variante!
 
 ## Voraussetzungen
 Sie benötigen grundsätzlich 
