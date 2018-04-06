@@ -10,7 +10,7 @@ Datencockpit ist das Open-Source-Repository zur Lösung www.datencockpit.at. Die
 Da für die Lösung keine eingene Programmierung erfolgt ist, sondern lediglich die Konfiguration von Semantic MediaWiki, wird dieses Repository dazu verwendet, die aktuellen Inhalte anzubieten, um eigene Installationen der Lösungen zu unterstützen.
 
 ## Installation
-Es gibt grundsätzlich mehrere Möglichkeiten, wie man ein eigenes Datencockpit installieren kann, je nach eigenem Know-how bzw. technischen Voraussetzungen sollte man die Variante wählen, die am passendsten erscheint. Daher zunächst ein Überblick. Manche der möglichen Installationsvarianten werden hier mehr oder weniger ausführlich dokumentiert, andere aus Ressourcengründen nicht. Die Reihenfolge entspricht der Komplexität.
+Es gibt grundsätzlich mehrere Möglichkeiten, wie man ein eigenes Datencockpit installieren kann, je nach eigenem Know-how bzw. technischen Voraussetzungen sollte man die Variante wählen, die am passendsten erscheint. Daher zunächst ein Überblick. Die Reihenfolge entspricht der Komplexität.
 
 Installationsvariante | Anmerkungen
 ------------ | -------------
