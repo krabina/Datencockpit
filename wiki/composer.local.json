@@ -1,0 +1,23 @@
+{
+
+        "require": {
+                "mediawiki/semantic-media-wiki": "~2",
+                "mediawiki/semantic-result-formats": "~2.5",
+                "mediawiki/semantic-compound-queries": "~1",
+		"mediawiki/semantic-glossary": "2.*@dev",
+		"mediawiki/lingo": "3.*@dev",
+		"mediawiki/simple-batch-upload": "~1",
+		"mediawiki/chameleon-skin": "~1"
+        },
+	"extra": {
+		"merge-plugin": {
+			"include": [
+				"extensions/example/composer.json"
+			]
+		}
+	},
+	"config": {
+                "preferred-install": "source",
+                "optimize-autoloader": true
+        }
+}
