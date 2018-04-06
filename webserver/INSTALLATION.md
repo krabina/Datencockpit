@@ -21,4 +21,4 @@ Das Datencockpit basiert auf
 * Installieren Sie einen Webserver, PHP sowie einen Datenbank-Server
 * Legen Sie eine Datenbank an, nennen Sie diese "kdz_datencockpit"
 * Legen Sie einen DB-User an, nennen Sie diesen ebenfalls "kdz_datencockpit", geben Sie ihm alle Rechte und weisen Sie ihm der erzeugten Datenbank zu
-* Importieren Sie den Datenank-Dump in Ihre Datenbank
+* Importieren Sie den Datenank-Dump in Ihre Datenbank (sehr einfach geht das mit https://www.phpmyadmin.net/ - aber auch über die [Kommandozeile](https://www.mediawiki.org/wiki/Manual:Restoring_a_wiki_from_backup#Import_the_database_backup))
