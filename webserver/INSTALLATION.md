@@ -40,6 +40,6 @@ Jetzt sollte Ihr Datencockpit erscheinen und so aussehen wie http://www.datencoc
 Sie können sich mit folgenden Zugangsdaten einloggen:
 * User: Admin
 * Pass: datenschutz
-Ändern Sie das Passwort rechts oben mit Click auf das User-Icon und Auswal von "Einstellungen". 
+* **Ändern Sie das Passwort** rechts oben mit Click auf das User-Icon und Auswal von "Einstellungen". 
 
 Nun sind Sie starbereit!
