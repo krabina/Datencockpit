@@ -1,0 +1,79 @@
+/**
+This file contains the customized KDZ styles.
+*/
+
+.skin-chameleon #headertabs.large .ui-widget-content {
+	a {
+		.link(@link-color);
+	}
+
+	a.new, #p-personal a.new {
+		.link(@link-new-color);
+	}
+}
+
+h1, h2 {
+	border-bottom: 1px solid @hr-border;
+}
+
+@media print {
+	a[href]:after, abbr[title]:after {
+		content: "";
+	}
+}
+
+@media (min-width: @grid-float-breakpoint) {
+	.navbar-right-aligned {
+		.navbar-tools:last-child {
+
+			li:first-child > a {
+				border-top-right-radius: 0;
+			}
+
+			li:last-child > a {
+				border-top-right-radius: @navbar-border-radius;
+				border-bottom-right-radius: @navbar-border-radius;
+			}
+		}
+	}
+
+	// styles for personal tools in the navbar component
+	.skin-chameleon .navbar-tools {
+
+		//border-right: none;
+
+		> li, li.open {
+
+			float: left;
+			height: @navbar-height;
+
+			border-bottom: none;
+			border-right: 1px solid @navbar-default-border;
+
+			> a, > a:hover, > a:focus {
+				> * {
+					line-height: @line-height-computed;
+					padding: @navbar-padding-vertical @navbar-padding-vertical/2;
+				}
+
+				> img {
+					min-height: 0;
+					min-width: 0;
+
+					position: relative;
+					left: initial;
+					top: initial;
+					transform: none;				}
+			}
+
+			&:last-child > ul.dropdown-menu {
+				top: @navbar-height;
+			}
+		}
+
+	}
+}
+
+//.p-logo {
+//	padding-top: (@grid-gutter-width / 2);
+//}
