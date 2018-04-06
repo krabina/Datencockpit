@@ -1,5 +1,7 @@
 # Installation - Variante Import in ein bestehendes Wiki
 
+Diese Version ist für Personen gedacht, die bereits über Erfahrung bei der Installation von MediaWiki verfügen!
+
 ## Voraussetzungen
 * Sie benötigen eine möglichst idente MediaWiki-Installation inklusive einer Menge Erweiterungen, siehe: http://www.datencockpit.at/Spezial:Version
 * Für die Installation von MediaWiki siehe https://www.mediawiki.org/wiki/Manual:Installation_guide/de
