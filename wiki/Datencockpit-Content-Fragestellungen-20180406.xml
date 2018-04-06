@@ -1,0 +1,995 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de-formal">
+  <siteinfo>
+    <sitename>Datencockpit</sitename>
+    <dbname>kdz_datencockpit</dbname>
+    <base>http://www.datencockpit.at/Datencockpit</base>
+    <generator>MediaWiki 1.27.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Datencockpit</namespace>
+      <namespace key="5" case="first-letter">Datencockpit Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="102" case="first-letter">Attribut</namespace>
+      <namespace key="103" case="first-letter">Attribut Diskussion</namespace>
+      <namespace key="106" case="first-letter">Formular</namespace>
+      <namespace key="107" case="first-letter">Formular Diskussion</namespace>
+      <namespace key="108" case="first-letter">Konzept</namespace>
+      <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
+      <namespace key="170" case="first-letter">Filter</namespace>
+      <namespace key="171" case="first-letter">Filter Diskussion</namespace>
+      <namespace key="190" case="first-letter">Glossar</namespace>
+      <namespace key="191" case="first-letter">Glossar talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="700" case="first-letter">Comment</namespace>
+      <namespace key="701" case="first-letter">Comment talk</namespace>
+      <namespace key="2000" case="first-letter">DSGVO</namespace>
+      <namespace key="2001" case="first-letter">DSGVO talk</namespace>
+      <namespace key="2002" case="first-letter">DSG</namespace>
+      <namespace key="2003" case="first-letter">DSG talk</namespace>
+      <namespace key="2004" case="first-letter">Neuigkeiten</namespace>
+      <namespace key="2005" case="first-letter">Neuigkeiten talk</namespace>
+      <namespace key="2006" case="first-letter">Fragestellung</namespace>
+      <namespace key="2007" case="first-letter">Fragestellung talk</namespace>
+      <namespace key="2008" case="first-letter">Verfahren</namespace>
+      <namespace key="2009" case="first-letter">Verfahren talk</namespace>
+      <namespace key="2010" case="first-letter">Folgen</namespace>
+      <namespace key="2011" case="first-letter">Folgen talk</namespace>
+      <namespace key="2012" case="first-letter">Verletzung</namespace>
+      <namespace key="2013" case="first-letter">Verletzung talk</namespace>
+      <namespace key="2014" case="first-letter">Auskunft</namespace>
+      <namespace key="2015" case="first-letter">Auskunft talk</namespace>
+      <namespace key="2016" case="first-letter">Berichtigung</namespace>
+      <namespace key="2017" case="first-letter">Berichtigung talk</namespace>
+      <namespace key="2018" case="first-letter">Anwendung</namespace>
+      <namespace key="2019" case="first-letter">Anwendung talk</namespace>
+      <namespace key="2020" case="first-letter">Abteilung</namespace>
+      <namespace key="2021" case="first-letter">Abteilung talk</namespace>
+      <namespace key="2022" case="first-letter">Thema</namespace>
+      <namespace key="2023" case="first-letter">Thema talk</namespace>
+      <namespace key="2024" case="first-letter">Information</namespace>
+      <namespace key="2025" case="first-letter">Information talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fragestellung:Ab wann gilt die DSGVO?</title>
+    <ns>2006</ns>
+    <id>438</id>
+    <revision>
+      <id>1481</id>
+      <parentid>1480</parentid>
+      <timestamp>2018-01-11T15:16:51Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="280">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Geltungsbereich
+|Fragetext=Ab wann gilt die DSGVO?
+|Antwort=25. Mai 2018
+|Beantwortet durch=Datenschutzbehörde
+|Quelle=Datei:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 99. Inkrafttreten und Anwendung
+}}</text>
+      <sha1>j6gloclua6uix4n7rgeicrv52r5x2fw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Brauche ich einen Datenschutzbeauftragten?</title>
+    <ns>2006</ns>
+    <id>452</id>
+    <revision>
+      <id>1818</id>
+      <parentid>1587</parentid>
+      <timestamp>2018-01-18T13:47:00Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="871">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Datenschutzbeauftragte
+|Fragetext=Brauche ich einen Datenschutzbeauftragten?
+|Antwort=Ob Sie einen Datenschutzbeauftragten „brauchen“, müssen Sie zunächst entscheiden. Für die Mehrheit der Unternehmen wird die Bestellung grundsätzlich optional sein. Zwingend aufgrund der DSGVO zu bestellen ist ein Datenschutzbeauftragter nur von Behörden bzw. öffentlichen Stellen (mit Ausnahme von Gerichten, sofern sie nicht im Rahmen der Justizverwaltung handeln) und bei Unternehmen, die schwerpunktmäßig in einem
+spezifischen Geschäftsbereich tätig sind. Die entsprechenden Regelungen finden Sie in Art. 37 DSGVO.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten
+}}</text>
+      <sha1>qv6wt47xx15iyejiusxsc6ww5e3n08q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Braucht der Datenschutzbeauftragte eine bestimmte (akademische) Ausbildung?</title>
+    <ns>2006</ns>
+    <id>467</id>
+    <revision>
+      <id>1809</id>
+      <parentid>1748</parentid>
+      <timestamp>2018-01-18T13:43:46Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="799">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Datenschutzbeauftragte, Qualifikation
+|Fragetext=Braucht der Datenschutzbeauftragte eine bestimmte (akademische) Ausbildung?
+|Antwort=Nein. Gemäß Art. 37 Abs. 5 DSGVO wird der Datenschutzbeauftragte auf der Grundlage seiner beruflichen Qualifikation und insbesondere des Fachwissens benannt, das er auf dem Gebiet des Datenschutzrechts und der Datenschutzpraxis besitzt, sowie auf Grundlage seiner Fähigkeit zur Erfüllung der Aufgaben des Datenschutzbeauftragten gemäß Art. 39 DSGVO.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten; DSGVO:Artikel 39. Aufgaben des Datenschutzbeauftragten
+}}</text>
+      <sha1>c2w79ahey7fdsz5xbyt9l51jl5cc1pu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Gibt es nach Inkrafttreten der DSGVO noch ein nationales Datenschutzrecht?</title>
+    <ns>2006</ns>
+    <id>489</id>
+    <revision>
+      <id>1667</id>
+      <timestamp>2018-01-12T14:07:00Z</timestamp>
+      <contributor>
+        <username>Etzlstorfer</username>
+        <id>3</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Fragestellung |Status der Fragestellung=3 - teilweise beantwortet |Thema=nationales Datenschutzrecht |Stichwort=Datenschutzrecht, national |Fragetext=Gibt es…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="397">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=nationales Datenschutzrecht
+|Stichwort=Datenschutzrecht, national
+|Fragetext=Gibt es nach Inkrafttreten der DSGVO noch ein nationales Datenschutzrecht?
+|Antwort=Ja. Das österreichische Parlament hat dazu das Datenschutz-Anpassungsgesetz erlassen
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+}}</text>
+      <sha1>rpn4znjnd4l291vayol266p3lm7zbpd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Gibt es Änderungen durch die DSGVO, selbst wenn bereits Einwilligungen von Betroffenen für die Datenverarbeitung eingeholt werden?</title>
+    <ns>2006</ns>
+    <id>442</id>
+    <revision>
+      <id>1555</id>
+      <parentid>1554</parentid>
+      <timestamp>2018-01-12T09:15:13Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="570">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Einwilligung
+|Stichwort=Einwilligung
+|Fragetext=Ich habe für eine Datenverarbeitung die Einwilligung von Betroffenen (z.B. Kunden) eingeholt. Ändert sich durch die DSGVO etwas daran?
+|Antwort=Sofern eine eingeholte Einwilligung den Voraussetzungen von Art 7. DSGVO entspricht, ändert sich nichts. Gegebenenfalls sind die Einwilligungen erneut einzuholen.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 7. Bedingungen für die Einwilligung
+}}</text>
+      <sha1>8e8r2z8m1uzx4av1v1x211i4g5g2frl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Gilt die DSGVO nur für Großunternehmen?</title>
+    <ns>2006</ns>
+    <id>444</id>
+    <revision>
+      <id>1677</id>
+      <parentid>1561</parentid>
+      <timestamp>2018-01-12T14:54:53Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="720">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Anwendungsbereich
+|Stichwort=Unternehmensgröße, Unternehmensform
+|Fragetext=Gilt die DSGVO nur für Großunternehmen?
+|Antwort=Nein. Die DSGVO gilt auch für Klein- und Einpersonunternehmen unter bestimmten Voraussetzungen sowie für Behörden und öffentliche Stellen. Punktuell sind Ausnahmen für Klein- und Einpersonunternehmen vorgesehen (z.B. in Art. 30 Abs. 5 DSGVO betreffend die Führung eines Verzeichnisses von Verarbeitungstätigkeiten).
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 2. Sachlicher Anwendungsbereich; DSGVO:Artikel 30. Verzeichnis von Verarbeitungstätigkeiten
+}}</text>
+      <sha1>8s07krb43gzisb64co70tj2hesp3pey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Ist das Anbieten von Daten grundsätzlich eine Übermittlung in Drittländer?</title>
+    <ns>2006</ns>
+    <id>580</id>
+    <revision>
+      <id>2326</id>
+      <parentid>2321</parentid>
+      <timestamp>2018-02-02T15:17:45Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="610">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Thema:Übermittlungen von Daten ins Nicht-EU-Ausland
+|Stichwort=Website
+|Fragetext=Ist das Anbieten von Daten auf der Website grundsätzlich eine Übermittlung in Drittländer?
+
+Die Frage ist, ob der Standort des Servers (EU oder Ausland) maßgeblich ist. Oder ob die Tatsache, dass ein US-Besucher meiner EU-Website die Daten auf seinen PC herunterlädt, jedenfalls eine Übertragung?
+|Antwort=Nein. Es ist nur die Möglichkeit geschaffen worden, die Daten abzurufen. Es fehlt der konkrete Empfängerkreis, der nicht benennbar ist.
+}}</text>
+      <sha1>6byt7dwoey492q1b70x745n053uh6nh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Ist das Privacy Shield DSGVO-konform?</title>
+    <ns>2006</ns>
+    <id>522</id>
+    <revision>
+      <id>1867</id>
+      <parentid>1866</parentid>
+      <timestamp>2018-01-25T13:21:57Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="165">{{Fragestellung
+|Status der Fragestellung=1 - offen
+|Thema=Cloud Services
+|Stichwort=Privacy Shield, Safe Harbour
+|Fragetext=Ist das Privacy Shield DSGVO-konform?
+}}</text>
+      <sha1>jk3j8m7drfzj0z25dsv9xhal5hoo2yf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Kann ein Datenschutzbeauftragter verantwortlicher Beauftragter nach § 9 VStG sein?</title>
+    <ns>2006</ns>
+    <id>463</id>
+    <revision>
+      <id>1810</id>
+      <parentid>1593</parentid>
+      <timestamp>2018-01-18T13:45:10Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="642">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Datenschutzbeauftragte, verwantwortlicher Beauftragter
+|Fragetext=Kann ein Datenschutzbeauftragter verwantwortlicher Beauftragter nach § 9 VStG sein?
+|Antwort=Der Datenschutzbeauftragte hat nach Ansicht der Datenschutzbehörde beratende Funktion. Verbindliche Anordnungen sind von der Managementebene zu treffen. Deshalb ist die Datenschutzbehörde der Ansicht, dass ein Datenschutzbeauftragter nicht als verantwortlicher Beauftragter bestellt werden kann.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+}}</text>
+      <sha1>qu7olv6x2glz1lwvwqex9xw73mao81j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Müssen Spendenorganisationen verpflichtend einen Datenschutzbeauftragten bestellen?</title>
+    <ns>2006</ns>
+    <id>498</id>
+    <revision>
+      <id>1806</id>
+      <parentid>1805</parentid>
+      <timestamp>2018-01-18T13:38:46Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1512">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Spendenorganisationen, Datenschutzbeauftragte
+|Fragetext=Müssen Spendenorganisationen verpflichtend einen Datenschutzbeauftragten bestellen?
+|Antwort=&quot;Bei Organisationen, die vorwiegend spendenfinanziert sind, zählt die Verarbeitung von Spenderdaten aufgrund der untrennbaren Verbindung zwischen den Organisationsmitteln und der Mittelaufbringung durch Spenden zur Kerntätigkeit der Organisation. Diese Kerntätigkeit besteht jedoch nicht zwangsläufig in einer &quot;umfangreichen, systematischen oder regelmäßigen Überwachung&quot; der Spender iSv Art. 37 DSGVO. Eine generelle Verpflichtung zur Bestellung eines DSBA scheint für gemeinnützige Spendenorganisationen nicht zu bestehen. Diese setzen jedoch teilweise Methoden des E-Mail-Retargetings ein. Auch könnten gewisse Kommunikationsabläufe mit den Spendern als verhaltensbasierte Werbung angesehen werden. Je spezifischer die Beziehung zu den Spendern aufgebaut ist, desto eher wird daraus eine Pflicht zu Benennung eines DSBA resultieren.&quot;
+
+Details siehe [https://lesen.lexisnexis.at/_/verpflichtende-datenschutzbeauftragte-fuer-spendenorganisationen/artikel/jusit/2017/5/jusIT_2017_05_080.html Scheichenbauer, Heide, &quot;Verpflichtende Datenschutzbeauftragte für Spendenorganisationen?&quot;], jusIT 05/2017
+|Beantwortet durch=Dr. iur. Heidi Scheichenbauer
+|Quelle=jusIT 05/2017
+|Paragraph=DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten
+}}</text>
+      <sha1>0tm8wxdv8rtdphsjaj1na7vaxmhrc4n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Müssen wir Daten aus Backups löschen?</title>
+    <ns>2006</ns>
+    <id>323</id>
+    <revision>
+      <id>2210</id>
+      <parentid>2209</parentid>
+      <timestamp>2018-01-26T17:32:12Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="224">{{Fragestellung
+|Status der Fragestellung=2 - in Bearbeitung
+|Thema=Technik
+|Stichwort=Löschung, Backup
+|Fragetext=Müssen Daten bei Löschanträgen auch aus Backups gelöscht werden?
+|Antwort=Nein, nicht grundsätzlich.
+}}</text>
+      <sha1>ec524vircbwe1nde0rga1r558u2sdi6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Sind Bilddaten erkennbarer Personen immer sensible Daten?</title>
+    <ns>2006</ns>
+    <id>495</id>
+    <revision>
+      <id>1796</id>
+      <parentid>1795</parentid>
+      <timestamp>2018-01-18T11:03:50Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1662">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Sensible Daten
+|Stichwort=Bilddaten
+|Fragetext=Sind Bilddaten mit erkennbaren Personen immer als datenschutzrechtlich sensibel zu klassifizieren?
+|Antwort=Eher ja. 
+
+Die Frage ist ungeklärt. Knyrm argumentiert differenziert, während Bergauer zu folgendem Fazit kommt: &quot;Sämtliche einschägigen datenschutzrechtlichen Normen und Definitionen [...] legen aufgrund ihres eindeugiten Wortlauts den Schluss nahe, dass Bilddateeien erkennbarer Personen aufgrund einer rein nach objektiven Gesichtspunkten gebotenen Betrachtung als sensible Daten zu quelifizieren sind, da sich aufgrund der Informationsdichte eines Bilde stets Rückschlüsse auf besonders schutzwürdige Datenkategorien (insb. Angaben über die Gesundheit und ethnische Herkunft) ziehen lassen. Um dabei nicht über das Ziel hinauszuschießen, sollte der jeweilige diesbezüglich zu weit formulierte Wortlaut (§4 Z2 DSG 2000, &lt;span class=&quot;noglossary&quot;&gt;Art. 8 Abs 1 DS-RL&lt;/span&gt; bzw. Art. 9 Abs 1 DSGVO) im Sinne der ratio legis durch das Kriterium der &quot;hinlänglichen Sicherheit&quot; eingeschränkt werden.&quot;
+
+Details siehe: [https://lesen.lexisnexis.at/_/die-einordnung-von-bilddaten-erkennbarer-personen-im-datenschutz/artikel/jusit/2016/6/jusIT_2016_06_103.html Bergauer, Christian, Die Einordnung von Bilddaten erkennbarer Personen im Datenschutzrecht. Eine Replik auf Knyrim, Bilddaten:immer sensibel?], jusIT 2016/102, 235 in: jusIT 06/2016, Art. Nr. 103, Dezember 2016.
+|Beantwortet durch=Dr. Christian Bergauer
+|Quelle=jusIT 6/2016
+|Paragraph=DSGVO:Artikel 9. Verarbeitung besonderer Kategorien personenbezogener Daten
+}}</text>
+      <sha1>e8x7396q4cm08s8nqxoluc6nj6g47j4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Sind Fotos auf Veranstaltungen erlaubt?</title>
+    <ns>2006</ns>
+    <id>324</id>
+    <revision>
+      <id>2132</id>
+      <parentid>2099</parentid>
+      <timestamp>2018-01-26T15:06:43Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="427">{{Fragestellung
+|Status der Fragestellung=2 - in Bearbeitung
+|Thema=Verarbeitungsrecht
+|Stichwort=Foto, Veranstaltung
+|Fragetext=Wir machen eine Veranstaltung, zu der Mitarbeiter/innen und Kund/innen geladen sind. Dürfen wir Fotos von der Veranstaltung speichern und auf unserer Website veröffentlichen?
+|Antwort=Soferne der Hinweis zu Beginn erfolgt ist, ist das kein Problem.
+|Beantwortet durch=Admin
+|Aufgabe für=Admin
+}}</text>
+      <sha1>d3nxnq4dzrnq6ytr9mfokh60d8qrstp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Stellung des Datenschutzbeauftragten</title>
+    <ns>2006</ns>
+    <id>459</id>
+    <revision>
+      <id>1814</id>
+      <parentid>1687</parentid>
+      <timestamp>2018-01-18T13:46:10Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1660">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Datenschutzbeauftragte
+|Fragetext=Welche Stellung hat der Datenschutzbeauftragte und muss dieser zwingend ein Arbeitnehmenr sein?
+|Antwort=Die Stellung des Datenschutzbeauftragten ist in Art. 38 DSGVO näher geregelt. Demnach erhält der Datenschutzbeauftragte bei der Erfüllung seiner Aufgaben keine Anweisungen und darf wegen der Erfüllung seiner Aufgaben nicht abberufen oder benachteiligt werden. Der Datenschutzbeauftragte berichtet unmittelbar der höchsten Managementebene. Ferner müssen der Verantwortliche und der Auftragsverarbeiter den Datenschutzbeauftragten bei der Erfüllung seiner Aufgaben unterstützen und ihm die für die Erfüllung dieser Aufgaben erforderlichen Ressourcen zur Verfügung stellen.
+
+
+Der Datenschutzbeauftragte kann Beschäftigter des Verantwortlichen oder des Auftragsverarbeiters sein oder seine Aufgaben auf der Grundlage eines Dienstleistungsvertrags erfüllen (Art. 37 Abs. 6 DSGVO).
+
+
+Für '''Bundesministerien und diesen nachgeordnete Dienststellen bzw. Einrichtungen''' sieht § 5 DSG vor, dass der Datenschutzbeauftragte dem Dienststand des jeweiligen Ministeriums bzw. der Dienststelle oder Einrichtung anzugehören hat. Sozialversicherungsträger bzw. Selbstverwaltungskörper, bei denen lediglich ein Aufsichtsrecht des Bundes besteht, fallen nicht unter § 5 DSG.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 38. Stellung des Datenschutzbeauftragten; DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten; DSG:§ 5. Datenschutzbeauftragter
+}}</text>
+      <sha1>0lin4qvd951z9793x81813jivm56m0j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Wann ist ein Datenschutzbeauftragter verpflichtend zu bestellen?</title>
+    <ns>2006</ns>
+    <id>457</id>
+    <revision>
+      <id>1820</id>
+      <parentid>1678</parentid>
+      <timestamp>2018-01-18T13:47:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1147">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbeauftragte
+|Stichwort=Datenschutzbeauftragte
+|Fragetext=Wann ist ein Datenschutzbeauftragter verpflichtend (in meinem Unternehmen) zu bestellen?
+|Antwort=Der Verantwortliche bzw. Auftragsverarbeiter muss einen Datenschutzbeauftragten bestellen, wenn
+
+
+a) die Kerntätigkeit in der Durchführung von Verarbeitungsvorgängen besteht, welche aufgrund ihrer Art, ihres Umfangs und/oder ihrer Zwecke eine umfangreiche regelmäßige und systematische Überwachung von betroffenen Personen erforderlich machen, oder
+
+b) die Kerntätigkeit in der umfangreichen Verarbeitung besonderer Kategorien von Daten (gemäß Art. 9) oder von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten (gemäß Art. 10) besteht.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 10. Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten; DSGVO:Artikel 9. Verarbeitung besonderer Kategorien personenbezogener Daten; DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten
+}}</text>
+      <sha1>72ancm12ldh3y1tcvv9ltetahsb0cav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Was bedeutet die DSGVO für die Inanspruchnahme von Cloud-Services?</title>
+    <ns>2006</ns>
+    <id>480</id>
+    <revision>
+      <id>1817</id>
+      <parentid>1646</parentid>
+      <timestamp>2018-01-18T13:46:48Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1029">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Cloud Services
+|Stichwort=Cloud Services
+|Fragetext=Was bedeutet die DSGVO für die Inanspruchnahme von Cloud-Services
+|Antwort=Hier tritt kein wesentlicher Unterschied zur Rechtslage nach dem DSG 2000 ein. Es ist zu beachten, dass durch die Inanspruchnahme von Cloud-Services ggf. eine Datenübermittlung in ein Drittland stattfindet, für die es eine gesonderte Rechtsgrundlage braucht (bspw. Standardvertragsklauseln). Wird ein Cloud-Diensteanbieter in Anspruch genommen, so muss eine sichere Datenverarbeitung durch diesen gewährleistet sein. Kommt es zu einer Verletzung des Schutzes personenbezogener Daten in der Cloud (bspw. durch einen Hackerangriff o.ä.) trägt die datenschutzrechtliche Verantwortung (einschließlich schadenersatzrechtlicher Ansprüche) nach außen hin der Verantwortliche (d.h. jene Person/jene Einrichtung, die Cloud-Services in Anspruch nimmt).
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+}}</text>
+      <sha1>o1f7evbej8vfv66n76xc9rytxkufesg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Was ist bei Übermittlungen von Daten ins Nicht-EU-Ausland zu beachten und was passiert mit bisherigen Genehmigungen?</title>
+    <ns>2006</ns>
+    <id>475</id>
+    <revision>
+      <id>1673</id>
+      <parentid>1672</parentid>
+      <timestamp>2018-01-12T14:51:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3132">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Übermittlungen von Daten ins Nicht-EU-Ausland
+|Stichwort=Datenübermittlung, Nicht-EU-Ausland
+|Fragetext=Was ist bei Übermittlungen von Daten ins Nicht-EU-Ausland zu beachten? Was passiert mit bisherigen Genehmigungen?
+|Antwort=Durch die DSGVO erfolgt eine weitreichende Genehmigungsfreiheit im internationalen Datenverkehr (Art. 44-50 DSGVO). Es ist – wie bisher auch – darauf zu achten, dass alle Verarbeitungsvorgänge zuerst im Inland zulässig sind, bevor ein Datenexport möglich ist.
+
+Die bereits bekannten rechtlichen Instrumente für den Datenexport bleiben erhalten und werden ergänzt:
+Daten dürfen an ein Drittland oder eine internationale Organisation übermittelt werden, wenn dort ein angemessenes Schutzniveau besteht (Art. 45 DSGVO). Die Feststellung erfolgt wie bisher durch die Kommission der EU. Die bestehende Liste bleibt gültig.
+
+Weiters ist die Übermittlung zulässig, wenn eine vertragliche Vereinbarung mit Standarddatenschutzklauseln abgeschlossen wurde oder verbindliche interne Datenschutzvorschriften (Binding Corporate Rules, BCRs) bestehen. Diese Instrumente gab es schon bisher. Zu den neuen rechtlichen Instrumenten gehören Verhaltensregeln (Art. 40 DSGVO) und Zertifizierungsmechanismen (Art. 42 DSGVO). Art. 46 Abs. 3 DSGVO enthält die Möglichkeit, in Sonderfällen eine Genehmigung durch die Aufsichtsbehörde einzuholen.
+
+Art. 49 DSGVO enthält einige Sonderfälle, von denen einige mit den Regeln im bestehenden § 12 DSG 2000 übereinstimmen (Zustimmung, Vertragserfüllung, öffentliches Interesse, Verteidigung von Rechtsansprüchen, lebenswichtige Interessen) und einige neu dazugekommen sind (Übermittlung eines Auszugs aus einem öffentlichen Register).
+
+Die DSGVO bringt weniger Behördenwege, und mehr Verantwortung. Es ist insbesondre erforderlich, die eigenen Zwecke und Datenbanken zu kennen und selbst zu entscheiden, welche rechtlichen Instrumente geboten sind.
+Es bestehen auch Informationspflichten an Betroffene, wenn Daten ins Nicht-EU-Ausland übermittelt werden sollen (Art. 13 Abs. 1 lit. f und 14 Abs. 1 lit. f DSGVO).
+
+Bereits erteilte Genehmigungen bleiben grundsätzlich gültig (Art. 6 Abs. 5 DSGVO).
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 44. Allgemeine Grundsätze der Datenübermittlung; DSGVO:Artikel 45. Datenübermittlung auf der Grundlage eines Angemessenheitsbeschlusses; DSGVO:Artikel 46. Datenübermittlung vorbehaltlich geeigneter Garantien; DSGVO:Artikel 47. Verbindliche interne Datenschutzvorschriften; DSGVO:Artikel 48. Nach dem Unionsrecht nicht zulässige Übermittlung oder Offenlegung; DSGVO:Artikel 49. Ausnahmen für bestimmte Fälle; DSGVO:Artikel 50. Internationale Zusammenarbeit zum Schutz personenbezogener Daten; DSGVO:Artikel 13. Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person; DSGVO:Artikel 14. Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden; DSGVO:Artikel 6. Rechtmäßigkeit der Verarbeitung
+}}</text>
+      <sha1>855cqg0do4i0qz8lxosol06h8a1nbxl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Was ist eine &quot;öffentliche Stelle&quot;?</title>
+    <ns>2006</ns>
+    <id>455</id>
+    <revision>
+      <id>1815</id>
+      <parentid>1688</parentid>
+      <timestamp>2018-01-18T13:46:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1778">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Definitionen
+|Stichwort=öffentliche Stelle
+|Fragetext=Was ist eine &quot;öffentliche Stelle&quot;?
+|Antwort=Die Datenschutzbehörde kann keine konkrete Einzelfallprüfung vor- bzw. vorwegnehmen, ob eine Stelle als öffentliche Stelle anzusehen ist oder nicht.
+
+Grundsätzlich obliegt es dem Verantwortlichen selbst diese Einordnung entsprechend der gegebenen Rechtsgrundlagen vorzunehmen. Neben diversen deutschsprachigen Kommentaren (siehe dazu Punkt 13 dieses Leitfadens) sowie der Leitlinie der Art. 29-Gruppe zum Datenschutzbeauftragten, welche Anhaltspunkte für die Auslegung des Begriffs der öffentlichen Stelle liefern, ist insbesondere das '''Datenschutzanpassungsgesetz 2018''' heranzuziehen. Darin findet sich in § 26 Abs. 1 DSG eine Definition für den '''Verantwortlichen des öffentlichen Bereichs'''. Darunter fallen alle Verantwortliche,
+
+• die in Formen des öffentlichen Rechts eingerichtet sind oder
+
+• zwar in Form des Privatrechts eingerichtet sind, jedoch in Vollziehung der Gesetze tätig werden (so genannte „beliehene Rechtsträger“ sowie Fälle der schlichten Hoheitsverwaltung).
+
+Nach derzeitiger Ansicht der Datenschutzbehörde kann diese Definition als Beurteilungskriterium herangezogen werden. Sie entspricht auch weitgehend jener Definition, die das deutsche Bundesdatenschutzgesetz vorsieht, welches den Begriff der „öffentlichen Stelle“ schon jetzt kennt.
+
+Sofern diese Merkmale vom jeweiligen Verantwortlichen nicht erfüllt werden, wird schwerlich eine Einordnung als öffentliche Stelle möglich sein.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSG:§ 26. Verantwortliche des öffentlichen und des privaten Bereichs
+}}</text>
+      <sha1>0tau25jnuu2paz4tf2vpef2t47kzoa1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Was ist eine Zertifizierung und wer führt sie durch?</title>
+    <ns>2006</ns>
+    <id>471</id>
+    <revision>
+      <id>1747</id>
+      <parentid>1628</parentid>
+      <timestamp>2018-01-15T13:35:16Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="841">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Zertifizierung
+|Stichwort=Zertifizierung
+|Fragetext=Was ist eine Zertifizierung und wer führt sie durch?
+|Antwort=Datenschutzspezifische Zertifizierungsverfahren, Datenschutzsiegel und Datenschutzprüfzeichen dienen dem Nachweis der faktischen Einhaltung von Vorgaben der DSGVO bei bestimmten Verarbeitungsvorgängen. Eine Zertifizierung wird durch die Aufsichtsbehörde auf Grundlage der Zertifizierungskriterien eines genehmigten Zertifizierungsverfahrens erteilt. Die maximale Gültigkeit einer Zertifizierung beträgt drei Jahre, eine (mehrfache) Verlängerung um je maximal drei Jahre ist möglich.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 42. Zertifizierung; DSGVO:Artikel 43. Zertifizierungsstellen
+}}</text>
+      <sha1>2yyaqhcsoilhmq0t32h3fvupwiip6zu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Was sind Verhaltensregeln?</title>
+    <ns>2006</ns>
+    <id>469</id>
+    <revision>
+      <id>1823</id>
+      <parentid>1626</parentid>
+      <timestamp>2018-01-18T13:48:20Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="837">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Definitionen
+|Stichwort=Verhaltensregeln
+|Fragetext=Was sind Verhaltensregeln?
+|Antwort=Gem. Art. 40 DSGVO legen Verhaltensregeln die Rechtslage inhaltsspezifisch näher aus, indem sie die Anwendung der DSGVO in gewissen Bereichen präzisieren. Verbände und andere Vereinigungen, die Kategorien von Verantwortlichen oder Auftragsverarbeitern vertreten, können solche Verhaltensregeln ausarbeiten und der Aufsichtsbehörde zur Genehmigung vorlegen. Mit der Überwachung der Einhaltung von genehmigten Verhaltensregeln ist die Aufsichtsbehörde beauftragt, wobei diese auch eine von ihr dafür besonders geeignete Stelle akkreditieren kann.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 40. Verhaltensregeln
+}}</text>
+      <sha1>4x1emobsyyjdqrat92fmw5tfdm9i8uq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Welche Befugnisse hat die Datenschutzbehörde?</title>
+    <ns>2006</ns>
+    <id>486</id>
+    <revision>
+      <id>1813</id>
+      <parentid>1811</parentid>
+      <timestamp>2018-01-18T13:45:52Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="889">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Datenschutzbehörde
+|Stichwort=Datenschutzbehörde
+|Fragetext=Welche Befugnisse hat die Datenschutzbehörde?
+|Antwort=Die Aufsichtsbehörde hat drei Arten von Befugnissen:
+
+* Untersuchungsbefugnisse (einschließlich des Betretungsrechts bestimmter Räumlichkeiten)
+* Abhilfebefugnisse (das sind Befugnisse, die es der Aufsichtsbehörde ermöglichen, ein rechtswidriges Verhalten abzustellen, bspw. durch konkrete Anordnungen oder die Verhängung von Geldbußen iHv bis zu 20 Millionen Euro oder 4% des gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahres)
+* Genehmigungs- und Beratungsbefugnisse
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 56. Zuständigkeit der federführenden Aufsichtsbehörde; DSGVO:Artikel 55. Zuständigkeit
+}}</text>
+      <sha1>h9t5cq6s3f5ba9f7mywgzpzfsh1qsqb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Welche Geldbußen kann die Aufsichtsbehörde verhängen und wofür?</title>
+    <ns>2006</ns>
+    <id>476</id>
+    <revision>
+      <id>1822</id>
+      <parentid>1676</parentid>
+      <timestamp>2018-01-18T13:48:05Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1557">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Geldbußen
+|Stichwort=Geldbußen, Aufsichtsbehörde
+|Fragetext=Welche Geldbußen kann die Aufsichtsbehörde verhängen und wofür?
+|Antwort=Die DSGVO sieht Geldbußen vor. Die Geldbußen sind von der Datenschutzbehörde als Verwaltungsstrafen gegen Unternehmen (Unternehmensträger) oder Einzelpersonen zu verhängen, die jeweils als für eine Datenverarbeitung Verantwortlicher oder Auftragsverarbeiter agieren. Die Zahl der strafbaren Verhaltensweisen (Verstöße) wurde ausgedehnt. Auch Fahrlässigkeit ist strafbar.
+
+In bestimmten Fällen kann die Datenschutzbehörde an Stelle der Verhängung einer Geldbuße auch eine förmliche Verwarnung aussprechen.
+
+Für weniger schwere Verstöße gegen Bestimmungen der DSGVO droht eine Geldbuße in Höhe bis zu 10 Millionen Euro (keine Mindeststrafe) oder bei Unternehmen bis zu 2 Prozent des weltweiten Jahresumsatzes des letzten Geschäftsjahrs. Es gilt der höhere Betrag.
+
+Für schwerwiegende Verstöße gegen Bestimmungen der DSGVO droht eine Geldbuße in Höhe bis zu 20 Millionen Euro (keine Mindeststrafe) oder bei Unternehmen bis zu 4 Prozent des weltweiten Jahresumsatzes des letzten Geschäftsjahrs. Es gilt der höhere Betrag.
+
+Gegen die Verhängung einer Geldbuße kann Beschwerde an das Bundesverwaltungsgericht erhoben werden.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 83. Allgemeine Bedingungen für die Verhängung von Geldbußen; DSGVO:Artikel 84. Sanktionen
+}}</text>
+      <sha1>3qiec3ldv3ufnt91xl9c9sz66crqorn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Welche Rechte stehen Betroffenen zu und wo können diese geltend gemacht werden?</title>
+    <ns>2006</ns>
+    <id>449</id>
+    <revision>
+      <id>1674</id>
+      <parentid>1577</parentid>
+      <timestamp>2018-01-12T14:52:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7550">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Betroffenenrechte
+|Stichwort=Betroffene, Betroffenenrechte
+|Fragetext=Welche Rechte stehen mir zu (Betroffenenrechte) und wo kann ich sie geltend machen?
+|Antwort=1. Das Recht auf Auskunft (Art. 15 DSGVO). Der Betroffene muss eine Bestätigung erhalten, ob ihn betreffende Daten verarbeitet werden, einschließlich einer Negativauskunft. Werden Daten verarbeitet, hat der Betroffene das Recht auf folgende Informationen:
+* a. Verarbeitungszwecke;
+* b. Datenkategorien;
+* c. Kopie (z.B. Ausdruck) der verarbeiteten Dateninhalte;
+* d. Datenempfänger oder Empfängerkategorien;
+* e. geplante Speicherdauer (oder Kriterien für deren Festlegung);
+* f. Bestehen eines Berichtigungs-, Löschungs-, Einschränkungs- oder Widerspruchsrechts;
+* g. Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
+* h. verfügbare Informationen über Datenherkunft;
+* i. Bestehen einer automatisierten Entscheidungsfindung (Profiling eingeschlossen), Logik und Tragweite solcher Verfahren.
+
+Die Frist zur Auskunftserteilung wird durch die DSGVO auf einen Monat verkürzt. U.U. ist eine Verlängerung auf drei Monate möglich.
+Das Recht auf Auskunft ist ein Recht auf Auskunft über eigene Daten des Betroffenen. Eine Kopie der verarbeiteten Dateninhalte muss so gestaltet sein, dass die Datenschutzrechte anderer Personen nicht verletzt werden.
+
+2. Das Recht auf Berichtigung (Art. 16 DSGVO). Es bezieht sich auf Dateninhalte. Neu in der DSGVO ist das Recht auf Vervollständigung von Daten – eventuell durch eine ergänzende Anmerkung. Die Frist zur Berichtigung wird durch die DSGVO auf einen Monat verkürzt. U.U. ist eine Verlängerung auf drei Monate möglich.
+
+3. Das Recht auf Löschung (Art. 17 DSGVO) (einschließlich des „Rechts auf Vergessenwerden“). Das Löschungsrecht setzt voraus, dass einer der folgenden Umstände vorliegt oder eingetreten ist:
+* a. Wegfall des Verarbeitungszwecks
+* b. Widerruf der Einwilligung des Betroffenen
+* c. wirksamer Widerspruch gegen die Datenverarbeitung
+* d. anfängliche Unrechtmäßigkeit der Datenverarbeitung
+* e. rechtliche Verpflichtung zur Löschung (z.B. Gesetz, Urteil, Bescheid)
+* f. Fehlen einer Einwilligung der Erziehungsberechtigten eines Kindes
+
+Neu: Hat der Verantwortliche die Daten öffentlich gemacht (z.B. Im Internet), so muss er bei Löschung alle angemessenen Maßnahmen, auch technischer Art ergreifen, um verantwortliche Datenempfänger (insbesondere Suchmaschinenbetreiber) darüber zu informieren, dass der Betroffene die Löschung oder Entfernung von Links, Kopien oder Replikationen wünscht (= „Recht auf Vergessenwerden“).
+Das Löschungsrecht kann durch das Recht auf Meinungsfreiheit, durch Rechtspflichten des Verantwortlichen, Interessen der Rechtsverteidigung sowie öffentliche Interessen (öffentliche Gesundheit, wissenschaftliche und Archivzwecke) beschränkt sein.
+Die Frist zur Löschung wird durch die DSGVO auf einen Monat verkürzt. U.U. ist eine Verlängerung auf drei Monate möglich.
+
+4. Neu: Das Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO). Es handelt sich um ein zeitlich beschränktes bzw. bedingtes Recht. Die Voraussetzungen sind:
+* a. die Richtigkeit der Daten wird bestritten;
+* b. die Rechtmäßigkeit der Datenverarbeitung wird bestritten, der Betroffene selbst lehnt aber die Löschung ab;
+* c. der Betroffene benötigt die Daten, deren Verarbeitungszweck weggefallen ist, für die Geltendmachung von Rechtsansprüchen;
+* d. der Betroffene hat Widerspruch gegen die Datenverarbeitung eingelegt.
+
+Daten, hinsichtlich derer das Recht auf Einschränkung der Verarbeitung ausgeübt worden ist, dürfen nur mehr mit Zustimmung des Betroffenen, zur Geltendmachung von Rechtsansprüchen, zum Schutz der Rechte anderer oder aus wichtigen öffentlichen Interessen verarbeitet werden.
+In den Fällen a. und d. ist die Einschränkung auf die Dauer der Prüfung des Hauptanspruchs (auf Löschung) beschränkt. Der Betroffene muss vor Aufhebung der Einschränkung informiert werden.
+Datenempfänger sind, wenn nicht unmöglich oder mit unverhältnismäßigem Aufwand verbunden, über Einschränkungen zu informieren. Der Betroffene kann verlangen, über die Empfänger der Daten informiert zu werden.
+Die Frist zur Einschränkung der Verarbeitung beträgt einen Monat. U.U. ist eine Verlängerung auf drei Monate möglich.
+
+5. Neu: Das Recht auf Datenübertragbarkeit (Art. 20 DSGVO). Es soll sicherstellen, dass der Betroffene eigene Daten, die er selbst einem Verantwortlichen bekanntgegeben (sie „bereitgestellt“) hat, zurückerhalten oder einem neuen Verantwortlichen übergeben kann. Zu denken ist etwa an selbst erstellte Profile in sozialen Netzwerken. Die Verantwortlichen sollen nach Möglichkeit eine direkte, technische Übertragbarkeit sicherstellen, zwingend ist dies aber nicht vorgeschrieben. Die Daten anderer Personen als des Betroffenen unterliegen nicht diesem Recht.
+
+6. Das Recht auf Widerspruch (Art. 21 DSGVO). Durch die Ausübung dieses Rechts kann der Betroffene bei einer Datenverarbeitung, die ohne seine ausdrückliche oder implizite Einwilligung stattfindet (etwa auf Grund einer gesetzlichen Ermächtigung oder wegen vom Verantwortlichen behaupteter überwiegender berechtigter Interessen) eine Prüfung von ihm vorgebrachter Gründe für eine Beendigung der Verarbeitung verlangen. Gegen Datenverarbeitung für Zwecke der Direktwerbung und damit verbundenes Profiling (automatische Bewertung einer Person und ihres Verhaltens, z.B. Kaufkrafteinschätzung, Einordnung in eine Marketing-Zielgruppe) ist ein jederzeitiger Widerspruch ohne Angabe von Gründen möglich. Ist der Widerspruch begründet, sind die Daten zu löschen.
+Die Frist zur Entscheidung über einen Widerspruch beträgt einen Monat. U.U. ist eine Verlängerung auf drei Monate möglich.
+
+7. Rechte betreffend automatisierte Einzelentscheidungen und Profiling (Art. 22 DSGVO). Die DSGVO verbietet solche Entscheidungen (z.B. bei Verhängung von Verwaltungsstrafen, Steuervorschreibungen, Entscheidung über Stellenbewerbungen, Kreditgewährung, Vertragsabschlüssen allgemein, Einordnung in eine Marketing-Zielgruppe) zunächst grundsätzlich, sieht aber einige Ausnahmen vor. Ausnahmegründe sind gesetzlich vorgeschriebene Anwendungsfälle, ausdrückliche und nachweisliche Einwilligung des Betroffenen und Sorgfaltspflichten anlässlich eines Vertragsabschlusses. Nicht der gesamte Entscheidungsprozess muss ausschließlich automatisiert ablaufen. Er darf sich nie ausschließlich (und nur unter besonderen Bedingungen) auf sensible Daten (besondere Datenkategorien, Art. 9 Abs. 1 DSGVO) stützen. Der Betroffene kann vor allem die Überprüfung der automatisierten Entscheidung durch einen Menschen verlangen und hat ein besonderes Auskunftsrecht hinsichtlich der Logik der automatisierten Entscheidungsfindung
+Die Frist zur Entscheidung über Rechte betreffend automatisierte Entscheidungsfindung beträgt einen Monat. U.U. ist eine Verlängerung auf drei Monate möglich.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 15. Auskunftsrecht der betroffenen Person; DSGVO:Artikel 16. Recht auf Berichtigung; DSGVO:Artikel 17. Recht auf Löschung („Recht auf Vergessenwerden“); DSGVO:Artikel 18. Recht auf Einschränkung der Verarbeitung; DSGVO:Artikel 20. Recht auf Datenübertragbarkeit; DSGVO:Artikel 21. Widerspruchsrecht; DSGVO:Artikel 22. Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
+}}</text>
+      <sha1>apsmu02p254omx8amk9shb7u8thh7ow</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Welche neuen Pflichten gibt es für Veranwortliche und Auftragsverarbeiter?</title>
+    <ns>2006</ns>
+    <id>451</id>
+    <revision>
+      <id>1675</id>
+      <parentid>1576</parentid>
+      <timestamp>2018-01-12T14:54:03Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12896">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Wesentliche Pflichten
+|Stichwort=Pflichten, Verantwortliche, Auftragsverarbeiter
+|Fragetext=Welche neuen Pflichten gibt es für Verantwortliche und Auftragsverarbeiter?
+|Antwort=Im Folgenden erhalten Sie einen kurzen Überblick über die wesentlichsten Pflichten, welche auf die Verantwortlichen bzw. auf die Auftragsverarbeiter im Zuge der DSGVO zukommen werden:
+
+
+'''*Verzeichnis von Verarbeitungstätigkeiten (Art. 30)'''
+
+Verantwortliche müssen schriftlich ein Verzeichnis aller Verarbeitungstätigkeiten (= Datenanwendungen), die ihrer Zuständigkeit unterliegen, führen. Dieses Verzeichnis hat jedenfalls zu enthalten: seinen Namen und seine Kontaktdaten, Daten eines mit ihm gemeinsamen Verantwortlichen (falls vorhanden), Daten seines Vertreters (falls vorhanden), Daten des Datenschutzbeauftragten falls vorhanden), die Zwecke der Verarbeitung, die Beschreibung der Kategorien betroffener Personen und der Kategorien personenbezogener Daten (= betroffene Personenkreise und Datenarten), Kategorien von Empfängern (einschließlich Empfänger in Drittländern oder internationalen Organisationen); wenn möglich: Löschungsfristen, Beschreibung technischer und organisatorischer Maßnahmen.
+Auch Auftragsverarbeiter müssen schriftlich ein Verzeichnis aller Kategorien von im Auftrag des Verantwortlichen durchgeführten Tätigkeiten führen.
+
+Der Verantwortliche, sein Auftragsverarbeiter oder gegebenenfalls deren Vertreter haben der Datenschutzbehörde auf deren Anfrage das Verzeichnis zur Verfügung zu stellen.
+Unternehmen oder Einrichtungen, die weniger als 250 Mitarbeiter beschäftigen, trifft die Pflicht zur Führung eines Verzeichnisses nicht, außer eine Verarbeitung birgt ein Risiko für Rechte und Freiheiten der Betroffenen oder sie erfolgt nicht nur gelegentlich oder umfasst Daten über rassische und ethnische Herkunft, politische Meinungen, religiöse oder weltanschauliche Überzeugungen, Gewerkschaftszugehörigkeit, genetische Daten, biometrische Daten zur Identifizierung einer natürlichen Person, Gesundheitsdaten oder Daten zum Sexualleben oder der sexuellen Orientierung (Art. 9 Abs. 1) oder Daten über strafrechtliche Verurteilungen bzw. über Straftaten (Art. 10).
+
+'''Zur Information:'''&lt;br /&gt;
+Mit 25. Mai 2018 entfällt die Meldepflicht gemäß §§ 17 ff Datenschutzgesetz 2000 (DSG 2000) an das Datenverarbeitungsregister. DVR-Meldungen sind ab diesem Zeitpunkt nicht mehr vorgesehen (siehe dazu auch die Information unter Punkt 11).&lt;br /&gt;
+
+Da die Erstellung und Führung eines Verzeichnisses nach Art. 30 DSGVO ausschließliche Verantwortung von Verantwortlichen/Auftragsverarbeitern ist, bleibt es nach Ansicht der Datenschutzbehörde auch diesen überlassen, wie sie ihr Verzeichnis inhaltlich gestalten wollen. Seitens der Datenschutzbehörde wird es dazu keine Vorgaben/kein Muster geben. DVR-Meldungen können als Vorlage für ein Verzeichnis herangezogen werden, zwingend ist dies jedoch nicht. Seit August 2017 wird im DVR-ONLINE-Meldebereich eines jeden Auftraggebers eine Schnittstelle zur Verfügung gestellt, sodass bestehende DVR-Meldungen exportiert und in ein Verzeichnis nach Art. 30 DSGVO übertragen werden können.
+
+
+'''*Zusammenarbeit mit der Aufsichtsbehörde (Art. 31)'''
+
+Der Verantwortliche und der Auftragsverarbeiter, gegebenenfalls deren Vertreter, haben mit der Datenschutzbehörde auf deren Anfrage zusammenzuarbeiten.
+
+'''*Sicherheit der Verarbeitung (Art. 32)'''
+
+Der Verantwortliche und sein Auftragsverarbeiter müssen durch geeignete technische und organisatorische Maßnahmen ein angemessenes Schutzniveau gewährleisten, dies kann
+u.a. nachgewiesen werden durch genehmigte Verhaltensregeln (Art. 40) oder aufgrund genehmigter Zertifizierungsverfahrens (Art. 42).
+
+'''*Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde (Art. 33)'''
+
+Ein Verantwortlicher hat eine Meldung im Falle einer Verletzung des Schutzes personenbezogener Daten an die Datenschutzbehörde zu erstatten, wenn dadurch ein Risiko für die Rechte und Freiheiten der Betroffenen besteht; dies unverzüglich und möglichst binnen 72 Stunden nachdem ihm die Verletzung bekannt wurde. Darüber hinaus sind die notwendigen Informationen (Beschreibung der Verletzung, Anzahl der Betroffenen bzw. der Datensätze, Maßnahmen, wahrscheinliche Folgen, Dokumentation etc.) der Datenschutzbehörde zu übermitteln.
+
+'''*Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person (Art. 34)'''
+
+Ein Verantwortlicher hat Betroffene über die von ihm verursachten Datenschutzverletzungen zu benachrichtigen, wenn ein hohes Risiko für Rechte und Freiheiten der Betroffenen besteht; dies ohne ungebührliche Verzögerung (Ausnahmen sind hier möglich).
+
+'''*Datenschutz-Folgenabschätzung (Art. 35)'''
+
+Hat eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge, so hat der Verantwortliche vorab eine Abschätzung der Folgen der vorgesehenen Verarbeitungsvorgänge für den Schutz personenbezogener Daten durchzuführen.
+Eine Datenschutz-Folgenabschätzung ist insbesondere in folgenden Fällen erforderlich:
+• systematische und umfassende Bewertung persönlicher Aspekte natürlicher Personen, die sich auf automatisierte Verarbeitung einschließlich Profiling gründet und die ihrerseits als Grundlage für Entscheidungen dient, die Rechtswirkung gegenüber natürlichen Personen entfalten oder diese in ähnlich erheblicher Weise beeinträchtigen;
+• umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten gemäß Art. 9 Abs. 1 oder von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten gemäß Art. 10 oder
+• systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
+Die Datenschutzbehörde hat eine Liste der Verarbeitungsvorgänge zu erstellen und zu veröffentlichen, für die eine Datenschutz-Folgenabschätzung jedenfalls durchzuführen ist. Sie wird eine Liste der Verarbeitungsvorgänge, bei denen keine Datenschutz-Folgenabschätzung durchzuführen ist, veröffentlichen. Auch Rechtsvorschriften können eine verpflichtende Datenschutz-Folgenabschätzung vorsehen.
+Die Datenschutz-Folgenabschätzung hat zumindest zu enthalten:
+• eine systematische Beschreibung der geplanten Verarbeitungsvorgänge und der Zwecke der Verarbeitung, gegebenenfalls einschließlich der von dem Verantwortlichen verfolgten berechtigten Interessen;
+• eine Bewertung der Notwendigkeit und Verhältnismäßigkeit der Verarbeitungsvorgänge in Bezug auf den Zweck;
+• eine Bewertung der Risiken für die Rechte und Freiheiten der betroffenen Personen und
+• die zur Bewältigung der Risiken geplanten Abhilfemaßnahmen, einschließlich Garantien, Sicherheitsvorkehrungen und Verfahren, durch die der Schutz personenbezogener Daten sichergestellt und der Nachweis dafür erbracht wird, dass diese Verordnung eingehalten wird, wobei den Rechten und berechtigten Interessen der betroffenen Personen und sonstiger Betroffener Rechnung getragen wird.
+Für die Untersuchung mehrerer ähnlicher Verarbeitungsvorgänge mit ähnlich hohen Risiken kann eine einzige Datenschutz-Folgenabschätzung vorgenommen werden.
+
+'''Hinweis:'''
+
+• In der Leitlinie der Art. 29-Gruppe zur Datenschutz-Folgenabschätzung (siehe dazu oben Kapitel IV) werden neun Kriterien angeführt, die für die Durchführung einer Datenschutz-Folgenabschätzung ausschlaggebend sein können.
+• In der genannten Leitlinie finden sich Hinweise auf bereits etablierte Verfahren für Datenschutz-Folgenabschätzungen.
+• Für bereits existierende Verarbeitungsvorgänge (Datenanwendungen) ist grundsätzlich keine Datenschutz-Folgenabschätzung durchzuführen, wenn diese Verarbeitungsvorgänge durch die Datenschutzbehörde bereits zu einem früheren Zeitpunkt im Zuge einer DVR-Registrierung im Rahmen eines Vorabkontrollverfahrens gemäß § 18 Datenschutzgesetz 2000 (DSG 2000) genehmigt wurden. Bei der automatischen Registrierung über DVR-Online oder in Fällen, in denen die Datenschutzbehörde eine Datenanwendung registriert hat, jedoch kein Fall der Vorabkontrolle vorgelegen ist (das betrifft nichtvorabkontrollpflichtige Meldungen vor dem 1. September 2012), kommt dies hingegen nicht in Betracht. Kommt es jedoch zu einer Änderung bestehender Verarbeitungsvorgänge, ist sehr wohl eine Datenschutz-Folgenabschätzung durchzuführen, wenn die Voraussetzungen des Art. 35 Abs. 1 DSGVO zutreffen. Generell wird empfohlen, bereits existierende Datenverarbeitungsvorgänge einer regelmäßigen Evaluierung zu unterziehen, ob sich Voraussetzungen geändert haben. Bejahendenfalls wäre - bei Vorliegen aller Voraussetzungen - eine Datenschutz-Folgenabschätzung durchzuführen. Überdies wird empfohlen, auch zu dokumentieren, aus welchen Gründen keine Datenschutz-Folgenabschätzung durchgeführt wurde.
+
+'''*Vorherige Konsultation (Art. 36)'''
+
+Der Verantwortliche hat vor Beginn der Verarbeitung die Datenschutzbehörde zu konsultieren, wenn aus einer Datenschutz-Folgenabschätzung gemäß Art. 35 hervorgeht, dass die Verarbeitung ein hohes Risiko zur Folge hätte, sofern der Verantwortliche keine Maßnahmen zur Eindämmung des Risikos trifft.
+Sollte die Datenschutzbehörde zur Auffassung gelangen, dass die geplante Verarbeitung nicht im Einklang mit der DSGVO stünde, insbesondere weil der Verantwortliche das Risiko nicht ausreichend ermittelt oder nicht ausreichend eingedämmt hat, unterbreitet sie dem Verantwortlichen (und gegebenenfalls dem Auftragsverarbeiter) entsprechende schriftliche Empfehlungen und kann ihre in Art. 58 genannten Befugnisse ausüben.
+Der Verantwortliche hat der Datenschutzbehörde im Rahmen einer Konsultation folgende Informationen zur Verfügung zu stellen:
+• gegebenenfalls Angaben zu den jeweiligen Zuständigkeiten des Verantwortlichen, der gemeinsam Verantwortlichen und der an der Verarbeitung beteiligten Auftragsverarbeiter, insbesondere bei einer Verarbeitung innerhalb einer Gruppe von Unternehmen;
+• die Zwecke und die Mittel der beabsichtigten Verarbeitung;
+• die zum Schutz der Rechte und Freiheiten der betroffenen Personen gemäß der DSGVO vorgesehenen Maßnahmen und Garantien;
+• gegebenenfalls die Kontaktdaten des Datenschutzbeauftragten;
+• die Datenschutz-Folgenabschätzung gemäß Art. 35 und
+• alle sonstigen von der Aufsichtsbehörde angeforderten Informationen.
+Darüber hinaus können Verantwortliche durch Rechtsvorschriften verpflichtet werden, bei der Verarbeitung zur Erfüllung einer im öffentlichen Interesse liegenden Aufgabe, einschließlich der Verarbeitung zu Zwecken der sozialen Sicherheit und der öffentlichen Gesundheit, die Aufsichtsbehörde zu konsultieren und deren vorherige Genehmigung einzuholen.
+
+'''*Benennung eines Datenschutzbeauftragten (Art. 37)'''
+
+Der Verantwortliche und der Auftragsverarbeiter haben einen Datenschutzbeauftragten zu benennen, wenn:
+• die Verarbeitung von einer Behörde oder öffentlichen Stelle durchgeführt wird, mit Ausnahme von Gerichten, die im Rahmen ihrer justiziellen Tätigkeit handeln,
+• die Kerntätigkeit des Verantwortlichen oder des Auftragsverarbeiters in der Durchführung von Verarbeitungsvorgängen besteht, welche aufgrund ihrer Art, ihres Umfangs und/oder ihrer Zwecke eine umfangreiche regelmäßige und systematische Überwachung von betroffenen Personen erforderlich machen, oder
+• die Kerntätigkeit des Verantwortlichen oder des Auftragsverarbeiters in der umfangreichen Verarbeitung besonderer Kategorien von Daten gemäß Art. 9 oder von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten gemäß Art. 10 besteht.
+Andere Verantwortliche oder Auftragsverarbeiter können einen Datenschutzbeauftragten auf freiwilliger Basis bestellen. Eine Gruppe von Unternehmen bzw. öffentliche Einrichtungen können einen gemeinsamen Datenschutzbeauftragten benennen. Die Kontaktdaten des Datenschutzbeauftragten sind zu veröffentlichen und der Datenschutzbehörde mitzuteilen.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 30. Verzeichnis von Verarbeitungstätigkeiten; DSGVO:Artikel 31. Zusammenarbeit mit der Aufsichtsbehörde; DSGVO:Artikel 32. Sicherheit der Verarbeitung; DSGVO:Artikel 33. Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde; DSGVO:Artikel 34. Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person; DSGVO:Artikel 35. Datenschutz-Folgenabschätzung; DSGVO:Artikel 36. Vorherige Konsultation; DSGVO:Artikel 37. Benennung eines Datenschutzbeauftragten
+}}</text>
+      <sha1>7rsy4m99uuqzgej2p5v611150qneg60</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Wird es eine Frist nach dem 25.05.2018 geben, während derer keine Geldbußen verhängt werden?</title>
+    <ns>2006</ns>
+    <id>482</id>
+    <revision>
+      <id>1819</id>
+      <parentid>1649</parentid>
+      <timestamp>2018-01-18T13:47:19Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="489">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Geldbußen
+|Stichwort=Geldbußen, Nachfrist
+|Fragetext=Wird es eine Frist nach dem 25.05.2018 geben, während derer keine Geldbußen verhängt werden?
+|Antwort=Die DSGVO sieht keine Übergangsfrist vor. Es wird jeder Fall einzeln beurteilt und das Erfordernis der Verhängung einer Geldbuße durch die Datenschutzbehörde geprüft werden.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+}}</text>
+      <sha1>ahm5ysvs24bm4t7h2g97odix3pp05m2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Wofür muss ich haften?</title>
+    <ns>2006</ns>
+    <id>487</id>
+    <revision>
+      <id>1666</id>
+      <parentid>1664</parentid>
+      <timestamp>2018-01-12T14:05:14Z</timestamp>
+      <contributor>
+        <username>Etzlstorfer</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1080">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Haftung
+|Stichwort=Haftung
+|Fragetext=Wofür muss ich haften?
+|Antwort=Jeder (natürliche) Person, der durch einen Verstoß gegen die DSGVO ein materieller oder immaterieller Schaden entstanden ist, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder gegen den Auftragsverarbeiter. Dabei haftet jeder Verantwortliche der an der Verarbeitung beteiligt war zur Gänze. Der Auftragsverarbeiter haftet, sofern er seine speziellen Pflichten nicht erfüllt oder die Anweisungen des Verantwortlichen nicht (zur Gänze) befolgt hat. Im Innenverhältnis kann sich der Beanspruchte im Verhältnis der Verantwortlichkeit an anderen Beteiligten regressieren.
+
+
+Damit soll ein wirksamer Rechtsschutz gewährleistet werden.
+
+Keine Haftung tritt ein, wenn weder Verantwortlicher noch Auftraggeber für den Umstand durch welchen der Schaden eintrat, verantwortlich ist.
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 82. Haftung und Recht auf Schadenersatz
+}}</text>
+      <sha1>e51v5arbs7ikqbi3tcjcifdqld04yn0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Worauf findet die DSGVO KEINE Anwendung?</title>
+    <ns>2006</ns>
+    <id>318</id>
+    <revision>
+      <id>2095</id>
+      <parentid>1808</parentid>
+      <timestamp>2018-01-26T14:13:22Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1103">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Geltungsbereich
+|Stichwort=Geltungsbereich, Ausnahmen
+|Fragetext=Worauf findet die DSGVO KEINE Anwendung?
+|Antwort=Die DSGVO findet Anwendung auf die ganz oder teilweise automatisierte Verarbeitung personenbezogener Daten sowie für die nichtautomatisierte Verarbeitung von personenbezogenen Daten, die in einem Dateisystem gespeichert sind oder gespeichert werden sollen.
+
+Auf folgende Bereiche findet die DSGVO keine Anwendung:
+* Tätigkeiten, die nicht in den Anwendungsbereich des Unionsrechts fallen
+* Tätigkeiten im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik
+* Datenverwendung im Rahmen ausschließlich persönlicher oder familiärer Tätigkeiten
+* Tätigkeiten der zuständigen Behörden zur Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder Strafvollstreckung, einschließlich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 2. Sachlicher Anwendungsbereich
+}}</text>
+      <sha1>jwgxruii5onhy5mbtlxcm6o2db2a3dm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellung:Worüber muss ich Betroffene bei der Erhebung ihrer Daten informieren?</title>
+    <ns>2006</ns>
+    <id>446</id>
+    <revision>
+      <id>1679</id>
+      <parentid>1563</parentid>
+      <timestamp>2018-01-12T14:55:21Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1344">{{Fragestellung
+|Status der Fragestellung=3 - teilweise beantwortet
+|Thema=Informationspflicht
+|Stichwort=Informationspflicht
+|Fragetext=Worüber muss ich Betroffene bei der Erhebung ihrer Daten informieren? Gibt es davon Ausnahmen?
+|Antwort=Wenn sie die Daten direkt bei den jeweiligen Betroffenen erheben, müssen Sie den Betroffenen sämtliche Informationen wie in Artikel 13 DSGVO vorgesehen mitteilen. Eine Ausnahme von der Informationspflicht besteht nur dann, wenn die Betroffenen bereits über diese Informationen verfügen.
+
+Wenn Sie Daten verarbeiten wollen, die Sie nicht bei den Betroffenen selbst erhoben haben, müssen Sie den Betroffenen sämtliche Informationen wie in Artikel 14 DSGVO vorgesehen mitteilen. Dies kann unterbleiben, wenn die Betroffenen über die Informationen bereits verfügen, die Erteilung der Information unmöglich oder mit unverhältnismäßigem Aufwand verbunden ist, die Verarbeitung gesetzlich vorgesehen ist oder die Daten dem Berufsgeheimnis unterliegen (vgl. Artikel 14. Abs. 5 DSGVO).
+|Beantwortet durch=Datenschutzbehörde,
+|Quelle=File:DSGVO-Leitfaden.pdf
+|Paragraph=DSGVO:Artikel 13. Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person; DSGVO:Artikel 14. Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
+}}</text>
+      <sha1>nzgun8qd6t0qpl0s9qwvjionh2jjc4b</sha1>
+    </revision>
+  </page>
+</mediawiki>

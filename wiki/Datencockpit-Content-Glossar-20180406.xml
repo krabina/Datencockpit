@@ -1,0 +1,686 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de-formal">
+  <siteinfo>
+    <sitename>Datencockpit</sitename>
+    <dbname>kdz_datencockpit</dbname>
+    <base>http://www.datencockpit.at/Datencockpit</base>
+    <generator>MediaWiki 1.27.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Datencockpit</namespace>
+      <namespace key="5" case="first-letter">Datencockpit Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="102" case="first-letter">Attribut</namespace>
+      <namespace key="103" case="first-letter">Attribut Diskussion</namespace>
+      <namespace key="106" case="first-letter">Formular</namespace>
+      <namespace key="107" case="first-letter">Formular Diskussion</namespace>
+      <namespace key="108" case="first-letter">Konzept</namespace>
+      <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
+      <namespace key="170" case="first-letter">Filter</namespace>
+      <namespace key="171" case="first-letter">Filter Diskussion</namespace>
+      <namespace key="190" case="first-letter">Glossar</namespace>
+      <namespace key="191" case="first-letter">Glossar talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="700" case="first-letter">Comment</namespace>
+      <namespace key="701" case="first-letter">Comment talk</namespace>
+      <namespace key="2000" case="first-letter">DSGVO</namespace>
+      <namespace key="2001" case="first-letter">DSGVO talk</namespace>
+      <namespace key="2002" case="first-letter">DSG</namespace>
+      <namespace key="2003" case="first-letter">DSG talk</namespace>
+      <namespace key="2004" case="first-letter">Neuigkeiten</namespace>
+      <namespace key="2005" case="first-letter">Neuigkeiten talk</namespace>
+      <namespace key="2006" case="first-letter">Fragestellung</namespace>
+      <namespace key="2007" case="first-letter">Fragestellung talk</namespace>
+      <namespace key="2008" case="first-letter">Verfahren</namespace>
+      <namespace key="2009" case="first-letter">Verfahren talk</namespace>
+      <namespace key="2010" case="first-letter">Folgen</namespace>
+      <namespace key="2011" case="first-letter">Folgen talk</namespace>
+      <namespace key="2012" case="first-letter">Verletzung</namespace>
+      <namespace key="2013" case="first-letter">Verletzung talk</namespace>
+      <namespace key="2014" case="first-letter">Auskunft</namespace>
+      <namespace key="2015" case="first-letter">Auskunft talk</namespace>
+      <namespace key="2016" case="first-letter">Berichtigung</namespace>
+      <namespace key="2017" case="first-letter">Berichtigung talk</namespace>
+      <namespace key="2018" case="first-letter">Anwendung</namespace>
+      <namespace key="2019" case="first-letter">Anwendung talk</namespace>
+      <namespace key="2020" case="first-letter">Abteilung</namespace>
+      <namespace key="2021" case="first-letter">Abteilung talk</namespace>
+      <namespace key="2022" case="first-letter">Thema</namespace>
+      <namespace key="2023" case="first-letter">Thema talk</namespace>
+      <namespace key="2024" case="first-letter">Information</namespace>
+      <namespace key="2025" case="first-letter">Information talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Glossar:Aufsichtsbehörde</title>
+    <ns>190</ns>
+    <id>193</id>
+    <revision>
+      <id>536</id>
+      <timestamp>2017-10-30T11:51:35Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine von einem Mitgliedstaat gemäß Artikel 51 eingerichtete unabhängige staatliche Stelle (siehe Art. 4 DSGVO) }}“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="147">{{Glossar
+|Glossary-Definition=eine von einem Mitgliedstaat gemäß Artikel 51 eingerichtete unabhängige staatliche Stelle (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>p56m6g4v5vrckl7ayoz626h7fafljx0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Auftragsverarbeiter</title>
+    <ns>190</ns>
+    <id>179</id>
+    <revision>
+      <id>522</id>
+      <timestamp>2017-10-30T11:38:43Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Ve…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="209">{{Glossar
+|Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>jgft1aw6k1hldqole7wmqlfwmvzqyys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Betroffene Aufsichtsbehörde</title>
+    <ns>190</ns>
+    <id>194</id>
+    <revision>
+      <id>537</id>
+      <timestamp>2017-10-30T11:52:14Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine Aufsichtsbehörde, die von der Verarbeitung personenbezogener Daten betroffen ist, weil  a) der Verantwortliche oder der Au…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="496">{{Glossar
+|Glossary-Definition=eine Aufsichtsbehörde, die von der Verarbeitung personenbezogener Daten betroffen ist, weil
+a) der Verantwortliche oder der Auftragsverarbeiter im Hoheitsgebiet des Mitgliedstaats dieser Aufsichtsbehörde niedergelassen ist,
+b) diese Verarbeitung erhebliche Auswirkungen auf betroffene Personen mit Wohnsitz im Mitgliedstaat dieser Aufsichtsbehörde hat oder haben kann oder
+c) eine Beschwerde bei dieser Aufsichtsbehörde eingereicht wurde
+(siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>rh949qzq4r910ikvyz3v7n4039yu0dd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Biometrische Daten</title>
+    <ns>190</ns>
+    <id>185</id>
+    <revision>
+      <id>528</id>
+      <timestamp>2017-10-30T11:42:55Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypische…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="340">{{Glossar
+|Glossary-Definition=mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie Gesichtsbilder oder daktyloskopische Daten
+}}</text>
+      <sha1>d827k41guysqjaebn8xaatnhklurqff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:DSB</title>
+    <ns>190</ns>
+    <id>71</id>
+    <revision>
+      <id>136</id>
+      <timestamp>2017-10-25T11:44:54Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=Datenschutzbehörde |External-Link=https://www.dsb.gv.at/ }}“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="91">{{Glossar
+|Glossary-Definition=Datenschutzbehörde
+|External-Link=https://www.dsb.gv.at/
+}}</text>
+      <sha1>fpx8t6oa33184zk94aamxidewqbugd7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:DSG</title>
+    <ns>190</ns>
+    <id>375</id>
+    <revision>
+      <id>2883</id>
+      <parentid>2881</parentid>
+      <timestamp>2018-03-22T19:12:17Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Änderung 2881 von [[Special:Contributions/Melnicki|Melnicki]] ([[User talk:Melnicki|Diskussion]]) rückgängig gemacht.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="316">{{Glossar
+|Glossary-Definition=Datenschutzgesetz. 
+* Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten
+* auch: Datenschutz-Anpassungsgesetz 2018
+|External-Link=https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10001597&amp;FassungVom=2018-05-25
+}}</text>
+      <sha1>cep5k709clx37741yvyez152xy30bfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:DSGVO</title>
+    <ns>190</ns>
+    <id>56</id>
+    <revision>
+      <id>135</id>
+      <parentid>134</parentid>
+      <timestamp>2017-10-25T11:43:49Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="147">{{Glossar
+|Glossary-Definition=EU Datenschutz-Grundverordnung
+|External-Link=http://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679
+}}</text>
+      <sha1>mhgmt99ketayf5xt48swz6qdlbwarm9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:DSRL</title>
+    <ns>190</ns>
+    <id>441</id>
+    <revision>
+      <id>1497</id>
+      <timestamp>2018-01-12T08:06:47Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=Datenschutz-Richtlinie (Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlic…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="382">{{Glossar
+|Glossary-Definition=Datenschutz-Richtlinie (Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr), die durch die DSGVO aufgehoben wird.
+|External-Link=http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:31995L0046&amp;from=DE
+}}</text>
+      <sha1>jr5dlspjihqlcwlm0msup22eeo4kd5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Dateisystem</title>
+    <ns>190</ns>
+    <id>177</id>
+    <revision>
+      <id>520</id>
+      <timestamp>2017-10-30T11:36:53Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=jede strukturierte Sammlung personenbezogener Daten, die nach bestimmten Kriterien zugänglich sind, unabhängig davon, ob diese…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="291">{{Glossar
+|Glossary-Definition=jede strukturierte Sammlung personenbezogener Daten, die nach bestimmten Kriterien zugänglich sind, unabhängig davon, ob diese Sammlung zentral, dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet geführt wird (siehe Art. 4 DSGO)
+}}</text>
+      <sha1>jlwxynusquki8ipw8yr39tdjig9y03s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Dienst der Informationsgesellschaft</title>
+    <ns>190</ns>
+    <id>197</id>
+    <revision>
+      <id>656</id>
+      <parentid>655</parentid>
+      <timestamp>2017-10-30T15:08:59Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="606">{{Glossar
+|Glossary-Definition=eine Dienstleistung im Sinne des Artikels 1 Nummer 1 Buchstabe b der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates*
+|External-Link=http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L:2015:241:TOCRichtlinie
+}}
+* [http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L:2015:241:TOCRichtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).]</text>
+      <sha1>740sftc56s542ijnzx6bya7y4thhq01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Dritter</title>
+    <ns>190</ns>
+    <id>181</id>
+    <revision>
+      <id>524</id>
+      <timestamp>2017-10-30T11:39:47Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, außer der betroffenen Person, dem Verantwor…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="382">{{Glossar
+|Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, außer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>858fnp5apw7hi96acyd0kox39jsv5xw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Einschränkung der Verarbeitung</title>
+    <ns>190</ns>
+    <id>174</id>
+    <revision>
+      <id>517</id>
+      <timestamp>2017-10-30T11:32:17Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken (siehe Art. 4. DS…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="166">{{Glossar
+|Glossary-Definition=die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken (siehe Art. 4. DSGVO)
+}}</text>
+      <sha1>87j57kwkwkw97570tijio4wvnjxtvs5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Einwilligung</title>
+    <ns>190</ns>
+    <id>182</id>
+    <revision>
+      <id>525</id>
+      <timestamp>2017-10-30T11:40:53Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=der betroffenen Person jede freiwillig für den bestimmten Fall, in informierter Weise und unmissverständlich abgegebene Willen…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="419">{{Glossar
+|Glossary-Definition=der betroffenen Person jede freiwillig für den bestimmten Fall, in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist (siehe Art. 4. DSGVO)
+}}</text>
+      <sha1>7q7l6sml2kbj0fe9j928gwqc9jyhxvp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Empfänger</title>
+    <ns>190</ns>
+    <id>180</id>
+    <revision>
+      <id>523</id>
+      <timestamp>2017-10-30T11:39:19Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werde…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="624">{{Glossar
+|Glossary-Definition=eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im Einklang mit den geltenden Datenschutzvorschriften gemäß den Zwecken der Verarbeitung (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>128dhbcpqmivrzn7ptwosrqy09r7c71</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Genetische Daten</title>
+    <ns>190</ns>
+    <id>184</id>
+    <revision>
+      <id>527</id>
+      <timestamp>2017-10-30T11:42:07Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=personenbezogene Daten zu den ererbten oder erworbenen genetischen Eigenschaften einer natürlichen Person, die eindeutige Infor…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="379">{{Glossar
+|Glossary-Definition=personenbezogene Daten zu den ererbten oder erworbenen genetischen Eigenschaften einer natürlichen Person, die eindeutige Informationen über die Physiologie oder die Gesundheit dieser natürlichen Person liefern und insbesondere aus der Analyse einer biologischen Probe der betreffenden natürlichen Person gewonnen wurden (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>tlmd1yexpb11drjn4ymgd91h5hjk9au</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Gesundheitsdaten</title>
+    <ns>190</ns>
+    <id>186</id>
+    <revision>
+      <id>529</id>
+      <timestamp>2017-10-30T11:43:20Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=personenbezogene Daten, die sich auf die körperliche oder geistige Gesundheit einer natürlichen Person, einschließlich der Er…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="304">{{Glossar
+|Glossary-Definition=personenbezogene Daten, die sich auf die körperliche oder geistige Gesundheit einer natürlichen Person, einschließlich der Erbringung von Gesundheitsdienstleistungen, beziehen und aus denen Informationen über deren Gesundheitszustand hervorgehen (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>77xtrn9lkhs31ky7gj1iuamcjpjefc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Grenzüberschreitende Verarbeitung</title>
+    <ns>190</ns>
+    <id>195</id>
+    <revision>
+      <id>2867</id>
+      <parentid>538</parentid>
+      <timestamp>2018-03-16T14:51:24Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="672">{{Glossar
+|Glossary-Definition=entweder
+a) eine Verarbeitung personenbezogener Daten, die im Rahmen der Tätigkeiten von Niederlassungen eines Verantwortlichen oder eines Auftragsverarbeiters in der Union in mehr als einem Mitgliedstaat erfolgt, wenn der Verantwortliche oder Auftragsverarbeiter in mehr als einem Mitgliedstaat niedergelassen ist, oder
+
+b) eine Verarbeitung personenbezogener Daten, die im Rahmen der Tätigkeiten einer einzelnen Niederlassung eines Verantwortlichen oder eines Auftragsverarbeiters in der Union erfolgt, die jedoch erhebliche Auswirkungen auf betroffene Personen in mehr als einem Mitgliedstaat hat oder haben kann (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>dug4989ydn88bjncr9rwnd37d7hvygc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Hauptniederlassung</title>
+    <ns>190</ns>
+    <id>187</id>
+    <revision>
+      <id>708</id>
+      <parentid>701</parentid>
+      <timestamp>2017-10-30T17:18:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1049">{{Glossar
+|Glossary-Definition=a) im Falle eines Verantwortlichen mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung in der Union, es sei denn, die Entscheidungen hinsichtlich der Zwecke und Mittel der Verarbeitung personenbezogener Daten werden in einer anderen Niederlassung des Verantwortlichen in der Union getroffen und diese Niederlassung ist befugt, diese Entscheidungen umsetzen zu lassen; in diesem Fall gilt die Niederlassung, die derartige Entscheidungen trifft, als Hauptniederlassung  
+b) im Falle eines Auftragsverarbeiters mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung in der Union oder, sofern der Auftragsverarbeiter keine Hauptverwaltung in der Union hat, die Niederlassung des Auftragsverarbeiters in der Union, in der die Verarbeitungstätigkeiten im Rahmen der Tätigkeiten einer Niederlassung eines Auftragsverarbeiters hauptsächlich stattfinden, soweit der Auftragsverarbeiter spezifischen Pflichten aus dieser Verordnung unterliegt (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>nt01r36t62y6mxe8lzbfwhpk527rxak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Internationale Organisation</title>
+    <ns>190</ns>
+    <id>198</id>
+    <revision>
+      <id>544</id>
+      <parentid>543</parentid>
+      <timestamp>2017-10-30T11:55:48Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="297">{{Glossar
+|Glossary-Definition=eine völkerrechtliche Organisation und ihre nachgeordneten Stellen oder jede sonstige Einrichtung, die durch eine zwischen zwei oder mehr Ländern geschlossene Übereinkunft oder auf der Grundlage einer solchen Übereinkunft geschaffen wurde (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>tulaqa4ahec2d8w4xr0xn21fl6515aw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Maßgeblicher und begründeter Einspruch</title>
+    <ns>190</ns>
+    <id>196</id>
+    <revision>
+      <id>539</id>
+      <timestamp>2017-10-30T11:53:52Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=einen Einspruch gegen einen Beschlussentwurf im Hinblick darauf, ob ein Verstoß gegen diese Verordnung vorliegt oder ob beabsic…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="554">{{Glossar
+|Glossary-Definition=einen Einspruch gegen einen Beschlussentwurf im Hinblick darauf, ob ein Verstoß gegen diese Verordnung vorliegt oder ob beabsichtigte Maßnahmen gegen den Verantwortlichen oder den Auftragsverarbeiter im Einklang mit dieser Verordnung steht, wobei aus diesem Einspruch die Tragweite der Risiken klar hervorgeht, die von dem Beschlussentwurf in Bezug auf die Grundrechte und Grundfreiheiten der betroffenen Personen und gegebenenfalls den freien Verkehr personenbezogener Daten in der Union ausgehen (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>k2wbijhyd4iln4ig4kb0go7bl876oii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Personenbezogene Daten</title>
+    <ns>190</ns>
+    <id>172</id>
+    <revision>
+      <id>515</id>
+      <parentid>514</parentid>
+      <timestamp>2017-10-30T11:29:01Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="642">{{Glossar
+|Glossary-Definition=alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann. (Art 4. DSGVO)
+}}</text>
+      <sha1>pnlidv7h74qi2bt3dbu08sezgnw36k3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Profiling</title>
+    <ns>190</ns>
+    <id>175</id>
+    <revision>
+      <id>518</id>
+      <timestamp>2017-10-30T11:35:18Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwend…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="532">{{Glossar
+|Glossary-Definition=jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>4v16jbf4mw99822siad7ichsu96av9p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Pseudonymisierung</title>
+    <ns>190</ns>
+    <id>176</id>
+    <revision>
+      <id>519</id>
+      <timestamp>2017-10-30T11:35:49Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Inform…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="539">{{Glossar
+|Glossary-Definition=die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>7b3dp08jyzmi4q55ssb2ojn3tig9831</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Unternehmen</title>
+    <ns>190</ns>
+    <id>189</id>
+    <revision>
+      <id>532</id>
+      <timestamp>2017-10-30T11:50:04Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine natürliche und juristische Person, die eine wirtschaftliche Tätigkeit ausübt, unabhängig von ihrer Rechtsform, einschli…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="294">{{Glossar
+|Glossary-Definition=eine natürliche und juristische Person, die eine wirtschaftliche Tätigkeit ausübt, unabhängig von ihrer Rechtsform, einschließlich Personengesellschaften oder Vereinigungen, die regelmäßig einer wirtschaftlichen Tätigkeit nachgehen (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>nhuf2lln1hmn9h8r6gy2nbg9oakps2b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Unternehmensgruppe</title>
+    <ns>190</ns>
+    <id>191</id>
+    <revision>
+      <id>534</id>
+      <timestamp>2017-10-30T11:50:32Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine Gruppe, die aus einem herrschenden Unternehmen und den von diesem abhängigen Unternehmen besteht (siehe Art. 4 DSGVO) }}“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="157">{{Glossar
+|Glossary-Definition=eine Gruppe, die aus einem herrschenden Unternehmen und den von diesem abhängigen Unternehmen besteht (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>6sntvijebvvekk76dyd6we9xs4x5bi3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Verantwortlicher</title>
+    <ns>190</ns>
+    <id>178</id>
+    <revision>
+      <id>521</id>
+      <timestamp>2017-10-30T11:37:44Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über d…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="545">{{Glossar
+|Glossary-Definition=die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet; sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>aie8cl2b2x4fv3w0yy0chmpjkjafygm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Verarbeitung</title>
+    <ns>190</ns>
+    <id>173</id>
+    <revision>
+      <id>516</id>
+      <timestamp>2017-10-30T11:31:17Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit per…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="540">{{Glossar
+|Glossary-Definition=jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung (siehe Art. 4 DSGVO).
+}}</text>
+      <sha1>24mbntzv6hjpe1y85olcpak8xwi4jbv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Verbindliche interne Datenschutzvorschriften</title>
+    <ns>190</ns>
+    <id>192</id>
+    <revision>
+      <id>535</id>
+      <timestamp>2017-10-30T11:51:09Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=Maßnahmen zum Schutz personenbezogener Daten, zu deren Einhaltung sich ein im Hoheitsgebiet eines Mitgliedstaats niedergelassen…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="554">{{Glossar
+|Glossary-Definition=Maßnahmen zum Schutz personenbezogener Daten, zu deren Einhaltung sich ein im Hoheitsgebiet eines Mitgliedstaats niedergelassener Verantwortlicher oder Auftragsverarbeiter verpflichtet im Hinblick auf Datenübermittlungen oder eine Kategorie von Datenübermittlungen personenbezogener Daten an einen Verantwortlichen oder Auftragsverarbeiter derselben Unternehmensgruppe oder derselben Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, in einem oder mehreren Drittländern (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>mqrvo53rbb2vo2jitn5fley7asx3f13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Verletzung des Schutzes personenbezogener Daten</title>
+    <ns>190</ns>
+    <id>183</id>
+    <revision>
+      <id>526</id>
+      <timestamp>2017-10-30T11:41:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine Verletzung der Sicherheit, die, ob unbeabsichtigt oder unrechtmäßig, zur Vernichtung, zum Verlust, zur Veränderung, oder…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="360">{{Glossar
+|Glossary-Definition=eine Verletzung der Sicherheit, die, ob unbeabsichtigt oder unrechtmäßig, zur Vernichtung, zum Verlust, zur Veränderung, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>2kym3y0pik7a2fgcxhoxbbntbmm9qmv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar:Vertreter</title>
+    <ns>190</ns>
+    <id>188</id>
+    <revision>
+      <id>531</id>
+      <timestamp>2017-10-30T11:49:30Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Glossar |Glossary-Definition=eine in der Union niedergelassene natürliche oder juristische Person, die von dem Verantwortlichen oder Auftragsverarbeiter sch…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="360">{{Glossar
+|Glossary-Definition=eine in der Union niedergelassene natürliche oder juristische Person, die von dem Verantwortlichen oder Auftragsverarbeiter schriftlich gemäß Artikel 27 bestellt wurde und den Verantwortlichen oder Auftragsverarbeiter in Bezug auf die ihnen jeweils nach dieser Verordnung obliegenden Pflichten vertritt (siehe Art. 4 DSGVO)
+}}</text>
+      <sha1>g887md2ukgm5jew6xjkmvsupf7c0jtq</sha1>
+    </revision>
+  </page>
+</mediawiki>
