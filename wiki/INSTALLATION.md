@@ -23,3 +23,13 @@ Bei den Content-Seiten können Sie selbst entscheiden, was Sie importieren möch
 * Datencockpit-Content-Fragestellungen-......xml (Fragestellungen)
 * Datencockpit-Content-Glossar-......xml (Glossar-Einträge)
 * Datencockpit-Content-Testinhalte-......xml (ein paar Testinhalte)
+
+## Weitere Files für das Skinning
+Das Datencockpit verwendet ein Bootstrap-Basiertes Skin. Wenn Sie dieses auch verwenden wollen, müssen Sie zusätzlich die folgenden Files in ihr Installatiosverzeichnis kopieren:
+* https://github.com/krabina/Datencockpit/blob/master/wiki/bootswatch.less
+* https://github.com/krabina/Datencockpit/blob/master/wiki/kdz-layout.xml
+* https://github.com/krabina/Datencockpit/blob/master/wiki/kdz-stylefixes.less
+* https://github.com/krabina/Datencockpit/blob/master/wiki/variables.less
+
+## LocalSettings.php
+Das File [LocalSettings.php](https://github.com/krabina/Datencockpit/blob/master/wiki/LocalSettings.php) enthält die Konfiguration von MediaWiki. Übernehmen Sie entweder die Teile daraus, die Sie in Ihrer Localsettings.php noch nicht haben oder nehmen Sie das File und ergänzen es um Ihre Einstellungen (Datenbank, E-Mail...)
