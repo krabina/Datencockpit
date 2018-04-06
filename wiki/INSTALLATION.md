@@ -30,6 +30,7 @@ Das Datencockpit verwendet ein Bootstrap-Basiertes Skin. Wenn Sie dieses auch ve
 * https://github.com/krabina/Datencockpit/blob/master/wiki/kdz-layout.xml
 * https://github.com/krabina/Datencockpit/blob/master/wiki/kdz-stylefixes.less
 * https://github.com/krabina/Datencockpit/blob/master/wiki/variables.less
+Weiters müssen Sie einige Icons in Ihr Wiki importieren, dies erfolgt entweder über die MediaWiki-Seite "Spezial:Hochladen" oder wesentlich bequemer (falls verfügbar) über Seite "Spezial:BatchUpload" der Extension [SimpleBatchUpload](https://www.mediawiki.org/wiki/Extension:SimpleBatchUpload)
 
 ## LocalSettings.php
 Das File [LocalSettings.php](https://github.com/krabina/Datencockpit/blob/master/wiki/LocalSettings.php) enthält die Konfiguration von MediaWiki. Übernehmen Sie entweder die Teile daraus, die Sie in Ihrer Localsettings.php noch nicht haben oder nehmen Sie das File und ergänzen es um Ihre Einstellungen (Datenbank, E-Mail...)
