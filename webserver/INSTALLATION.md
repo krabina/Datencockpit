@@ -7,15 +7,15 @@ Sie benötigen grundsätzlich
 * einen Webserver (z. B. Apache)
 * PHP
 * einen Datenbank-Server (z. B. mySQL oder MariaDB)
- * Voraussetzungen für MediaWiki siehe https://www.mediawiki.org/wiki/Manual:Installation_requirements/de
- * Voraussetzungen für SemanticMediaWiki siehe
- * Wegen mangelhafter PHP-Implementierung unter Windows wird von Windows-Servern abgeraten! Ein Linux-Server ist rasch installiert.
+  * Voraussetzungen für MediaWiki siehe https://www.mediawiki.org/wiki/Manual:Installation_requirements/de
+  * Voraussetzungen für SemanticMediaWiki siehe
+  * Wegen mangelhafter PHP-Implementierung unter Windows wird von Windows-Servern abgeraten! Ein Linux-Server ist rasch installiert.
 
 Das Datencockpit basiert auf
 * MediaWiki 1.27.x
 * SemanticMediaWiki 2.5.x 
 * und einer Menge anderer Extensions, siehe http://www.datencockpit.at/Spezial:Version
- * (darum müssen Sie sich aber nicht kümmern, wenn Sie diese Installationsveriante wählen)
+  * (darum müssen Sie sich aber nicht kümmern, wenn Sie diese Installationsveriante wählen)
 
 ## Installation
 * Installieren Sie einen Webserver, PHP sowie einen Datenbank-Server
