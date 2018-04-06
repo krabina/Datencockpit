@@ -7,7 +7,7 @@ Diese Version ist für Personen gedacht, die bereits über Erfahrung bei der Ins
 * Für die Installation von MediaWiki siehe https://www.mediawiki.org/wiki/Manual:Installation_guide/de
 * Für die Installation von SemanticMediaWiki siehe: https://www.semantic-mediawiki.org/wiki/Help:Installation
 * Weitere Installations-Anleitungen siehe die indivduellen Extension-Anleitungen
-* Wenn Sie [Composer](https://getcomposer.org/) verwenden, können Sie das File composer.local.json verwenden.
+* Wenn Sie [Composer](https://getcomposer.org/) verwenden, können Sie das File [composer.local.json](https://github.com/krabina/Datencockpit/blob/master/wiki/composer.local.json) verwenden.
 * Einige Extensions unterstützen Composer noch nicht, diese müssen Sie manuell installieren
 
 ## Import-Vorgang
