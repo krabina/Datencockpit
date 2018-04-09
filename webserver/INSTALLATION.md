@@ -8,12 +8,12 @@ Sie benötigen grundsätzlich
 * PHP
 * einen Datenbank-Server (z. B. mySQL oder MariaDB)
   * Voraussetzungen für MediaWiki siehe https://www.mediawiki.org/wiki/Manual:Installation_requirements/de
-  * Voraussetzungen für SemanticMediaWiki siehe
+  * Voraussetzungen für Semantic MediaWiki siehe https://www.semantic-mediawiki.org/wiki/Help:Installation#Requirements
   * Wegen mangelhafter PHP-Implementierung unter Windows wird von Windows-Servern abgeraten! Ein Linux-Server ist rasch installiert.
 
 Das Datencockpit basiert auf
 * MediaWiki 1.27.x
-* SemanticMediaWiki 2.5.x 
+* Semantic MediaWiki 2.5.x 
 * und einer Menge anderer Extensions, siehe http://www.datencockpit.at/Spezial:Version
   * (darum müssen Sie sich aber nicht kümmern, wenn Sie diese Installationsveriante wählen)
 
@@ -29,7 +29,7 @@ Das Datencockpit basiert auf
 wget http://www.datencockpit.at/datencockpitV0-1.tar.gz
 tar -xzvf datencockpitV0-1.tar.gz
 ```
-nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten software. Dieses muss das Web-Root-Verzeichnis des Webservers sein. Andernfalls müssen Sie den Inhalt des Verzeichnisses in ihr Web-Root legen (häufig z. B. "public_html"). Wir gehen davon aus, dass ihr Web-Root "datencockpit" heißt:
+nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten Software. Dieses muss das Web-Root-Verzeichnis des Webservers sein. Andernfalls müssen Sie den Inhalt des Verzeichnisses in ihr Web-Root legen (häufig z. B. "public_html"). Wir gehen davon aus, dass ihr Web-Root "datencockpit" heißt:
 ```
 cd /datencockpit
 php maintenance/update.php
@@ -40,6 +40,6 @@ Jetzt sollte Ihr Datencockpit erscheinen und so aussehen wie http://www.datencoc
 Sie können sich mit folgenden Zugangsdaten einloggen:
 * User: Admin
 * Pass: datenschutz
-* **Ändern Sie das Passwort** rechts oben mit Click auf das User-Icon und Auswal von "Einstellungen". 
+* **Ändern Sie das Passwort** rechts oben mit Click auf das User-Icon und Auswahl von "Einstellungen". 
 
-Nun sind Sie starbereit!
+Nun sind Sie startbereit!
