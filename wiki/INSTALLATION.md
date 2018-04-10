@@ -11,7 +11,7 @@ Diese Version ist für Personen gedacht, die bereits über Erfahrung bei der Ins
 * Einige Extensions unterstützen Composer noch nicht, diese müssen Sie manuell installieren
 
 ## Import-Vorgang
-In MediaWiki können BenutzerInnen mit Admin-Rechten über die Seite "Spezial:Importieren" XML-Files in das Wiki importieren
+In MediaWiki können BenutzerInnen mit Admin-Rechten über die Seite "Spezial:Importieren" XML-Files in das Wiki importieren. Die Files finden Sie im Ordner https://github.com/krabina/Datencockpit/tree/master/wiki
 
 Für das Datencockpit auf jeden Fall benötigt ist das File
 * Datencockpit-Strukturen-....xml 
