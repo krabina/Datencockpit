@@ -34,6 +34,10 @@ Nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten Software. Dieses
 
 Passen Sie nun ein paar Einstellungen im File "LocalSettings.php" an - hier werden alle Konfigurationen vorgenommen, z. B. die URL der Installation:
 ```
+$wgDBname = "kdz_datencockpit";
+$wgDBuser = "kdz_datencockpit";
+$wgDBpassword = "ihrDB-Passwort";
+
 $wgServer = "http://www.datencockpit.at";
 ```
 Weitere Infos zu LocalSettings.php finden Sie auf den  [MediaWiki-Hilfeseiten](https://www.mediawiki.org/wiki/Manual:LocalSettings.php/de)
