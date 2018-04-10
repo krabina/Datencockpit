@@ -18,7 +18,7 @@ Für das Datencockpit auf jeden Fall benötigt ist das File
 es enthält alle benötigten Wiki-Seiten, mit denen die Struktur des Datencockpits aufgebaut wird.
 
 Bei den Content-Seiten können Sie selbst entscheiden, was Sie importieren möchten:
-* https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSG-20180406.xml (Gesetzestext der DSGVO)
+* Datencockpit-Content-DSGVO-......xml (Gesetzestext der DSGVO)
 * Datencockpit-Content-DSG-......xml (Gesetzestext des öst. DSG)
 * Datencockpit-Content-Fragestellungen-......xml (Fragestellungen)
 * Datencockpit-Content-Glossar-......xml (Glossar-Einträge)
