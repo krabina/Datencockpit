@@ -29,7 +29,15 @@ Das Datencockpit basiert auf
 wget http://www.datencockpit.at/datencockpitV0-1.tar.gz
 tar -xzvf datencockpitV0-1.tar.gz
 ```
-nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten software. Dieses muss das Web-Root-Verzeichnis des Webservers sein. Andernfalls müssen Sie den Inhalt des Verzeichnisses in ihr Web-Root legen (häufig z. B. "public_html"). Wir gehen davon aus, dass ihr Web-Root "datencockpit" heißt:
+nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten Software. Dieses muss das Web-Root-Verzeichnis des Webservers sein. Andernfalls müssen Sie den Inhalt des Verzeichnisses in ihr Web-Root legen (häufig z. B. "public_html"). 
+
+Passen Sie nun ein paar Einstellungen im File "LocalSettings.php" an - hier werden alle Konfigurationen vorgenommen, z. B. die URL der Installation:
+```
+$wgServer = "http://www.datencockpit.at";
+```
+Weitere Infos zu LocalSettings.php finden Sie auf den  [MediaWiki-Hilfeseiten](https://www.mediawiki.org/wiki/Manual:LocalSettings.php/de)
+
+Wir gehen nun davon aus, dass ihr Web-Root "datencockpit" heißt:
 ```
 cd /datencockpit
 php maintenance/update.php
