@@ -21,7 +21,10 @@ Das Datencockpit basiert auf
 * Installieren Sie einen Webserver, PHP sowie einen Datenbank-Server
 * Legen Sie eine Datenbank an, nennen Sie diese "kdz_datencockpit"
 * Legen Sie einen DB-User an, nennen Sie diesen ebenfalls "kdz_datencockpit", geben Sie ihm alle Rechte und weisen Sie ihm der erzeugten Datenbank zu
-* Importieren Sie den [Datenank-Dump](https://github.com/krabina/Datencockpit/blob/master/webserver/kdz_datencockpit.sql) (ca. 25 MB) in Ihre Datenbank (sehr einfach geht das mit https://www.phpmyadmin.net/ - aber auch über die [Kommandozeile](https://www.mediawiki.org/wiki/Manual:Restoring_a_wiki_from_backup#Import_the_database_backup))
+* Importieren Sie den [Datenank-Dump](https://github.com/krabina/Datencockpit/blob/master/webserver/kdz_datencockpit.sql) (ca. 25 MB) in Ihre Datenbank 
+   * ein User hat uns einen alternativen zur Verfügung gestellt: #6
+   * (sehr einfach geht das mit https://www.phpmyadmin.net/ - aber auch über die [Kommandozeile](https://www.mediawiki.org/wiki/Manual:Restoring_a_wiki_from_backup#Import_the_database_backup))
+
 * Laden Sie die Software-Komponenten herunter: http://www.datencockpit.at/release/datencockpitV0-1.tar.gz (Achtung: ca. 70MB)
 * entpacken Sie das File Sie im Verzeichnis des Webservers
 * führen Sie das Wartungsscript "update.php" aus:
