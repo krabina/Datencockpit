@@ -140,7 +140,7 @@ $wgCachePages = false;
 $wgEnableSidebarCache = true;
 
 #Short URLs
-$wgArticlePath = "/$1";
+#$wgArticlePath = "/$1";
 
 #Set Default Timezone
 $wgLocaltimezone = "Europe/Vienna";
