@@ -26,7 +26,7 @@ Das Datencockpit basiert auf
 * entpacken Sie das File Sie im Verzeichnis des Webservers
 * führen Sie das Wartungsscript "update.php" aus:
 ```
-wget http://www.datencockpit.at/datencockpitV0-1.tar.gz
+wget http://www.datencockpit.at/release/datencockpitV0-1.tar.gz
 tar -xzvf datencockpitV0-1.tar.gz
 ```
 
