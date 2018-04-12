@@ -18,5 +18,7 @@ Starten einer VirtualBox | eine speziell hergerichtete virtuelle Maschine wird m
 Installation auf einem [Webserver](https://github.com/krabina/Datencockpit/blob/master/webserver/INSTALLATION.md) | die Software wird auf einem Webserver entpackt, die Datenbank importiert
 Integration in ein bestehendes [Wiki](https://github.com/krabina/Datencockpit/blob/master/wiki/INSTALLATION.md) | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
 
+Noch einfacher ist eine Hosting-Variante. Dabei wird ihr persönliches Datencockpit im Internet gehostet, selbstverständlich nur für Sie und Ihre User sichbar. Weitere Informationen dazu siehe: http://www.wikiahoi.at/dsgvo/
+
 # Feedback und Support
 Für Fragen und Feedback schreiben Sie bitte ein E-Mail an datencockpit@kdz.or.at 
