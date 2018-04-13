@@ -21,7 +21,7 @@ Integration in ein bestehendes [Wiki](https://github.com/krabina/Datencockpit/bl
 Noch einfacher ist eine Hosting-Variante. Dabei wird ihr persönliches Datencockpit im Internet gehostet, selbstverständlich nur für Sie und Ihre User sichbar. Weitere Informationen dazu siehe: http://www.wikiahoi.at/dsgvo/
 
 ## Releases und Upgrade von Vorversionen
-Beachten Sie die [RELEASE-NOTES](https://github.com/krabina/Datencockpit/blob/master/RELEASE-NOTES.md) sowie die Hinweise zum [UPGRADE](https://github.com/krabina/Datencockpit/blob/master/Upgrade.md)
+Beachten Sie die [RELEASE-NOTES](https://github.com/krabina/Datencockpit/blob/master/RELEASE-NOTES.md) sowie die Hinweise zum [UPGRADE](https://github.com/krabina/Datencockpit/blob/master/UPGRADE.md)
 
 # Feedback und Support
 Für Fragen und Feedback schreiben Sie bitte ein E-Mail an datencockpit@kdz.or.at 
