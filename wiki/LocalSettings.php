@@ -25,7 +25,7 @@ $wgSitename = "Datencockpit";
 ## For more information on customizing the URLs
 ## (like /w/index.php/Page_title to /wiki/Page_title) please see:
 ## https://www.mediawiki.org/wiki/Manual:Short_URL
-$wgScriptPath = "";
+#$wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
 $wgServer = "http://www.datencockpit.at";
@@ -140,7 +140,7 @@ $wgCachePages = false;
 $wgEnableSidebarCache = true;
 
 #Short URLs
-#$wgArticlePath = "/$1";
+$wgArticlePath = "/$1";
 
 #Set Default Timezone
 $wgLocaltimezone = "Europe/Vienna";
@@ -153,14 +153,14 @@ $wgDefaultUserOptions['timecorrection'] = 'ZoneInfo|' . (date("I") ? 120 : 60) .
 # to LocalSettings.php. Check specific extension documentation for more details.
 
 wfLoadExtension( 'Cite' );
-wfLoadExtension( 'CiteThisPage' );
-wfLoadExtension( 'ImageMap' );
+#wfLoadExtension( 'CiteThisPage' );
+#wfLoadExtension( 'ImageMap' );
 wfLoadExtension( 'InputBox' );
-wfLoadExtension( 'Nuke' );
+#wfLoadExtension( 'Nuke' );
 wfLoadExtension( 'ParserFunctions' );
 $wgPFEnableStringFunctions = true;
 wfLoadExtension( 'PdfHandler' );
-wfLoadExtension( 'Poem' );
+#wfLoadExtension( 'Poem' );
 wfLoadExtension( 'Renameuser' );
 wfLoadExtension( 'WikiEditor' );
 # aber Benutzern immer noch erlauben diese in den Einstellungen zu deaktivieren
@@ -201,11 +201,11 @@ $wgexLingoCacheType = CACHE_NONE;
 
 # Semantic Internal Objects
 # More info: https://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
-include_once("$IP/extensions/SemanticInternalObjects/SemanticInternalObjects.php");
+#include_once("$IP/extensions/SemanticInternalObjects/SemanticInternalObjects.php");
 
 # Semantic Drilldown
 # More info: https://www.mediawiki.org/wiki/Extension:Semantic_Drilldown
-include_once("$IP/extensions/SemanticDrilldown/SemanticDrilldown.php");
+#include_once("$IP/extensions/SemanticDrilldown/SemanticDrilldown.php");
 
 # Page Forms
 # More info: https://www.mediawiki.org/wiki/Extension:Page_Forms
@@ -234,7 +234,7 @@ $wgTitleIcon_EnableIconInSearchTitle = true;
 
 # External Data
 # More info:
-include_once("$IP/extensions/ExternalData/ExternalData.php");
+#include_once("$IP/extensions/ExternalData/ExternalData.php");
 
 # Data Transfer
 # More info: https://www.mediawiki.org/wiki/Extension:Data_Transfer

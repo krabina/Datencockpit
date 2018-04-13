@@ -450,16 +450,16 @@ Weitere Infos hier...</text>
     <ns>2014</ns>
     <id>604</id>
     <revision>
-      <id>2661</id>
-      <parentid>2654</parentid>
-      <timestamp>2018-03-08T15:25:43Z</timestamp>
+      <id>3158</id>
+      <parentid>3157</parentid>
+      <timestamp>2018-04-09T16:03:22Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="665">{{Auskunft
+      <text xml:space="preserve" bytes="680">{{Auskunft
 |Status=3 - beantwortet - abgelehnt
 |Datum=2018/03/01
 |Art des Antrags=Auskunft
@@ -474,8 +474,9 @@ Weitere Infos hier...</text>
 |Antrag=Am 1.3. um 23:14 ist per E-Mail an Postfach office ein Auskunftsersuchen eingegangen, welche Daten über den Seminarkunden gespeichert wurden.
 |Maßnahmen=Seminar-Datenbank durchsucht, E-Mail an MitarbeiterInnen
 |Erledigung=Wurde per E-Mail vom Postfach office ablehnend beantwortet, da die Person in den internen Systemen nicht auffindbar war.
-}}</text>
-      <sha1>ghiid3o8jakcyix8pzcgf4o7iqjw4qs</sha1>
+}}
+aut Artikel 15</text>
+      <sha1>q7iig0fkct8rzg8szqaj71botmqo2ry</sha1>
     </revision>
   </page>
   <page>
@@ -483,22 +484,22 @@ Weitere Infos hier...</text>
     <ns>2016</ns>
     <id>576</id>
     <revision>
-      <id>2618</id>
-      <parentid>2617</parentid>
-      <timestamp>2018-03-08T14:03:55Z</timestamp>
+      <id>3155</id>
+      <parentid>2618</parentid>
+      <timestamp>2018-04-09T14:57:05Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="464">{{Berichtigung
+      <text xml:space="preserve" bytes="459">{{Berichtigung
 |Status=2 - in Bearbeitung
 |Datum=2017/12/15
 |Art des Antrags=Löschantrag
 |Form des Antrags=E-Mail
 |Personenkreise=SeminarteilnehmerInnen
-|Verfahren=Mitarbeiterverzeichnis
+|Verfahren=Seminarverwaltung
 |Abteilung=Weiterbildung
 |Kontaktperson=Admin
 |Datum der Erledigung=2018/01/12
@@ -507,7 +508,7 @@ Weitere Infos hier...</text>
 |Maßnahmen=Löschung in Seminar-DB durchgeführt.
 |Erledigung=Antragsteller per E-Mail durch Postfach office informiert.
 }}</text>
-      <sha1>31cgfky0ei3b88up95dipy8wixyn8r6</sha1>
+      <sha1>0ohxxs47r3er1bl1nk8pn53r0ecepsk</sha1>
     </revision>
   </page>
   <page>

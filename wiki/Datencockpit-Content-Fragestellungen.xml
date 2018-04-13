@@ -992,4 +992,35 @@ Wenn Sie Daten verarbeiten wollen, die Sie nicht bei den Betroffenen selbst erho
       <sha1>nzgun8qd6t0qpl0s9qwvjionh2jjc4b</sha1>
     </revision>
   </page>
+  <page>
+    <title>Fragestellung:Zählt die IP-Adresse zu den personenbezogenen Daten?</title>
+    <ns>2006</ns>
+    <id>432</id>
+    <revision>
+      <id>1801</id>
+      <parentid>1800</parentid>
+      <timestamp>2018-01-18T11:27:06Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1187">{{Fragestellung
+|Status der Fragestellung=4 - abschließend beantwortet
+|Thema=Website
+|Stichwort=Geltungsbereich, Website, IP-Adresse
+|Fragetext=Zählt die IP-Adresse zu den personenbezogenen Daten?
+|Antwort=Ja.
+
+&lt;span class=&quot;noglossary&quot;&gt;Art. 2 Buchst. a&lt;/span&gt; der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr ist dahin auszulegen, dass eine dynamische Internetprotokoll-Adresse, die von einem Anbieter von Online-Mediendiensten beim Zugriff einer Person auf eine Website, die dieser Anbieter allgemein zugänglich macht, gespeichert wird, für den Anbieter ein personenbezogenes Datum im Sinne der genannten Bestimmung darstellt, wenn er über rechtliche Mittel verfügt, die es ihm erlauben, die betreffende Person anhand der Zusatzinformationen, über die der Internetzugangsanbieter dieser Person verfügt, bestimmen zu lassen.
+
+Siehe: http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0582
+|Beantwortet durch=Europäischer Gerichtshof
+|Quelle=Europäischer Gerichtshof
+|Paragraph=DSGVO:Artikel 4 . Begriffsbestimmungen
+}}</text>
+      <sha1>tlkazh1e8is94d0g52mlyu0hroiyf5r</sha1>
+    </revision>
+  </page>
 </mediawiki>
