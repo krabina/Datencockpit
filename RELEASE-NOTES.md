@@ -6,7 +6,7 @@ beachten Sie die Anleitung zum Upgrade einer bestenden Installation: [UPGRADE.md
 Veröffentlicht am 13. 4. 2018
 
 Neue Features:
-* Hilfe-Texte angelegt
+* [Hilfe-Texte](http://www.datencockpit.at/Hilfe:Erste_Schritte) angelegt
 
 Erste Bugs behoben
 * [#2](https://github.com/krabina/Datencockpit/issues/2) Verantwortliche werden nicht korrekt erkannt
