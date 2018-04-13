@@ -2,7 +2,10 @@ Versionsgeschichte
 
 ## Datencockpit 0.2
 
-NOCH UNVERÖFFENTLICHT
+Veröffentlicht am 13. 4. 2018
+
+Neue Features:
+* Hilfe-Texte angelegt
 
 Erste Bugs behoben
 * [#2](https://github.com/krabina/Datencockpit/issues/2) Verantwortliche werden nicht korrekt erkannt
