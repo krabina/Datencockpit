@@ -1157,32 +1157,6 @@ Für jeden Benutzeraccount gibt es auch eine Seite. Z. B. gibt es den Account &q
     </revision>
   </page>
   <page>
-    <title>Benutzer:Admin</title>
-    <ns>2</ns>
-    <id>40</id>
-    <revision>
-      <id>3174</id>
-      <parentid>3172</parentid>
-      <timestamp>2018-04-11T13:33:27Z</timestamp>
-      <contributor>
-        <username>Admin</username>
-        <id>1</id>
-      </contributor>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="176">{{Benutzer
-|Titel=Mag.
-|Vorname=Bernhard
-|Nachname=Krabina
-|Telefon=+43 1 892349227
-|E-Mail=krabina@kdz.or.at
-|Abteilung=IT
-|Funktion=Administrator, Datenschutzbeauftragte/r
-}}</text>
-      <sha1>b41s39z6jc6vxkuwt34cs763zog9zxg</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Vorlage:Benutzerdaten</title>
     <ns>10</ns>
     <id>550</id>
