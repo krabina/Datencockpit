@@ -18,11 +18,11 @@ Für das Datencockpit auf jeden Fall benötigt ist das File
 es enthält alle benötigten Wiki-Seiten, mit denen die Struktur des Datencockpits aufgebaut wird.
 
 Bei den Content-Seiten können Sie selbst entscheiden, was Sie importieren möchten:
-* Datencockpit-Content-DSGVO-......xml (Gesetzestext der DSGVO)
-* Datencockpit-Content-DSG-......xml (Gesetzestext des öst. DSG)
-* Datencockpit-Content-Fragestellungen-......xml (Fragestellungen)
-* Datencockpit-Content-Glossar-......xml (Glossar-Einträge)
-* Datencockpit-Content-Testinhalte-......xml (ein paar Testinhalte)
+* [Datencockpit-Content-DSGVO.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSGVO.xml) (Gesetzestext der DSGVO)
+* [Datencockpit-Content-DSG.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSG.xml)(Gesetzestext des öst. DSG)
+* [Datencockpit-Content-Fragestellungen.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-Fragestellungen.xml) (Fragestellungen)
+* [Datencockpit-Content-Glossar.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-Glossar.xml) (Glossar-Einträge)
+* [Datencockpit-Content-Testinhalte.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-Testinhalte.xml) (ein paar Testinhalte)
 
 ## Weitere Files für das Skinning
 Das Datencockpit verwendet ein Bootstrap-Basiertes Skin. Wenn Sie dieses auch verwenden wollen, müssen Sie zusätzlich die folgenden Files in ihr Installatiosverzeichnis kopieren:
