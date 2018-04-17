@@ -17,6 +17,7 @@ Installationsvariante | Anmerkungen
 Starten einer VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. COMING SOON....
 Installation auf einem [Webserver](https://github.com/krabina/Datencockpit/blob/master/webserver/INSTALLATION.md) | die Software wird auf einem Webserver entpackt, die Datenbank importiert
 Integration in ein bestehendes [Wiki](https://github.com/krabina/Datencockpit/blob/master/wiki/INSTALLATION.md) | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
+Installation via Docker | Dank @soudis gibt es eine Versio zur Installation via [Docker](https://www.docker.com/): https://github.com/soudis/datencockpit-docker
 
 Noch einfacher ist eine Hosting-Variante. Dabei wird ihr persönliches Datencockpit im Internet gehostet, selbstverständlich nur für Sie und Ihre User sichbar. Weitere Informationen dazu siehe: http://www.wikiahoi.at/dsgvo/
 
