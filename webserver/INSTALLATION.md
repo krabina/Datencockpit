@@ -26,7 +26,6 @@ Das Datencockpit basiert auf
 
 * Laden Sie die Software-Komponenten herunter: https://github.com/krabina/Datencockpit/releases/download/v0.2/datencockpitV0-2.tar.gz (Achtung: ca. 70MB)
 * entpacken Sie das File Sie im Verzeichnis des Webservers
-* führen Sie das Wartungsscript "update.php" aus:
 ```
 wget http://www.datencockpit.at/release/datencockpitV0-2.tar.gz
 tar -xzvf datencockpitV0-2.tar.gz
@@ -47,7 +46,8 @@ $wgDBpassword = "ihrDB-Passwort";
 ```
 Weitere Infos zu LocalSettings.php finden Sie auf den  [MediaWiki-Hilfeseiten](https://www.mediawiki.org/wiki/Manual:LocalSettings.php/de)
 
-Wir gehen nun davon aus, dass ihr Web-Root "datencockpit" heißt:
+* führen Sie das Wartungsscript "update.php" aus:
+* Wir gehen nun davon aus, dass ihr Web-Root "datencockpit" heißt:
 
 ```
 cd /datencockpit
