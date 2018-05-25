@@ -12,6 +12,7 @@ via Spezial:Importieren in die bestehende Installation importieren (die anderen 
 * [Datencockpit-Update-V0-2.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Update-V0-2.xml) via Spezial:Importieren in die bestehende Installation importieren
 * File [Bearbeiten-Menü.png](https://github.com/krabina/Datencockpit/blob/master/wiki/Bearbeiten-Men%C3%BC.png) hochladen
 
+## Nach dem Import von XML-Files
 Nach den Imports von XML-Files folgende Scripts ausführen
 ```
 php maintenance/refreshLinks.php
