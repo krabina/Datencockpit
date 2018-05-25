@@ -1,8 +1,8 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de-formal">
   <siteinfo>
     <sitename>Datencockpit</sitename>
-    <dbname>kdz_datencockpit</dbname>
-    <base>http://www.datencockpit.at/Datencockpit</base>
+    <dbname>kdz_datencockpit_leer</dbname>
+    <base>http://leer.datencockpit.at/index.php?title=Datencockpit</base>
     <generator>MediaWiki 1.27.4</generator>
     <case>first-letter</case>
     <namespaces>
@@ -30,8 +30,6 @@
       <namespace key="107" case="first-letter">Formular Diskussion</namespace>
       <namespace key="108" case="first-letter">Konzept</namespace>
       <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
-      <namespace key="170" case="first-letter">Filter</namespace>
-      <namespace key="171" case="first-letter">Filter Diskussion</namespace>
       <namespace key="190" case="first-letter">Glossar</namespace>
       <namespace key="191" case="first-letter">Glossar talk</namespace>
       <namespace key="274" case="first-letter">Widget</namespace>
@@ -66,6 +64,1762 @@
       <namespace key="2025" case="first-letter">Information talk</namespace>
     </namespaces>
   </siteinfo>
+  <page>
+    <title>Abteilungen</title>
+    <ns>0</ns>
+    <id>557</id>
+    <revision>
+      <id>3105</id>
+      <parentid>3104</parentid>
+      <timestamp>2018-03-28T07:33:16Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="980">Abteilugen werden i.d.R. nicht über eigene Formulare erfasst, sondern bei den Einträgen der anderen Formulare angegeben. Die Spalte &quot;Kategorie&quot; in der Tabelle zeigt, wo der Name der Abteilung angegeben worden ist. Durch Klick auf die jeweilige Abteilung können Sie eine Seite für die Abteilung anlegen und zusätzliche Informationen angeben.
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;BenutzerInnen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Abteilung::+]] 
+|mainlabel=-
+|?Abteilung
+|?=Eintrag
+|?Kategorie
+|?Zuletzt geändert
+|sort=Abteilung
+|order=asc
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Abteilungen gefunden...
+}}&lt;/div&gt;&lt;/div&gt;
+
+[[Image:Abteilung.png|32px|left|link=Kategorie:Abteilungen]]{{#forminput:form=Abteilung|autocomplete on namespace=Abteilung|placeholder=Abteilung...|no autofocus}} 
+{{#set:Title Icon=Abteilung.png}}</text>
+      <sha1>rjxn5buasmsr1f5b5azxuo7625wy4gf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anwendungen</title>
+    <ns>0</ns>
+    <id>558</id>
+    <revision>
+      <id>2745</id>
+      <parentid>2693</parentid>
+      <timestamp>2018-03-09T08:19:00Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="724">[[Bild:Anwendung.png|32px|left|link=]]{{#forminput:form=Anwendung|autocomplete on property=Anwendungen|no autofocus|placeholder=Anwendung...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Anwendungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Anwendung::+]] 
+|mainlabel=-
+|?Anwendung
+|?=Eintrag
+|?Kategorie
+|?Zuletzt geändert
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|intro=Folgende Anwendungen wurden im [[Verfahrensverzeichnis]], bei [[Folgenabschätzung]]en oder [[Datenschutzverletzung]]en angegeben:
+|default=derzeit keine Anwendungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+
+{{#set:Title Icon=Anwendung.png}}</text>
+      <sha1>0hj7pcbb6l38hhnqxjewbffboq3w6dc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Auftragsverarbeiter</title>
+    <ns>0</ns>
+    <id>102</id>
+    <revision>
+      <id>2695</id>
+      <parentid>2694</parentid>
+      <timestamp>2018-03-08T16:33:11Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="681">[[Bild:Auftragsverarbeiter.png|32px|left|link=]]{{#forminput:form=Auftragsverarbeiter|autocomplete on category=Auftragsverarbeiter|no autofocus|placeholder=Auftragsverarbeiter...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Auftragsverarbeiter&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Auftragsverarbeiter]] 
+|mainlabel=Organisation
+|?Straße
+|?PLZ
+|?Ort
+|?Kontaktperson
+|?Zuletzt geändert
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Auftragsverarbeiter gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+
+{{#set:Title Icon=Auftragsverarbeiter.png}}</text>
+      <sha1>16tuz0xmluqbe5b4uyhdm9cc6eor8e7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Auskunftsersuchen</title>
+    <ns>0</ns>
+    <id>98</id>
+    <revision>
+      <id>2663</id>
+      <parentid>2651</parentid>
+      <timestamp>2018-03-08T15:29:10Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1026">Dokumentation von Auskunftsersuchen gemäß Artikel 15, Antrag auf Einschränkung der Verarbeitung gemäß Artikel 18 oder Widerspruch gemäß Artikel 21.
+[[Bild:Auskunftsersuchen.png|32px|left|link=]]{{#forminput:form=Auskunft|autocomplete on namespace=Auskunft|namespace=Auskunft|no autofocus|placeholder=Auskunftsersuchen...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Auskunftsersuchen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Auskunftsersuchen]] 
+|mainlabel=Auskunftsersuchen
+|?Datum des Antrags=Antrag
+|?ID
+|?Art des Antrags=Art
+|?Status des Antrags
+|?Form des Antrags
+|?Betroffene Personenkreise
+|?Verfahren
+|?Abteilung
+|?Kontaktperson
+|?Datum der Erledigung=Erledigung
+|?Art der Erledigung
+|?Zuletzt geändert
+|sort=Datum des Antrags
+|order=desc
+|format=tabelle
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Auskunftsersuchen gefunden...
+}}&lt;/div&gt;&lt;/div&gt;
+
+{{#set:Title Icon=Auskunftsersuchen.png}}</text>
+      <sha1>cywlrujaswu8pcr5wrpt9zs996tr7nk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BenutzerInnen</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>3164</id>
+      <parentid>3055</parentid>
+      <timestamp>2018-04-11T12:36:14Z</timestamp>
+      <contributor>
+        <username>Melnicki</username>
+        <id>2</id>
+      </contributor>
+      <comment>Änderung externer &gt; interner Link (nach Github)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1187">[[Spezial:Benutzer|BenutzerInnen]] im Datencockpit können von Administratoren über die Seite [{{fullurl:Spezial:Anmelden|type=signup}} Benutzerkonto anlegen] hinzugefügt werden.
+
+Existierende BenutzerInnen können auf freiwilliger Basis persönliche Informationen mit diesem Formular ergänzen:
+[[Image:Benutzer.png|32px|left|link=Kategorie:BenutzerInnen]]{{#forminput:form=Benutzer|autocomplete on namespace=Benutzer|query string=namespace=Benutzer|placeholder=Benutzername...|no autofocus}} 
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;BenutzerInnen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:BenutzerInnen]] 
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Funktion
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine BenutzerInnen gefunden...
+}}
+&lt;div class=&quot;panel-footer&quot;&gt;Export: 
+{{#ask:[[Kategorie:BenutzerInnen]] 
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Funktion
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=csv
+|filename=Benutzerverzeichnis {{PAGENAME}}
+}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;{{#set:Title Icon=Benutzer.png}}</text>
+      <sha1>axi30krvnwwa8kz4kg7bvkk16kw0xyu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Checkliste</title>
+    <ns>0</ns>
+    <id>418</id>
+    <revision>
+      <id>3117</id>
+      <parentid>3116</parentid>
+      <timestamp>2018-03-28T07:47:59Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4368">&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-5&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Mindestanforderungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+
+{{#ask: [[Kategorie:Organisationen]]
+|format=plain
+|intro=&lt;div class=&quot;alert alert-success&quot;&gt;[[Image:Check.png|30px|left|link=Organisation]] Stammdaten der Organisation:&amp;nbsp;
+|outro=&lt;/div&gt;
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Stammdaten der [[Organisation]]!&lt;/div&gt;
+}}
+
+{{#ask: [[Funktion::Verantwortliche/r]]
+|format=plain
+|intro=&lt;div class=&quot;alert alert-success&quot;&gt;[[Image:Check.png|30px|left|link=BenutzerInnen]] Verantwortliche:&amp;nbsp;
+|outro=&lt;/div&gt;
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+
+{{#ask: [[Funktion::Datenschutzbeauftragte/r]]
+|format=plain
+|intro=&lt;div class=&quot;alert alert-success&quot;&gt;[[Image:Check.png|30px|left|link=Datenschutzbeauftragte]] Datenschutzbeauftragte/r:&amp;nbsp;
+|outro=&lt;/div&gt;
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]] [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+
+{{#ask: [[Kategorie:Auftragsverarbeiter]]
+|format=plain
+|intro=&lt;div class=&quot;alert alert-success&quot;&gt;[[Image:Check.png|30px|left|link=Auftragsverarbeiter]] Auftragsverarbeiter:&amp;nbsp;
+|outro=&lt;/div&gt;
+|default=&lt;div class=&quot;alert alert-warning&quot;&gt;[[Image:Fail.png|30px|left|link=Auftragsverarbeiter]]Sie haben keine [[Auftragsverarbeiter]]!&lt;/div&gt;
+}}
+
+{{#if:{{#ask: [[Kategorie:Verfahren]]|format=count}}&gt;0
+|
+{{#ask: [[Kategorie:Verfahren]]
+|format=count
+|intro=&lt;div class=&quot;alert alert-success&quot;&gt;[[Image:Check.png|30px|left|link=Verfahrensverzeichnis]] &amp;nbsp;
+|outro=&amp;nbsp;Verfahren im Verfahrensverzeichnis&lt;/div&gt;
+}}
+|&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Verfahrensverzeichnis]] Sie haben keine Verfahren im [[Verfahrensverzeichnis]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Datenschutzmanagement am {{#time: j. F Y}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Informationspflichten.png|30px|left|link=Informationspflichten]] [[Informationspflichten]]: {{#ask: [[Kategorie:Informationspflichten]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Informationspflichten]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Verfahren.png|30px|left|link=Verfahrensverzeichnis]] '''[[Verfahrensverzeichnis]]''': {{#ask: [[Kategorie:Verfahren]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Verfahren]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Folgenabschätzung.png|30px|left|link=Folgenabschätzung]] [[Folgenabschätzung]]: {{#ask: [[Kategorie:Folgenabschätzungen]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Folgeabschätzung]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Auskunftsersuchen.png|30px|left|link=Auskunftsersuchen]] [[Auskunftsersuchen]]: {{#ask: [[Kategorie:Auskunftsersuchen]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Auskunftsersuchen]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Löschantrag.png|30px|left|link=Löschantrag]] [[Löschantrag]]: {{#ask: [[Kategorie:Löschanträge]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Löschanträge]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Verletzung.png|30px|left|link=Datenschutzverletzung]] [[Datenschutzverletzung]]: {{#ask: [[Kategorie:Datenschutzverletzungen]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Datenschutzverletzungen]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;[[Image:Fragestellung.png|30px|left|link=Fragestellungen]] Offene [[Fragestellungen]]: {{#ask: [[Kategorie:Fragestellungen]] [[Status der Fragestellung::1 - offen]]|format=count}} Einträge. Letztes Update am {{#ask: [[Kategorie:Fragestellungen]]|?Zuletzt geändert|format=latest}} &lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+{{#set:Title Icon=Check.png}}</text>
+      <sha1>48fi69tj104abehpbs1u6efuo92rvnh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DSG</title>
+    <ns>0</ns>
+    <id>332</id>
+    <redirect title="Datenschutzgesetz" />
+    <revision>
+      <id>873</id>
+      <timestamp>2017-10-31T13:08:28Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Weiterleitung nach [[Datenschutzgesetz]] erstellt</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37">#WEITERLEITUNG: [[Datenschutzgesetz]]</text>
+      <sha1>dvcbfvsbecy0fcbbpjl2kfdqb4vs5pt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DSGVO</title>
+    <ns>0</ns>
+    <id>327</id>
+    <redirect title="Datenschutz-Grundverordnung" />
+    <revision>
+      <id>857</id>
+      <timestamp>2017-10-31T11:32:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Admin verschob die Seite [[DSGVO]] nach [[Datenschutz-Grundverordnung]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="46">#WEITERLEITUNG [[Datenschutz-Grundverordnung]]</text>
+      <sha1>d0c5fiixsqr4wz2k4tuu6sg3hsgdnmm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datencockpit</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>3339</id>
+      <parentid>3338</parentid>
+      <timestamp>2018-05-25T12:20:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6811">&lt;div class=&quot;jumbotron&quot;&gt;__NOEDITSECTION__&lt;span style=&quot;float:left; margin-top:-1em; margin-right:1em&quot;&gt;[[Image:Datencockpit.png|link=|Datencockpit]]&lt;/span&gt; &lt;h2&gt;Fachanwendung zur Unterstützung eines aktiven &lt;span style=&quot;overflow-wrap: break-word;&quot;&gt;Datenschutzmanagements&lt;/span&gt; laut [[DSGVO]] &lt;span class=&quot;label label-default&quot; style=&quot;margin-left:1em;&quot;&gt;V 1&lt;/span&gt; &lt;br/&gt;
+&lt;small&gt;Interesse? - [http://www.kdz.eu/de/content/datencockpit-formular Melden Sie sich!] - Twitter: [https://twitter.com/datencockpit @datencockpit] - Web: http://www.datencockpit.at&lt;/small&gt;&lt;/h2&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Image:Neuigkeiten.png|40px|link=Neuigkeiten|Neuigkeiten]] Neuigkeiten&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+{| class=&quot;table-hover table-condensed table-responsive&quot;
+{{#ask:[[Kategorie:Neuigkeiten]]  [[Anzeigen::Ja]] [[Newsdatum::&gt;&gt;{{#time: Y.m.d}}]]
+ |?Newsdatum#ISO
+ |sort=Newsdatum
+ |order=desc
+ |format=template
+ |template=NeuigkeitenAnkündigungen
+ |limit=5
+ |link=none
+ |searchlabel=
+ |default=
+}}
+|- 
+{{#ask: [[Kategorie:Neuigkeiten]]  [[Anzeigen::Ja]] [[Newsdatum::&lt;{{#time: Y.m.d}}]]
+ |?Newsdatum#ISO
+ |sort=Newsdatum
+ |order=desc
+ |format=template
+ |template=Neuigkeiten
+ |limit=5
+ |link=none
+ |searchlabel=
+ |default=
+}}
+|- 
+|style=&quot;vertical-align:top;&quot;|{{#ask:[[Newsdatum::+]] [[Kategorie:Neuigkeiten]] 
+ |sort=Newsdatum
+ |order=desc
+ |format=feed
+ |searchlabel=RSS
+ |rsstitle=Datencockpit
+ |rssdescription=Neuigkeiten
+}} 
+|style=&quot;vertical-align:top;&quot;|[[Weitere Neuigkeiten|Weitere Neuigkeiten &gt;&gt;]]
+|}
+[[Bild:Neuigkeiten.png|32px|left|link=]]{{#forminput:form=Neuigkeiten|placeholder=Newseintrag eingeben...|autocomplete on category=Neuigkeiten|namespace=Neuigkeiten|no autofocus}}{{#set:Title Icon=Neuigkeiten.png}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Image:Suche.png|40px|link=|Suche]] Suche&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+&lt;inputbox&gt;
+type=fulltext
+namespaces=DSGVO**,DSG**,Fragestellung**,Thema**,News**,Verfahren**,Folgen**,Information**,Auskunft**,Berichtigung**,Verletzung**,Abteilung,Benutzer
+placeholder=Suche:im Datencockpit
+&lt;/inputbox&gt;
+
+{{#queryformlink:form=Abfrage ID|link text=Inhalte nach ID suchen}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+== Informationen ==
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Image:Gesetz.png|40px|link=DSGVO|Gesetze]] Gesetzestexte und Erläuterungen&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Die [[DSGVO]] sowie das [[Datenschutz-Anpassungsgesetz]] sind in einzelne Seiten pro Paragraph bzw. Artikel gegliedert. Die Paragraphen/Artikel enthalten den Gesetzestext, die Erläuterung zum jeweiligen Paragraphen bzw. Absatz sowie dazugehörige Fragestellungen und weitere Metadaten.
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Image:Fragestellung.png|40px|link=Fragestellung|Fragestellung]] Fragestellungen&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Die BenutzerInnen der Plattform können [[Fragestellungen]] erfassen, die bei der praktischen Umsetzung der gesetzlichen Regelungen auftreten. 
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Thema.png|40px|link=Themen|Themen]] Themen&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Fragestellungen enthalten Zuordnungen zu [[Themen]], die Überbegriffe zu den Fragestellungen darstellen und auch weiterführende Informationen enthalten können.
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Glossar.png|40px|link=Glossar|Glossar]] [[Glossar]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+[[Glossar]]-Einträge werden im Text unterwellt hervorgehoben und können entweder direkt verlinken (z. B. § 9) oder aber auch zu manuell erstellten und eventuell weiterführenden Glossardefinitionen führen (z. B. DSGVO).
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Links.png|40px|link=Links|Links]] [[Links]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+[[Links]] führen zu weiterführenden Informationen zum Thema Datenschutz
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Benutzer.png|40px|link=BenutzerInnen|Benutzer]] [[BenutzerInnen]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+[[BenutzerInnen]] der Plattform können Kontaktinformationen hinterlegen und einzelne Fragestellungen als für sie relevant markieren.
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+== Datenschutzmanagement ==
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Informationspflichten.png|40px|link=Hilfe|Informationspflichten]] [[Informationspflichten]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Dokumentieren Sie, wo und wie Sie den Informationspflichten laut DSGVO nachkommen. 
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Verfahren.png|40px|link=Hilfe|Verfahrensverzeichnis]] [[Verfahrensverzeichnis]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Das &quot;Verzeichnis der Verarbeitungstätigkeiten&quot; bietet den Ausgangspunkt für aktives Datenschutzmanagement. 
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Folgenabschätzung.png|40px|link=Hilfe|Folgenabschätzung]] [[Folgenabschätzung]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Dokumentieren Sie Datenschutz-Folgenabschätzungen, die für Ihre Organisation durchgeführt worden sind.
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Auskunftsersuchen.png|40px|link=Auskunftsersuchen|Auskunftsersuchen]] [[Auskunftsersuchen]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Dokumentieren Sie Auskunftsersuchen von Privatpersonen, die durch Ihre Organisation beantwortet wurden.
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Löschantrag.png|40px|link=Löschantrag|Lösch-/Änderungsantrag]] [[Löschantrag|Lösch-/Änderungsantrag]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Dokumentieren Sie Lösch- und Änderungsanträge von Privatpersonen sowie deren interne Umsetzung.
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Image:Verletzung.png|40px|link=Datenschutzverletzung|Verletzung]] [[Datenschutzverletzung|Verletzung des Schutzes personenbezogener Daten]]&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Dokumentieren Sie Verletzungen des Schutzes personenbezogener Daten, die in Ihrer Organisation aufgetreten sind, sowie allfällige Meldungen an die Datenschutzbehörde.
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;__NOTOC__</text>
+      <sha1>s6242jdb6p4w4ux2bk6fdaxfkw890yn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenschutz-Grundverordnung</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>3257</id>
+      <parentid>3256</parentid>
+      <timestamp>2018-05-25T10:53:10Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17871">__NOTOC__&lt;div class=&quot;jumbotron&quot;&gt;
+{| class=&quot;table&quot; 
+|-
+|width=&quot;20%&quot; style=&quot;text-align:left;&quot;|4.5.2016 ||style=&quot;text-align:center;&quot;|Amtsblatt der Europäischen Union||width=&quot;20%&quot; style=&quot;text-align:right;&quot;|L 119/1
+|-
+|width=&quot;20%&quot; style=&quot;text-align:left;&quot;|
+|style=&quot;text-align:center;&quot;|
+|width=&quot;20%&quot; style=&quot;text-align:right;&quot;|
+|}
+&lt;h2 style=&quot;text-align:center;&quot;&gt;I &lt;br/&gt;
+&lt;small&gt;''(Gesetzgebungsakte)''&lt;/small&gt;&lt;/h2&gt;
+&lt;h1 style=&quot;text-align:center;&quot;&gt;[http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679 Verordnungen]&lt;/h1&gt;
+&lt;h3 style=&quot;text-align:center;&quot;&gt;
+VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES&lt;br/&gt;vom 27. April 2016&lt;br/&gt;zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)&lt;br/&gt;&lt;small&gt; (Text von Bedeutung für den EWR)&lt;/small&gt;&lt;/h3&gt;
+&lt;/div&gt;&lt;div class=&quot;panel panel-default&quot;&gt;&lt;div class=&quot;panel-body&quot;&gt;
+===VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES===
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION — 
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf &lt;noglossary&gt;Artikel 16&lt;/noglossary&gt;, 
+
+auf Vorschlag der Europäischen Kommission, 
+
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente, nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses (1), 
+
+nach Stellungnahme des Ausschusses der Regionen (2), 
+
+gemäß dem ordentlichen Gesetzgebungsverfahren (3), 
+
+in Erwägung nachstehender [[DSGVO:Gründe|Gründe]]
+
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Die DSGVO (Verordnung (EU) 2016/679) wurde am 04.05.2016 im ABl. Nr. L119 S. 1 kundgemacht, trat am 20. Tag nach ihrer Veröffentlichung in Kraft und gilt ab dem 25.05.2018. Sie hebt die DSRL auf und wird ab Mai 2018 das Rückgrat des allgemeinen Datenschutzes der EU bilden. Die Verordnung ist unmittelbar anwendbar und bedürfte grundsätzlich keines weiteren innerstaatlichen Umsetzungsaktes. Die DSGVO enthält zahlreiche „Öffnungsklauseln“, die den nationalen Gesetzgeber verpflichten und/oder berechtigen, bestimmte Angelegenheiten gesetzlich näher zu regeln. Es wird daher neben der DSGVO in Österreich weiterhin ein nationales Datenschutzgesetz geben.
+
+Zielsetzungen der DSGVO sind
+* einheitlicher Rechtsschutz für alle Betroffenen in der EU
+* einheitliche Regeln für die Datenverarbeitung innerhalb der EU
+* Gewährleistung eines starken und einheitlichen Vollzuges
+
+Die datenschutzrechtliche Terminologie ist in bestimmten Bereichen neu. So wird bspw. der bisherige Auftraggeber zum „Verantwortlichen“ und der Dienstleister zum „Auftragsverarbeiter“.
+&lt;/div&gt;&lt;/div&gt;
+
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL I. Allgemeine Bestimmungen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL I. Allgemeine Bestimmungen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL II. Grundsätze]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL II. Grundsätze
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL III. Rechte der betroffenen Person]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL III. Rechte der betroffenen Person
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Kapitel III regelt jene Datenschutzrechte, die einer betroffenen Person zukommen.
+
+Die Art. 13 und 14 – wie bereits schon Art. 10 und 11 der DSRL – legen die Informationspflichten gegenüber Betroffenen fest. Demnach sind Betroffene darüber zu informieren, von wem, auf welcher Rechtsgrundlage und zu welchem Zweck ihre Daten verarbeitet und an wen sie übermittelt werden. Der EuGH misst diesen Informationspflichten großen Wert bei, weil diese die Voraussetzungen dafür schaffen, dass Betroffene ihre Rechte (Auskunft, Richtigstellung, Löschung, Widerspruch) ausüben können.
+
+Neben den schon bisher bekannten Rechten auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17; ausweitet zum „Recht auf Vergessenwerden“) und Widerspruch (Art. 21)8 werden neue Rechte eingeführt.
+
+So sieht Art. 18 das Recht auf Einschränkung der Verarbeitung vor, wonach ein Betroffener vom Verantwortlichen die Einschränkung der Verarbeitung verlangen kann, wenn bspw. die Richtigkeit der Daten bestritten wird.
+
+Art. 20 räumt einem Betroffenen das Recht auf Datenübertragbarkeit ein. Damit soll sichergestellt werden, dass die von einem Betroffenen zur Verfügung gestellten personenbezogene Daten, die bei einem (privaten) Anbieter in einer bestimmten technischen Umgebung gespeichert werden, bei einem Anbieterwechsel ohne technische Barrieren für die Betroffenen in eine neue technische Umgebung übertragen werden können.
+
+Art. 23 ermächtigt die Union und die Mitgliedstaaten, die in den Art. 12 bis 22 und Art. 34 und 5 normierten Rechte und Pflichten unter bestimmten Voraussetzungen einzuschränken. Nach der Rsp des EuGH unterliegen solche Einschränkungen aber insofern der Kontrolle des EuGH, als auch Einschränkungen, die Mitgliedstaaten vornehmen können, in den Anwendungsbereich des Unionsrechtes fallen.
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL IV. Verantwortlicher und Auftragsverarbeiter]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL IV. Verantwortlicher und Auftragsverarbeiter
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Die DSGVO nimmt stärker als die DSRL und das DSG 2000 Verantwortliche und Auftragsverarbeiter in die Pflicht.
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL V. Übermittlungen personenbezogener Daten an Drittländer oder an internationale Organisationen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL V. Übermittlungen personenbezogener Daten an Drittländer oder an internationale Organisationen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Kapitel V regelt die näheren Voraussetzungen für den Datenverkehr mit Empfängern in Drittstaaten oder internationalen Organisationen.
+
+Ein derartiger Datenfluss ist nur unter folgenden Bedingungen zulässig:
+* Vorliegen eines Angemessenheitsbeschlusses der Europäischen Kommission (Art. 45)
+* Vorliegen geeigneter Garantien (Art. 46)
+* Vorliegen verbindlicher unternehmensinterner Vorschriften (Art. 47)
+
+Art. 49 sieht Ausnahmen für bestimmte Fälle vor.
+
+Die Ratio hinter Kapitel V ist, dass die übermittelten Daten beim Empfänger im Drittstaat demselben Schutzregime wie in der EU unterliegen sollen.
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL VI. Unabhängige Aufsichtsbehörden]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL VI. Unabhängige Aufsichtsbehörden
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;&lt;ref&gt;Vgl. dazu im Detail Schmidl, Aufgaben und Befugnisse der Aufsichtsbehörden sowie Rechtsschutzmöglichkeiten nach der DSGVO, ÖBA 1/17 S. 27 ff; Flendrovsky, Die Aufsichtsbehörden, in Knyrim (Hrgs.) aaO S. 281 ff.&lt;/ref&gt;
+Wie derzeit wird es in jedem Mitgliedstaat zumindest eine unabhängige Aufsichtsbehörde geben.
+Die Aufgaben und Befugnisse werden erheblich erweitert (Art. 57 und 58).
+Art. 58 normiert drei Arten von Befugnissen:
+• Untersuchungsbefugnisse (einschließlich des Betretungsrechts bestimmter Räumlichkeiten)
+• Abhilfebefugnisse (das sind Befugnisse, die es der Aufsichtsbehörde ermöglichen, ein rechtswidriges Verhalten abzustellen, bspw. durch konkrete Anordnungen oder die Verhängung von Geldbußen iHv bis zu 20 Millionen Euro oder 4% des gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahres)
+• Genehmigungs- und Beratungsbefugnisse.
+Gerichte sind von der Aufsicht ausgenommen, sofern sie im Rahmen ihrer justiziellen Tätigkeit handeln. Im Umkehrschluss unterliegen Organe der Gerichtsbarkeit daher der Aufsicht, wenn sie im Rahmen der Justizverwaltung tätig werden. &lt;ref&gt;Vgl. dazu näher Schmidl in Gantschacher/Jelinek/Schmidl/Spanberger, Kommentar zu Datenschutz-Grundverordnung1[2017] Art. 55 Anm. 3; Nguyen in Gola (Hrsg.), Datenschutz-Grundverordnung [2017] Art. 55 Rz. 13.&lt;/ref&gt;
+
+=== Fußnoten ===
+&lt;references /&gt;
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL VII. Zusammenarbeit und Kohärenz]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL VII. Zusammenarbeit und Kohärenz
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;&lt;ref&gt;Siehe dazu im Detail Leissler/Wolfbauer, Der One Stop Shop in der DSGVO, in Knyrim (Hrsg.) aaO S. 291 ff; Schmidl, Kooperation der Aufsichtsbehörden bei grenzüberschreitenden Fällen, in Knyrim (Hrsg.) aaO S. 303 ff.&lt;/ref&gt;
+Da im digitalen Zeitalter grenzüberschreitende Sachverhalte die Norm sind, sieht die DSGVO auch eine verstärkte Zusammenarbeit zwischen den einzelnen Aufsichtsbehörden vor. Liegt ein grenzüberschreitender Sachverhalt vor, soll unter Einbindung aller betroffenen Aufsichtsbehörden eine abgestimmte Entscheidung getroffen werden, die dann dem Verantwortlichen oder Auftragsverarbeiter am Sitz seiner Hauptniederlassung zuzustellen ist.
+
+Dabei fungiert die Aufsichtsbehörde am Sitz der Hauptniederlassung als federführende Aufsichtsbehörde &lt;ref&gt;Vgl. dazu WP 244, Leitlinie der Art. 29-Gruppe vom 13.12.2016 zur Feststellung der federführenden Aufsichtsbehörde, abrufbar in Englisch unter http://ec.europa.eu/newsroom/just/item-detail.cfm?item_id=50083.&lt;/ref&gt;, die die Einbindung der (sonst noch) betroffenen Aufsichtsbehörden koordiniert und einen Entscheidungsentwurf vorbereitet und mit den betroffenen Aufsichtsbehörden abstimmt.
+
+Der Empfänger ist, sofern er die Entscheidung nicht bekämpft, verpflichtet, die Entscheidung in all seinen Niederlassungen in der EU umzusetzen.
+
+Kapitel VII sieht auch noch die Verpflichtung zur wechselseitigen Amtshilfe (Art. 61) und die Möglichkeit zur Durchführung gemeinsamer Maßnahmen der Aufsichtsbehörden (Art. 62) vor.
+
+Das Verfahren zur Zusammenarbeit findet keine Anwendung, wenn es sich beim Verantwortlichen/Auftragsverarbeiter um eine Behörde oder einen beliehenen Rechtsträger handelt (Art. 55 Abs. 2).
+
+Eine wesentliche Rolle wird der nach Art. 68 einzurichtende Europäische Datenschutzausschuss spielen, in welchem die Aufsichtsbehörden aller Mitgliedstaaten, der Europäische Datenschutzbeauftragte sowie die Europäische Kommission vertreten sind.
+Der Ausschuss hat nach Art. 70 vielfältige Aufgaben, darunter die Verabschiedung von Leitlinien zu bestimmten Themen der DSGVO, aber auch die Abgabe von Stellungnahmen sowie die Fällung verbindlicher Beschlüsse (Art. 64 und 65). Er wird dabei von einem Sekretariat unterstützt, das vom Europäischen Datenschutzbeauftragten bereitgestellt wird.
+
+=== Fußnoten ===
+&lt;references /&gt;
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL VIII. Rechtsbehelfe, Haftung und Sanktionen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL VIII. Rechtsbehelfe, Haftung und Sanktionen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Art. 77 normiert das Recht auf eine Beschwerde bei einer Aufsichtsbehörde.
+
+Gegen verbindliche Entscheidungen der Aufsichtsbehörde bzw. gegen Untätigkeit der Aufsichtsbehörde steht der Rechtsweg an ein Gericht offen (Art. 78). Zuständig für solche Beschwerden sind die Gerichte jenes Mitgliedstaates, in welchem die Behörde ihren Sitz hat.
+
+Art. 79 normiert das Recht auf einen wirksamen gerichtlichen Behelf gegen Verantwortliche oder Auftragsverarbeiter.
+
+Nach Art. 80 können sich betroffene Personen von spezialisierten Einrichtungen, Organisationen oder Vereinigungen ohne Gewinnerzielungsabsicht vor der Aufsichtsbehörde vertreten und Schadenersatz gerichtlich einklagen lassen. Die Mitgliedstaaten können auch vorsehen, dass diese Einrichtungen auch unabhängig von einer Bevollmächtigung Beschwerde bei der Aufsichtsbehörde einreichen können. Die Geltendmachung von Schadenersatzforderungen ist hingegen ohne Mandat nicht möglich. &lt;ref&gt;Siehe dazu EG 142. Damit sollen Sammelklagen verhindert werden.&lt;/ref&gt;
+
+Art. 82 normiert die Möglichkeit, für erlittenen materiellen und immateriellen Schaden Schadenersatz vom Verantwortlichen oder Auftragsverarbeiter zu verlangen. Sind an einer Verarbeitung mehrere Verantwortliche oder Auftragsverarbeiter beteiligt, so haftet jeder von ihnen für den Gesamtschaden (Art. 82 Abs. 4).
+
+Art. 83 enthält Gelbußentatbestände sowie jene Gründe, die als erschwerend oder mildernd bei der Strafbemessung zu berücksichtigen sind.
+
+Die Geldbußen, bei welchen es sich um Verwaltungsstrafen handelt &lt;ref&gt;Dies ergibt sich eindeutig aus einem Vergleich der Sprachfassungen; die englische Sprachfassung spricht von „administrative fines“, die französische von „amendes administratives“. Bei Geldbußen handelt es sich folglich um Strafen und nicht um eine andere Sanktion (vgl. dazu zu Geldbußen im Bereich des Vergabewesens etwa das Erkenntnis des VwGH vom 16.12.2015, Zl. Ro 2014/04/0065).&lt;/ref&gt;, reichen bis zu 20 Millionen Euro oder, im Falle eines Unternehmens &lt;ref&gt;Da dem österreichischen Verwaltungsstrafrecht die Strafbarkeit juristischer Personen fremd ist, müsste innerstaatlich dafür eine Rechtsgrundlage geschaffen werden (vgl. dazu bspw. § 35 FM-GWG).&lt;/ref&gt;, bis zu 4 % des gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahres, je nachdem, welcher Betrag höher ist. Es bleibt den Mitgliedstaaten vorbehalten festzulegen, ob Geldbußen auch gegen Behörden und öffentliche Stellen verhängt werden können. &lt;ref&gt;Für Österreich siehe zur Unzulässigkeit der Verhängung einer Verwaltungsstrafe gegen ein oberstes Organ VfSlg. 19.988/2015.&lt;/ref&gt;
+
+Sieht die Rechtsordnung eines Mitgliedstaates keine Geldbußen vor, kann Art. 83 so angewendet werden, dass die Aufsichtsbehörde einen Strafantrag bei Gericht stellt und die Geldbuße von einem Gericht verhängt wird. &lt;ref&gt;Flendrovsky argumentiert auf Basis der Rsp des VfGH, dass derart hohe Geldstrafen in Österreich zwingend von einem Gericht zu verhängen wären und nicht von einer Verwaltungsbehörde; vgl. dazu Flendrovsky, Die Aufsichtsbehörden, in Knyrim (Hrgs.) aaO S. 287.&lt;/ref&gt;
+
+Art. 84 verpflichtet die Mitgliedstaaten, zusätzliche Sanktionen, vor allem gerichtlich strafbare Tatbestände, zu normieren.
+
+=== Fußnoten ===
+&lt;references /&gt;
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL IX. Vorschriften für besondere Verarbeitungssituationen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL IX. Vorschriften für besondere Verarbeitungssituationen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL X. Delegierte Rechtsakte und Durchführungsrechtsakte]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL X. Delegierte Rechtsakte und Durchführungsrechtsakte
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Kapitel IX legt besondere Verarbeitungssituationen (bspw. Freiheit der Meinungsäußerung, Zugang zu amtlichen Dokumenten, Beschäftigungskontext) fest. Die Mitgliedstaaten sind dazu angehalten, durch Rechtsvorschriften diese Verarbeitungssituationen näher zu determinieren, um sie in Einklang mit der DSGVO zu bringen.
+
+Nach Art. 99 trat die Verordnung am zwanzigsten Tag nach ihrer Veröffentlichung im ABl. in Kraft (das war der 25.05.2016) und gilt ab dem 25.05.2018.
+&lt;/div&gt;&lt;/div&gt;
+{{#ask:[[Kategorie:Artikel DSGVO]] [[Kapitel::KAPITEL XI. Schlussbestimmungen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=KAPITEL XI. Schlussbestimmungen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}&lt;/div&gt;&lt;div class=&quot;panel-footer&quot;&gt;Quellen: 
+*[http://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679 Gesetzestext DSGVO]
+* [[Media:DSGVO-Leitfaden.pdf|DSGVO-Leitfaden der Datenschutzbehörde]]  (Erläuterungen)
+&lt;/div&gt;&lt;/div&gt;
+[[Kategorie:Gesetze]]</text>
+      <sha1>03ovbqi0fln1ac62q0culrarycs7bze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenschutzbeauftragte</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>3113</id>
+      <parentid>3112</parentid>
+      <timestamp>2018-03-28T07:44:57Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="725">Datenschutzbeauftragte gemäß Artikel 37 müssen als [[BenutzerInnen]] angelegt werden und bei &quot;Funktion&quot; muss '''Datenschutzbeauftragte/r''' zugewiesen werden.
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Datenschutzbeauftragte&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte/r]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine BenutzerInnen mit der Funktion &quot;Datenschutzbeauftrate/r&quot; gefunden...
+}}&lt;/div&gt;&lt;/div&gt;
+{{#set:Title Icon=Datenschutzbeauftragte.png}}</text>
+      <sha1>7dilv4twcw7o35ln7l1bp5a816sebki</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenschutzgesetz</title>
+    <ns>0</ns>
+    <id>32</id>
+    <revision>
+      <id>3313</id>
+      <parentid>3312</parentid>
+      <timestamp>2018-05-25T10:55:51Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22276">&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Das österreichische Datenschutz-Anpassungsgesetz 2018&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+In Durchführung der DSGVO und Umsetzung der Datenschutzrichtlinie für den Bereich Polizei und Justiz (DSRL-PJ) &lt;ref&gt;Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zweck der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates – Datenschutzrichtlinie-Polizei Justiz (DSRL-PJ), ABl. Nr. L 119 vom 04.05.2016 S. 89.&lt;/ref&gt; wurde vom österreichischen Gesetzgeber das Datenschutz-Anpassungsgesetz 2018 &lt;ref&gt;BGBl. I Nr. 120/2017.&lt;/ref&gt; verabschiedet, das am 25. Mai 2018 in Kraft treten soll.
+
+Kernstück des Datenschutz-Anpassungsgesetzes 2018 ist das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG). Dabei wurde das bestehende DSG 2000 der einfachgesetzlichen Bestimmungen entkleidet, die Verfassungsbestimmungen (insbes. das Grundrecht auf Datenschutz nach § 1) bleiben bestehen.
+
+Das (neue) DSG gliedert sich in 5 Hauptstücke. Das 1. Hauptstück normiert die Durchführung der Datenschutz-Grundverordnung und ergänzende Regelungen, das 2. Hauptstück regelt die Organe (des Datenschutzes), das 3. Hauptstück die Umsetzung der DSRL-PJ, das 4. Hauptstück die besonderen Strafbestimmungen und das 5. Hauptstück die Schlussbestimmungen.
+
+Für Verantwortliche und Auftragsverarbeiter relevant ist v.a. das 1. Hauptstück, das sich in drei Abschnitte gliedert.
+
+Der 1. Abschnitt enthält allgemeine Bestimmungen (bspw. zum Datenschutzbeauftragten oder zum Datengeheimnis).
+
+Der 2. Abschnitt regelt die Datenverarbeitungen zu spezifischen Zwecken (wie bspw. für Zwecke der wissenschaftlichen Forschung und Statistik oder für die Verwendung im Beschäftigungskontext).
+
+Der 3. Abschnitt regelt die Bildverarbeitung (vormals „Videoüberwachung“).
+
+Weitere wesentliche Eckpunkte sind:
+* Die Datenschutzbehörde wird als Aufsichtsbehörde mit allen Befugnissen (einschließlich der Verhängung von Geldbußen) nach der DSGVO und der DSRL-PJ eingerichtet.
+* Geldbußen können auch direkt gegen juristische Personen verhängt werden und nicht nur gegenüber dem verantwortlichen Beauftragten (§ 9 des Verwaltungsstrafgesetzes 1991 – VStG); gegen Behörden und öffentliche Stellen können keine Geldbußen verhängt werden.
+* Die Datenschutzbehörde entscheidet über alle Beschwerden verbindlich (d.h. auch über solche, bei denen nach derzeitiger Rechtslage der Zivilrechtsweg zu beschreiten ist; vgl. dazu § 32 DSG 2000).
+* Gegen verbindliche Entscheidungen der Datenschutzbehörde steht der Rechtszug an das Bundesverwaltungsgericht uneingeschränkt offen.
+* Betroffene können sich von Einrichtungen, Organisationen oder Vereinigungen ohne Gewinnerzielungsabsicht, die im Bereich des Datenschutzes tätig sind, vor der Datenschutzbehörde und vor dem Bundesverwaltungsgericht vertreten lassen; diese Einrichtungen, Organisationen oder Vereinigungen können für Betroffene auch das Recht auf Schadenersatz gerichtlich geltend machen; ein Einschreiten der Einrichtungen, Organisationen oder Vereinigungen ohne Mandat (d.h. ohne Bevollmächtigung) ist nicht vorgesehen.
+* Es werden – neben den Geldbußen nach der DSGVO – auch Verwaltungsübertretungen normiert, die von der Datenschutzbehörde mit Geldstrafe bis zu 50 000 Euro zu ahnden sind.
+* Die von der Datenschutzbehörde zu führenden Listen (Notwendigkeit der Durchführung einer Datenschutz-Folgeabschätzung, Anforderungen an Zertifizierungsstellen, Kriterien für die Akkreditierung einer Stelle) sind in Form einer Verordnung im BGBl. kundzumachen und können bereits vor dem 25. Mai 2018 kundgemacht werden (sie treten jedoch nicht vor diesem Datum in Kraft).
+
+Die Übergangsbestimmungen (§ 69 DSG) regeln folgende wesentliche Sachverhalte:
+* Das DVR bleibt zu Archivzwecken bis Ende 2019 bestehen, es dürfen jedoch keine inhaltlichen Änderungen vorgenommen werden &lt;ref&gt;Die Datenschutzbehörde stellt eine technische Schnittstelle zur Verfügung, über welche registrierte Datenanwendungen in einem technisch üblichen Format heruntergeladen und weiterbearbeitet werden können.&lt;/ref&gt;; eine öffentliche Einsicht bleibt bis zu diesem Zeitpunkt weiter möglich.
+* Registrierungen im DVR werden gegenstandslos, am 25. Mai 2018 anhängige Registrierungsverfahren nach §§ 17 ff DSG 2000 gelten mit diesem Tag als eingestellt.
+* Verfahren nach den §§ 13, 46 und 47 DSG 2000 sind fortzuführen, sofern die Genehmigung nach dem DSG oder der DSGVO erforderlich ist; anderenfalls gelten sie als eingestellt.
+* Zum Zeitpunkt des Inkrafttretens des DSG bei der Datenschutzbehörde oder bei den ordentlichen Gerichten zum DSG 2000 anhängige Verfahren sind nach den Bestimmungen des DSG und der DSGVO fortzuführen, mit der Maßgabe, dass die Zuständigkeit der ordentlichen Gerichte aufrecht bleibt.
+
+Die auf Basis des DSG 2000 erlassenen Verordnungen (Standard- und Muster-Verordnung 2004 – StMV 2004, Datenverarbeitungsregister-Verordnung 2012 – DVRV 2012 und die Datenschutzangemessenheits-Verordnung – DSAV, BGBl. II Nr. 521/1999) treten mit Ablauf des 24. Mai 2018 außer Kraft.
+
+=== Fußnoten ===
+&lt;references /&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Die Änderungen vom April 2018: Datenschutz-Deregulierungs-Gesetz 2018&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+Am 20. April 2018 wurden folgende Änderungen beschlossen:
+* Änderung des Datenschutzgesetzes – DSG: [https://www.ris.bka.gv.at/eli/bgbl/I/2018/24 BGBl. I Nr. 23/2018]
+* Datenschutz-Deregulierungs-Gesetz 2018: [https://www.ris.bka.gv.at/eli/bgbl/I/2018/24 BGBl. I Nr. 24/2018]
+Beide Änderungen sind in der aktuellen Version eingearbeitet.
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+&lt;h1 style=&quot;text-align:center;&quot;&gt;[https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10001597&amp;FassungVom=2018-05-25 Bundesgesetzblatt]&lt;/h1&gt;
+{| class=&quot;table&quot; 
+|-
+|width=&quot;20%&quot; style=&quot;text-align:left;&quot;|Jahrgang 2017 ||style=&quot;text-align:center;&quot;|Ausgegeben am 25. Mai 2018 ||width=&quot;20%&quot; style=&quot;text-align:right;&quot;|Teil I
+|-
+|width=&quot;20%&quot; style=&quot;text-align:left;&quot;|XXX. Bundesgesetz:||style=&quot;text-align:center;&quot;|Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG)&lt;br/&gt;StF: BGBl. I Nr. 165/1999 (NR: GP XX RV 1613 AB 2028 S. 179. BR: 5992 AB 6034 S. 657.)&lt;br/&gt;[(CELEX-Nr.: 395L0046)]||width=&quot;20%&quot; style=&quot;text-align:right;&quot;| 
+|}&lt;/div&gt;&lt;div class=&quot;panel panel-default&quot;&gt;&lt;div class=&quot;panel-body&quot;&gt;
+Der Nationalrat hat beschlossen:
+=== Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG) ===
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen Allgemeiner Teil&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+'''Hauptgesichtspunkte des Entwurfs:'''
+
+Das geltende Datenschutzgesetz 2000 (DSG 2000), BGBl. I Nr. 165/1999, setzt die Richtlinie 95/46/EG zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr, ABl. Nr. L 281 vom 23.11.1995 S. 31, in innerstaatliches Recht um.
+
+Am 27. April 2016 wurde die Verordnung (EU) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung  personenbezogener  Daten,  zum  freien  Datenverkehr  und  zur  Aufhebung  der  Richtlinie 95/46/EG (Datenschutz-Grundverordnung), ABl. Nr. L 119 vom 4.5.2016 S. 1, beschlossen. Die Datenschutz-Grundverordnung (DSGVO) ist am 25. Mai 2016 in Kraft getreten, tritt am 25. Mai 2018 in Geltung und hebt mit 25. Mai 2018 die Richtlinie 95/46/EG auf.
+
+Wenngleich die DSGVO unmittelbare Geltung erlangt, bedarf sie in zahlreichen Bereichen der Durchführung ins innerstaatliche Recht (zB die Errichtung der Aufsichtsbehörde nach Art. 51 Abs. 1 iVm Art. 54 Abs. 1 lit. a DSGVO). Darüber hinaus enthält die DSGVO auch Regelungsspielräume („Öffnungsklauseln“), die fakultativ von den Mitgliedstaaten genutzt werden können. Während die notwendige Durchführung der DSGVO überwiegend im neuen Datenschutzgesetz (DSG) erfolgt, werden Öffnungsklauseln nur zu einem geringen Teil direkt im neuen DSG geregelt bzw. handelt es sich um Regelungsspielräume, die im neuen DSG bewusst nicht geregelt werden, da die DSGVO bereits eine Grundregel enthält, die – als allgemeiner Ansatz – grundsätzlich auch im nationalen Recht übernommen werden soll (zB Art. 8 Abs. 1 DSGVO hinsichtlich der Altersgrenze für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft). Der überwiegende Teil der Öffnungsklauseln fällt jedoch nicht in den Bereich der allgemeinen Angelegenheiten des Datenschutzes, deshalb werden diese nicht im neuen DSG geregelt. Jedoch kann – soweit erforderlich – in spezifischen Materiengesetzen eine entsprechende Festlegung erfolgen (zB Art. 23 und 88 DSGVO).
+
+Aus diesen Gründen sind umfassende Änderungen im innerstaatlichen Datenschutzrecht erforderlich, die durch die Erlassung eines neuen DSG vorgenommen werden sollen. Dabei sollen – entsprechend der allgemeinen unionsrechtlichen Vorgaben für Rechtsakte in Verordnungsform – nur die unbedingt erforderlichen Regelungen der Verordnung im innerstaatlichen Recht durchgeführt werden, da die Verordnung in allen sonstigen Teilen ohnedies unmittelbar gilt und ein darüber hinausgehendes Abschreiben von Teilen der Verordnung im Hinblick auf das unionsrechtliche Transformationsverbot nicht zulässig wäre. Hinsichtlich der ausnahmsweise zulässigen Transformation wird auf den Erwägungsgrund 8 der DSGVO verwiesen: Wenn in der DSGVO Präzisierungen oder Einschränkungen ihrer Vorschriften durch das Recht der Mitgliedstaaten vorgesehen sind, können die Mitgliedstaaten Teile dieser Verordnung in ihr nationales Recht aufnehmen, soweit dies erforderlich ist, um die Kohärenz zu wahren und die nationalen Rechtsvorschriften für die Personen, für die sie gelten, verständlicher zu machen.
+
+Weiters ist im DSG 2000 auch der Rahmenbeschluss 2008/977/JI über den Schutz personenbezogener Daten, die im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen verarbeitet werden, ABl. Nr. L 350 vom 27.11.2008 S. 60, umgesetzt. Dieser Rahmenbeschluss wird durch die – am gleichen Tag wie die DSGVO beschlossene – Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur  Aufhebung  des  Rahmenbeschlusses  2008/977/JI  des  Rates,  ABl. Nr. L 119 vom 4.5.2016 S. 89, aufgehoben.
+Die Richtlinie (EU) 2016/680 bedarf einer Umsetzung ins innerstaatliche Recht. Nachdem der Rahmenbeschluss bisher im DSG 2000 umgesetzt ist, soll die Richtlinie auch im neuen DSG in einem eigenen Hauptstück geregelt werden. Dabei soll im Rahmen der Umsetzung – soweit möglich – auf die zum Teil wortgleichen Regelungen in der DSGVO sowie auf die Durchführungsregelungen zur DSGVO (zB hinsichtlich der Einrichtung der Datenschutzbehörde) verwiesen werden und damit eine möglichst schlanke Umsetzung der Richtlinie erreicht werden. Weiters soll  das  für  diesen  Bereich  bisher  im DSG 2000 festgelegte und innerstaatlich langjährig etablierte Datenschutzniveau im Rahmen der vorzunehmenden Richtlinienumsetzung nicht abgesenkt werden. Wie auch schon nach der geltenden Rechtslage sollen die einschlägigen materienspezifischen Regelungen zu Datenverarbeitungen (leges speciales) den allgemeinen Regelungen des neuen DSG vorgehen.
+
+Neben der Durchführung bzw. Umsetzung der beiden Unionsrechtsakte soll auch weiterhin ein Grundrecht auf Datenschutz in angepasster Form im DSG verankert werden.
+Die Mitgliedstaaten können gemäß Art. 6 Abs. 2 DSGVO spezifischere Bestimmungen zur Anpassung der Anwendung der Vorschriften der DSGVO in Bezug auf die Verarbeitung zur Erfüllung von Art. 6 Abs. 1 lit. c und e DSGVO beibehalten oder einführen, indem sie spezifische Anforderungen für die Verarbeitung sowie sonstige Maßnahmen präziser bestimmen, um eine rechtmäßig und nach Treu und Glauben erfolgende Verarbeitung zu gewährleisten, einschließlich für andere besondere Verarbeitungssituationen gemäß Kapitel IX der DSGVO. In diesem Rahmen sollen die im DSG 2000 geregelten besonderen Verwendungszwecke von Daten (zB §§ 47 bis 48a DSG 2000) und Regelungen zur Videoüberwachung (vgl. §§ 50a bis 50e DSG 2000) ins neue DSG aufgenommen und im Zuge dessen an die geänderten Erfordernisse angepasst werden. Im Rahmen dieser Vorgaben der DSGVO können auch spezifische Datenverarbeitungen in Materiengesetzen geregelt werden; bestehende Regelungen müssen – soweit sie den Vorgaben der DSGVO nicht entsprechen – angepasst werden. Eine allgemeine Festlegung der Kriterien für die Zulässigkeit von Datenverarbeitungen – wie sie bisher in §§ 8 und 9  DSG 2000 geregelt ist –, erscheint im Lichte der unmittelbaren Geltung der DSGVO und vor dem Hintergrund des Transformationsverbots jedoch nicht mehr zulässig.
+
+Darüber hinaus enthält die DSGVO in Kapitel IX „Vorschriften für besondere Verarbeitungssituationen“. Für diese Verarbeitungssituationen können die Mitgliedstaaten grundsätzlich spezifischere Vorschriften erlassen. Neben der Verarbeitung und Freiheit der Meinungsäußerung und Informationsfreiheit (Art. 85 DSGVO) umfasst dies etwa auch die Datenverarbeitung im Beschäftigungskontext (Art. 88 DSGVO). Die letztgenannte Bestimmung sieht die Möglichkeit vor, durch Rechtsvorschriften oder durch Kollektivvereinbarungen spezifischere Vorschriften zur Gewährleistung des Schutzes der Rechte und Freiheiten hinsichtlich der Verarbeitung personenbezogener Beschäftigtendaten vorzusehen.
+
+Weitere Änderungen betreffen die Kompetenzrechtslage auf dem Gebiet des Datenschutzes. Die derzeitige Einschränkung der Gesetzgebungszuständigkeit des Bundes auf den Schutz personenbezogener Daten im automationsunterstützten Datenverkehr soll nun im neuen DSG entfallen. Dadurch soll der Bund in die Lage versetzt werden, die DSGVO und die Richtlinie (EU) 2016/680 einheitlich und vollständig, also auch hinsichtlich manueller personenbezogener Dateien durchzuführen bzw. umzusetzen.
+Mit Inkrafttreten des neuen DSG soll das DSG 2000 samt den darauf beruhenden Verordnungen aufgehoben werden.
+
+'''Kompetenzgrundlage:'''
+
+Der vorliegende Entwurf stützt sich auf Art. 10 Abs. 1 Z 1 B-VG.
+
+'''Besonderheiten des Normerzeugungsverfahrens:'''
+
+Der Entwurf kann gemäß Art. 44 Abs. 1 B-VG vom Nationalrat nur in Anwesenheit von mindestens der Hälfte der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen beschlossen werden und bedarf überdies gemäß Art. 44 Abs. 2 B-VG der in Anwesenheit von mindestens der Hälfte der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen zu erteilenden Zustimmung des Bundesrates.
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Erläuterungen Besonderer Teil&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+'''Zu Artikel 1 (Änderung des Bundes-Verfassungsgesetzes)'''
+
+'''Zu den Z 1 bis 3:'''
+
+Im Sinne der Konzentration aller Kompetenzbestimmungen im B-VG sollen die derzeit in § 2 DSG 2000 enthaltenen kompetenzrechtlichen Regelungen in das B-VG in modifizierter Form integriert werden.
+
+Die bisherige Kompetenzrechtslage auf dem Gebiet des Datenschutzes erwies sich vor allem seit Inkrafttreten der Richtlinie 95/46/EG, die sowohl für automationsunterstützt als auch für konventionell (manuell) in einer Datei geführte Datenanwendungen gilt, als unzweckmäßig. Infolge der zwischen Bund und Ländern geteilten Gesetzgebungskompetenz musste diese Richtlinie durch das DSG 2000 und eigene Datenschutzgesetze der Länder umgesetzt werden, wobei der den Ländern – in Folge der Vorgaben der Richtlinie und des Grundrechts auf Datenschutz gemäß § 1 DSG 2000 – verbliebene Gestaltungsspielraum äußerst gering war.
+
+Die bisher in § 2 Abs. 1 DSG 2000 enthaltene Einschränkung der Gesetzgebungszuständigkeit des Bundes auf den Schutz personenbezogener Daten im automationsunterstützten Datenverkehr soll nun im neuen DSG entfallen. Dadurch soll der Bund in die Lage versetzt werden, die DSGVO und die Richtlinie (EU) 2016/680 einheitlich und vollständig, also auch hinsichtlich manueller personenbezogener Dateien durchzuführen bzw. umzusetzen.
+
+Durch die Einschränkung auf allgemeine Angelegenheiten des Schutzes personenbezogener Daten soll die Zuständigkeit zur Erlassung von auf einen bestimmten Gegenstand bezogenen datenschutzrechtlichen Regelungen – wie bisher auch – unberührt bleiben. Die allgemeinen Angelegenheiten des Schutzes personenbezogener Daten werden auf den neuen Kompetenztatbestand in Art. 10 Abs. 1 Z 13 gestützt im neuen DSG geregelt; hingegen sollen die spezifischen datenschutzrechtlichen Regelungen weiterhin auf die Kompetenztatbestände der jeweiligen Materie gestützt werden (materienspezifischer Datenschutz als Annexmaterie).
+
+Weiters können auch spezifische bundesgesetzliche Datenverarbeitungen als datenschutzrechtliche Annexmaterie  erlassen  werden  (zB  datenschutzrechtliche  Regelungen  im   Gesundheitstelematikgesetz 2012 (GTelG 2012), BGBl. I Nr. 111/2012, und im Transparenzdatenbankgesetz 2012 (TDBG 2012), BGBl. I Nr. 99/2012).
+
+Die landesgesetzlichen Vorschriften in den allgemeinen Angelegenheiten des Datenschutzes in Bezug auf den nicht-automationsunterstützten Datenverkehr treten außer Kraft; davon umfasst sind folgende Landesgesetze bzw. Teile von Landesgesetzen: Burgenländisches Datenschutzgesetz (Bgld. DSG),  LGBl. Nr. 87/2005; Kärntner Informations- und Statistikgesetz (K-ISG), LGBl. Nr. 70/2005; NÖ Datenschutzgesetz,	LGBl. 0901-2;	Oö.	Auskunftspflicht-,	Datenschutz-	und Informationsweiterverwendungsgesetz, LGBl. Nr. 46/1988; Salzburger Gesetz über Auskunftspflicht, Dokumentenweiterverwendung, Datenschutz, Landesstatistik und Geodateninfrastruktur (ADDSG- Gesetz), LGBl. Nr. 73/1988; Steiermärkisches Datenschutzgesetz (StDSG), LGBl. Nr. 39/2001; Tiroler Datenschutzgesetz 2014 (TDSG 2014), LGBl. Nr. 158/2013; Vorarlberger Landes-Datenschutzgesetz, LGBl. Nr. 19/2000; Wiener Datenschutzgesetz (Wr. DSG), LGBl. Nr. 125/2001.
+
+Zudem soll auch die Vollziehung des Datenschutzrechts zur Gänze beim Bund liegen und von diesem in unmittelbarer Bundesverwaltung (Art. 102 Abs. 2 B-VG) vollzogen werden können.
+Keine Vollziehung des Datenschutzrechts stellt die bloße Verarbeitung von personenbezogenen Daten durch Länder und Gemeinden als Verantwortliche dar (so zutreffend auch Ennöckl, Der Schutz der Privatsphäre in der elektronischen Datenverarbeitung [2014], 339 ff, 341). Da es für die faktische Handhabung personenbezogener Daten durch Behörden insofern keiner allgemeinen datenschutzrechtlichen Vollzugskompetenz, sondern lediglich einer Zuständigkeit aus einem „Materiengesetz“ bedarf, und der Vollzug des DSG bzw. der DSGVO ausschließlich bei der unabhängigen Aufsichtsbehörden liegen soll, hat § 2 Abs. 2 DSG 2000 keine Entsprechung im künftigen DSG.
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;span class=&quot;noglossary&quot;&gt;{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::Artikel 1. (Verfassungsbestimmung)]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=Artikel 1. (Verfassungsbestimmung)
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}&lt;/span&gt;
+
+
+&lt;span class=&quot;noglossary&quot;&gt;'''Artikel 2 (Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG))'''&lt;/span&gt;
+
+{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::1. Hauptstück. Durchführung der Datenschutz-Grundverordnung und ergänzende Regelungen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=1. Hauptstück. Durchführung der Datenschutz-Grundverordnung und ergänzende Regelungen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::2. Hauptstück. Organe]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=2. Hauptstück. Organe
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::3. Hauptstück. Verarbeitung personenbezogener Daten für Zwecke der Sicherheitspolizei]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=3. Hauptstück. Verarbeitung personenbezogener Daten für Zwecke der Sicherheitspolizei
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::4. Hauptstück. Besondere Strafbestimmungen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=4. Hauptstück. Besondere Strafbestimmungen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}
+{{#ask:[[Kategorie:Paragraphen DSG]] [[Hauptstück::5. Hauptstück. Schlussbestimmungen]]
+|?Fragestellungen
+|sort=Nummer
+|userparam=5. Hauptstück. Schlussbestimmungen
+|?Vorige ID
+|format=template
+|introtemplate=GesetzIntro
+|template=Gesetz
+|outrotemplate=GesetzOutro
+}}&lt;/div&gt;&lt;div class=&quot;panel-footer&quot;&gt;Quellen: 
+* [https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10001597&amp;FassungVom=2018-05-25 Gesetzestext DSG]
+* [https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_01664/fname_640101.pdf Erläuterungen zum Datenschutz-Anpassungsgesetz 2018]
+* [[Media:DSGVO-Leitfaden.pdf|DSGVO-Leitfaden der Datenschutzbehörde]]
+&lt;/div&gt;&lt;/div&gt;
+
+[[Kategorie:Gesetze]]__NOTOC__</text>
+      <sha1>l9ul5ofsxzoi8r5o0wlz72flaqqt2q5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datenschutzverletzung</title>
+    <ns>0</ns>
+    <id>100</id>
+    <revision>
+      <id>2666</id>
+      <parentid>2665</parentid>
+      <timestamp>2018-03-08T15:32:44Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1256">Eine Verletzung des Schutzes von personenbezogenen Daten (auch: &quot;Datenschutzverletzung&quot;, &quot;Datenpanne&quot; oder &quot;Datenzwischenfall&quot;) muss gem. Artikel 33 jedenfalls dokumentiert werden. '''Innerhalb von 72h muss eine Meldung an die Aufsichtsbehörde erfolgen''', es sei denn es ist voraussichtlich nicht zu einem Risiko für die Rechte und Freiheiten natürlicher Personen gekommen.) 
+
+[[Bild:Verletzung.png|32px|left|link=]]{{#forminput:form=Verletzung|autocomplete on namespace=Verletzung|namespace=Verletzung|no autofocus|placeholder=Verletzung...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Datenschutzverletzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Datenschutzverletzungen]] 
+|mainlabel=Verletzung
+|?Datum
+|?ID
+|?Betroffene Personenkreise
+|?Anzahl Betroffene
+|?Datenkategorien
+|?Sensible Daten#ja,nein
+|?Strafrechtlich relevante Daten#ja,nein
+|?Anwendung
+|?Abteilung
+|?Meldung von
+|?Meldepflichtig#ja,nein
+|?Meldung erfolgt#ja,nein
+|?Zuletzt geändert
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Verletzungen gefunden...
+}}&lt;/div&gt;&lt;/div&gt;
+{{#set:Title Icon=Verletzung.png}}</text>
+      <sha1>m1luinfsaof39zfr8u14pwnbdfay3kg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Folgenabschätzung</title>
+    <ns>0</ns>
+    <id>97</id>
+    <revision>
+      <id>3325</id>
+      <parentid>3029</parentid>
+      <timestamp>2018-05-25T12:08:33Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2620">Erfassung von eventuell durchgeführten Datenschutz-Folgenabschätzungen laut Artikel 35. Ob eine Folgenabschätzung durchzuführen ist, liegt im Ermessen des Verantwortlichen. Laut DSGVO ist jedenfalls eine Folgenabschätzung durchzuführen, bei
+* '''Profiling''' (systematischer und umfassender Bewertung persönlicher Aspekte natürlicher Personen, die sich auf automatisierte Verarbeitung einschließlich Profiling gründet und die ihrerseits als Grundlage für Entscheidungen dient, die Rechtswirkung gegenüber natürlichen Personen entfalten oder diese in ähnlich erheblicher Weise beeinträchtigen;)
+* '''sensiblen Daten''' (umfangreicher Verarbeitung besonderer Kategorien von personenbezogenen Daten gemäß Artikel 9 Absatz 1 oder von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten gemäß Artikel 10 oder)
+* '''(Video)Überwachtung''' (systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.)
+
+
+[[Bild:Folgenabschaetzung.png|32px|left|link=]]{{#forminput:form=Folgen|autocomplete on namespace=Folgen|namespace=Folgen|no autofocus|placeholder=Folgenabschätzung...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Folgenabschätzungen]] 
+|mainlabel=Folgenabschätzung
+|?Datum
+|?ID
+|?Sensible Daten#ja,nein
+|?Strafrechtlich relevante Daten#ja,nein
+|?Anwendung
+|?Abteilung
+|?Kontaktperson
+|?Konsultation#ja,nein
+|?Zuletzt geändert
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Folgenabschätzungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+
+{{#ask:[[Kategorie:Verfahren]] [[Sensible Daten::Ja]]  OR [[Kategorie:Verfahren]] [[Strafrechtlich relevante Daten::Ja]]
+|mainlabel=Verfahren
+|?Zwecke
+|?Sensible Daten#ja,nein
+|?Strafrechtlich relevante Daten#ja,nein
+|?Abteilung
+|?Folgenabschätzung
+|?Zuletzt geändert
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|intro=&lt;div class=&quot;panel panel-default mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Verfahrensverzeichnis|Verfahren]] mit sensiblen oder strafrechtlich relevanten Daten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+|outro=&lt;/div&gt;&lt;/div&gt;
+|default=&lt;div class=&quot;panel panel-default mw-collapsible &quot;&gt;&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;''Derzeit wurden keine Verfahren mit sensiblen oder strafrechtlich relevanten Daten im [[Verfahrensverzeichnis]] erfasst''
+}}
+
+{{#set:Title Icon=Folgenabschaetzung.png}}</text>
+      <sha1>e6ibe6kvhtilz4hi588jgwq45t3z9iy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fragestellungen</title>
+    <ns>0</ns>
+    <id>301</id>
+    <revision>
+      <id>2143</id>
+      <parentid>2142</parentid>
+      <timestamp>2018-01-26T15:16:42Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1041">In der praktischen Umsetzung der DSGVO ergeben sich Fragestellungen und Antworten darauf. Fragestellungen können beispielsweise von MitarbeiterInnen der Organisation  erfasst werden die Beantwortung solcher Fragestellung kann teilweise durch [[Datenschutzbeauftragte]] oder auch andere Personen oder Institutionen erfolgen.
+
+[[Image:Fragestellung.png|left|32px|link=Fragestellungen]]{{#forminput:form=Fragestellung|autocomplete on namespace=Fragestellung|namespace=Fragestellung|placeholder=Fragestellung...|button text=erstellen oder bearbeiten|no autofocus}} 
+Derzeit gibt es {{#ask:[[Kategorie:Fragestellungen]]|format=count|limit=1000}} Fragestellungen
+{{#ask:[[Kategorie:Fragestellungen]]
+|mainlabel=Fragestellung
+|?Status der Fragestellung=Status
+|?Thema
+|?Stichwort
+|?Paragraph
+|?Quelle
+|?Beantwortet durch
+|?Zuletzt geändert
+|sort=Status der Fragestellung
+|default=''Derzeit sind keine Fragestellungen vorhanden.''
+|format=table
+|limit=1000
+|class=table table-condensed table-hover sortable
+}}
+{{#set:Title Icon=Fragestellung.png}}</text>
+      <sha1>bhuaq5qhi8ahdc31k1t076wtk5q6dqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Geltungsbereich</title>
+    <ns>0</ns>
+    <id>311</id>
+    <revision>
+      <id>765</id>
+      <timestamp>2017-10-30T18:11:39Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>3132</id>
+      <parentid>1467</parentid>
+      <timestamp>2018-03-28T08:29:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1007">[[Image:Glossar.png|left|32px|link=Glossar]]{{#forminput:form=Glossar|autocomplete on category=Glossar|namespace=Glossar|no autofocus|placeholder=Glossarbegriff...|button text=erstellen oder bearbeiten}} 
+Glossar-Einträge werden im Datencockpit hervorgehoben.
+= manuelle Einträge =
+
+{{#ask: [[Kategorie:Glossar]] 
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|?Externer Link=Link
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+= Artikel DSGVO =
+{{#ask: [[Kategorie:Artikel DSGVO]] [[Glossar (Begriff)::+]]
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+= Paragraphen DS-G =
+{{#ask: [[Kategorie:Paragraphen DSG]] [[Glossar (Begriff)::+]]
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+&lt;headertabs /&gt;{{#set:Title Icon=Glossar.png}}</text>
+      <sha1>honklgqi1ggwe3bewiiaek6txuezgn6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Informationspflichten</title>
+    <ns>0</ns>
+    <id>238</id>
+    <revision>
+      <id>3048</id>
+      <parentid>3040</parentid>
+      <timestamp>2018-03-27T14:40:53Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="942">Gemäß Artikel 12, Artikel 13 und Artikel 14 sind in der DSGVO umfassende Informationspflichten vorgesehen. Sie können bei Bedarf hier die Erfüllung dieser Dokumentationspflichten dokumentieren.
+
+[[Bild:Informationspflichten.png|32px|left|link=]]{{#forminput:form=Information|autocomplete on namespace=Information|namespace=Information|no autofocus|placeholder=Informationspflichten...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Informationspflichten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Informationspflichten]] 
+|mainlabel=Informationspflicht
+|?Datenschutzerklärung
+|?Dokument
+|?Verfahren
+|?Abteilung
+|?Kontaktperson
+|?Zuletzt geändert
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Informationspflichten gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+
+
+{{#set:Title Icon=Informationspflichten.png}}</text>
+      <sha1>82jsfdsf1pd793v26y5hu2j6ifj5cyq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Links</title>
+    <ns>0</ns>
+    <id>51</id>
+    <revision>
+      <id>3333</id>
+      <parentid>3209</parentid>
+      <timestamp>2018-05-25T12:16:28Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2219">; Datencockpit
+: http://www.datencockpit.at
+; DSGVO
+: [http://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32016R0679 Gesetzestext DSGVO]
+: [https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10001597&amp;FassungVom=2018-05-25 Gesetzestext DSG]
+:: [https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10001597 Datenschutzgesetz 2000]
+:: [https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2017_I_120/BGBLA_2017_I_120.pdf Gesetzestext Datenschutz-Anpassungsgesetz 2018 (BGBl. I Nr. 120/2017)]
+:: [https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_01664/fname_640101.pdf Erläuterungen zum Datenschutz-Anpassungsgesetz 2018]
+:: [https://www.parlament.gv.at/PAKT/VHG/XXV/ME/ME_00322/index.shtml#tab-Uebersicht Übersicht Datenschutz-Anpassungsgesetz 2018]
+;Datenschutzbehörde
+:Website: https://www.dsb.gv.at
+: [https://www.dsb.gv.at/datenschutz-grundverordnung Datenschutz-Grundverordnung]
+: [https://www.dsb.gv.at/gesetze-in-osterreich Gesetze in Österreich]
+: [https://www.dsb.gv.at/artikel-29-gruppe Artikel-29-Gruppe]
+: [https://www.dsb.gv.at/documents/22758/116802/DSGVO-Leitfaden-2018.pdf Leitfaden zur DSGVO] (PDF, Stand Jänner 2018), Quelle: [https://www.dsb.gv.at/datenschutz-grundverordnung dsb.gv.at]
+{{#set:Title Icon=Links.png}}
+; Wirtschaftskammer Österreich
+: [https://www.wko.at/service/wirtschaftsrecht-gewerberecht/EU-Datenschutz-Grundverordnung.html Informationen der WKO]
+: [https://www.wko.at/branchen/information-consulting/unternehmensberatung-buchhaltung-informationstechnologie/it-dienstleistung/dsgvo-fuer-it-dienstleister.html DSGVO für IT-Dienstleister]
+; Telekommunikationsgesetz
+: [https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=20002849 Telekommunikationsgesetz 2003]
+; Städte- und Gemeindebund
+: DSGVO Umsetzungsleitfaden der FH OÖ in Kooperation mit Österreichischem Bundeskanzleramt, Österreichischem Städtebund und Österreichischem Gemeindebund [https://www.staedtebund.gv.at/services/tools/ Login-Bereich des Städtebundes]
+; Europäische Kommission
+: [http://europa.eu/rapid/press-release_IP-18-386_de.htm Leitfaden zu den neuen Datenschutzbestimmungen (Presseaussendung 24.1.2018)]</text>
+      <sha1>cbqemukfikp4o1wuvxoo1hvasy33khs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Löschantrag</title>
+    <ns>0</ns>
+    <id>99</id>
+    <revision>
+      <id>3320</id>
+      <parentid>2645</parentid>
+      <timestamp>2018-05-25T12:05:04Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1074">Dokumentation von Änderungsanträgen (Art. 16), Löschanträgen (Art. 17), Anträgen auf Einschränkung der Verarbeitung (Art. 18) bzw. Widerspruch (Art. 21).
+[[Bild:Loeschantrag.png|32px|left|link=]]{{#forminput:form=Berichtigung|autocomplete on namespace=Berichtigung|namespace=Berichtigung|no autofocus|placeholder=Änderungs-/Löschantrag...}}
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Lösch- oder Änderungsanträge&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Berichtigungen]] 
+|mainlabel=Folgenabschätzung
+|?Datum des Antrags=Antrag
+|?ID
+|?Art des Antrags=Art
+|?Status des Antrags=Status
+|?Form des Antrags=Form
+|?Betroffene Personenkreise
+|?Verfahren
+|?Abteilung
+|?Kontaktperson
+|?Datum der Erledigung=Erledigung
+|?Art der Erledigung
+|?Zuletzt geändert
+|sort=Datum des Antrags
+|order=desc
+|format=tabelle
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Lösch-/Änderungsantnräge gefunden...
+}}&lt;/div&gt;&lt;/div&gt;
+
+{{#set:Title Icon=Loeschantrag.png}}</text>
+      <sha1>cnopd7ysji1dgcmxb3yayq27o2uii8d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organisation</title>
+    <ns>0</ns>
+    <id>76</id>
+    <revision>
+      <id>2169</id>
+      <parentid>2168</parentid>
+      <timestamp>2018-01-26T15:34:50Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="265">{{#ask:[[Kategorie:Organisationen]]
+|format=plain
+|intro=Datencockpit der Organisation &lt;strong&gt;
+|outro=&lt;/strong&gt;
+|default=Legen Sie hier die Organisation an: {{#forminput:form=Organisation|placeholder=Organisationsname...}}
+}}
+
+
+{{#set:Title Icon=Organisation.png}}</text>
+      <sha1>khpdszpr3vqx30z20p9ycmx9sievq0h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SemanticComments</title>
+    <ns>0</ns>
+    <id>123</id>
+    <revision>
+      <id>293</id>
+      <parentid>292</parentid>
+      <timestamp>2017-10-25T14:42:24Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1497">{{Content bundle}}
+[[Rationale::This content bundle features a set of basic elements that are necessary for the SemanticComments extension.| ]] [[Part of bundle::SemanticComments| ]] [[Maintainer::ontoprise GmbH| ]] [[Vendor::ontoprise GmbH| ]] [[Help Url::http://smwforum.ontoprise.com/smwforum/index.php/Help:SemanticComments_Extension | ]] [[Ontology version::140| ]] [[Installation dir::extensions/SemanticComments| ]]
+[[Dependency::Datawiki; 153; 153| ]][[Dependency::Widgets; 092; 092| ]][[Dependency::Richmedia; 152; 152| ]] [[License::GPL v2| ]]
+
+;This content bundle comprises a set of articles that are necessary to make use of the SemanticComments extension.
+
+;How to use
+Simply add the template call &lt;code&gt;&lt;nowiki&gt;{{ShowComments|show=True}}&lt;/nowiki&gt;&lt;/code&gt; into the article(s)  to enable your users to leave comments for. Usually you include this template call at the bottom of the page.
+
+;Sandbox
+We have created a small [[SemanticComments_Sandbox|Sandbox of the SemanticComments extension]] in this Wiki to give you a smooth start.
+
+;User manual
+More information about the SemanticComments extension and how to use it can be found in our [http://smwforum.ontoprise.com/smwforum/index.php/Help:SemanticComments_Extension SemanticComments extension help article at SMWForum].
+
+;This bundle contains these articles
+:
+
+{{#ask:[[Part of bundle::{{FULLPAGENAME}}]]
+|?=Link
+|?Rationale
+|link=subject
+|default=''none''
+|mainlabel=-
+|source=wiki
+}}
+
+[[Category:Content bundle|Content_bundle]]</text>
+      <sha1>94yxb25tz87n7zn7cxnqls9ppvyq3j2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SemanticComments Sandbox</title>
+    <ns>0</ns>
+    <id>119</id>
+    <revision>
+      <id>285</id>
+      <parentid>284</parentid>
+      <timestamp>2017-10-25T14:42:23Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1549">= SemanticComments Sandbox =
+Just click on '''&quot;Show comments&quot;''' below to read and add comments.
+
+Have a look at [[User:SemanticComments|the article of our sandbox user]] to discover his latest comments powered by [[Template:Show comments infobox for user]]. Feel free to use this template on all your user pages by entering &lt;pre&gt;
+{{Show comments infobox for user
+|show=True
+}}
+&lt;/pre&gt; to these articles.
+
+We also created [[SemanticComments_Sandbox/SemanticComments_best_articles|a sample article to display the best rated articles]] in this wiki that calls [[Template:Show best rated articles]]. You can use this template call in any other pages, too. &lt;pre&gt;
+{{Show best rated articles
+|show=True
+}}
+&lt;/pre&gt;
+
+Since version 1.4.0 the SemanticComments extension recommends to install the [http://www.mediawiki.org/wiki/Extension:Widgets Widgets extensions]. If you accepted this, [[SemanticComments_Sandbox/Widget examples|these widget examples]] would make a quick impression about ''how to embed widgets'' to a page.
+
+More information can be found also in the [http://smwforum.ontoprise.com/smwforum/index.php?title=Help:Using_the_SemanticComments_extension_1.4&amp;context=Help%3ASemanticComments+extension+1.4 SemanticComments extension help article]. Get this extension on our [http://smwforum.ontoprise.com/smwforum/index.php/Download download page]!
+
+[[Rationale::A small Sandbox of the SemanticComments extension in this Wiki to give you a smooth start.| ]]
+
+{{ShowComments
+|show=True
+}}
+&lt;noinclude&gt;[[Part of bundle::SemanticComments| ]]&lt;/noinclude&gt;</text>
+      <sha1>8gkp822cby8kt5xaloijm60xeqqy3te</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SemanticComments Sandbox/SemanticComments best articles</title>
+    <ns>0</ns>
+    <id>140</id>
+    <revision>
+      <id>327</id>
+      <parentid>326</parentid>
+      <timestamp>2017-10-25T14:42:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="268">This info box displays the best rated articles in this wiki.
+{{Show best rated articles
+|show=True
+}}
+[[Rationale::A sample article with an info box that displays the best rated articles in this wiki.| ]]
+&lt;noinclude&gt;
+[[Part of bundle::SemanticComments| ]]
+&lt;/noinclude&gt;</text>
+      <sha1>jlr7xatbz4oij668hwkau35gs9yfzxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SemanticComments Sandbox/Widget examples</title>
+    <ns>0</ns>
+    <id>141</id>
+    <revision>
+      <id>329</id>
+      <parentid>328</parentid>
+      <timestamp>2017-10-25T14:42:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1841">This is a small example page that contains recommended widgets from the '''Widgets extension'''.
+
+There are a lot of other very interesting widgets that my be worthwhile for you.
+
+For example just have a look at the amazing [http://www.mediawikiwidgets.org/SlideShare SlideShare widget] or [http://www.mediawikiwidgets.org/Twitter Twitter widget] that can also be embedded in any page.
+An extensive list of available widgets can be found at [http://www.mediawikiwidgets.org/Widgets_Catalog the official Widgets Catalog].
+
+We have taken our SMW+ Facebook page as an example to provide you with a simple use case.
+Feel free to modify these parser functions and use them in any wiki page you want to.
+
+&lt;pre&gt;{{#widget:Facebook Like Box
+|profile=http://www.facebook.com/pages/SMW/192198727472226
+|stream=false
+|faces=false
+|height=63
+}}&lt;/pre&gt;
+creates this Facebook Like Box (see http://www.mediawikiwidgets.org/Facebook_Like_Box):
+
+{{#widget:Facebook Like Box
+|profile=http://www.facebook.com/pages/SMW/192198727472226
+|stream=false
+|faces=false
+|height=63
+}}
+
+
+A Google Calendar (more information is available at http://www.mediawikiwidgets.org/Google_Calendar) is embedded with this code:
+&lt;pre&gt;{{#widget:Google Calendar
+|id=si8ocqn3duj6f8int3h57jm8qeunplut@import.calendar.google.com
+|color=528800
+|id=p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com
+|color=2952A3
+|id=usa@holiday.calendar.google.com
+|color=B1440E
+|title=TechPresentations, NYCResistor, US Holidays
+}}&lt;/pre&gt;
+and looks like this:
+
+{{#widget:Google Calendar
+|id=si8ocqn3duj6f8int3h57jm8qeunplut@import.calendar.google.com
+|color=528800
+|id=p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com
+|color=2952A3
+|id=usa@holiday.calendar.google.com
+|color=B1440E
+|title=TechPresentations, NYCResistor, US Holidays
+}}
+
+&lt;noinclude&gt;
+[[Part of bundle::SemanticComments| ]]
+&lt;/noinclude&gt;</text>
+      <sha1>frmhzmktxmgcv7enkhuzvjew1zw4q0l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SemanticComments best articles</title>
+    <ns>0</ns>
+    <id>124</id>
+    <revision>
+      <id>295</id>
+      <parentid>294</parentid>
+      <timestamp>2017-10-25T14:42:24Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="268">This info box displays the best rated articles in this wiki.
+{{Show best rated articles
+|show=True
+}}
+[[Rationale::A sample article with an info box that displays the best rated articles in this wiki.| ]]
+&lt;noinclude&gt;
+[[Part of bundle::SemanticComments| ]]
+&lt;/noinclude&gt;</text>
+      <sha1>jlr7xatbz4oij668hwkau35gs9yfzxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Themen</title>
+    <ns>0</ns>
+    <id>560</id>
+    <revision>
+      <id>2885</id>
+      <parentid>2317</parentid>
+      <timestamp>2018-03-23T15:58:17Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="103">Folgende Themen kommen im Datencockpit vor:
+{{#ask:[[Thema::+]]  |?Thema|format=valuerank|limit=1000|}}</text>
+      <sha1>m1a5cqj4tjdhj0em02003uqcdrlou9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Verfahrensverzeichnis</title>
+    <ns>0</ns>
+    <id>96</id>
+    <revision>
+      <id>3176</id>
+      <parentid>3165</parentid>
+      <timestamp>2018-04-11T13:35:22Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3453">Das Verzeichnis der Verarbeitungstätigkeiten laut Artikel 30 dokumentiert die Verwendung personenbezogener Daten im Unternehmen. Auch als &quot;Verarbeitungsverzeichnis&quot; bekannt.
+
+[[Bild:Verfahren.png|32px|left|link=]]{{#forminput:form=Verfahren|autocomplete on namespace=Verfahren|namespace=Verfahren|no autofocus|placeholder=Verfahren...}}
+&lt;div class=&quot;alert alert-info&quot;&gt;Im &quot;[[Verfahrensverzeichnis]]&quot; finden Sie einen Überblick über die Einträge. Das komplette Verzeichnis ist auf der Seite [[Verzeichnis der Verarbeitungstätigkeiten]] zu finden!&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche/r]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte/r]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Verfahrensverzeichnis&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask:[[Kategorie:Verfahren]] 
+|mainlabel=Verfahren
+|?Zwecke
+|?Folgenabschätzung durchgeführt#ja,nein=Folgen-abschätzung
+|?Anwendung
+|?Abteilung
+|?Kontaktperson
+|?Sensible Daten#ja,nein
+|?Strafrechtlich relevante Daten#ja,nein
+|?Erstellt
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Verfahren gefunden...
+}}
+&lt;div class=&quot;panel-footer&quot;&gt;Export: 
+{{#ask:[[Kategorie:Verfahren]] 
+|mainlabel=Verfahren
+|?Zwecke
+|?Folgenabschätzung durchgeführt#ja,nein
+|?Folgenabschätzung
+|?Begründung
+|?Betroffene Personenkreise
+|?Rechtsgrundlagen
+|?Unterlagen
+|?Dokument
+|?Anwendung
+|?Abteilung
+|?Kontaktperson
+|?Datenkategorien
+|?Sensible Daten#ja,nein
+|?Strafrechtlich relevante Daten#ja,nein
+|?Empfängerkreise
+|?Aufbewahrungsfristen
+|?Maßnahmen
+|?Erstellt
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist
+|?Aufgabe für
+|format=csv
+|filename=Verfahrensverzeichnis.csv
+|default=derzeit keine Verfahren gefunden...
+}}&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+{{#set:Title Icon=Verfahren.png}}__NOTOC__</text>
+      <sha1>2o6p2ld0zfjtqdxez57h7q75bqq0ryp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Verzeichnis der Verarbeitungstätigkeiten</title>
+    <ns>0</ns>
+    <id>614</id>
+    <revision>
+      <id>3166</id>
+      <parentid>3136</parentid>
+      <timestamp>2018-04-11T13:28:24Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1838">&lt;span class=&quot;noglossary&quot;&gt;
+== Stammdaten ==
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche/r]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask:[[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte/r]]
+|mainlabel=BenutzerIn
+|?Foto
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;
+== Verarbeitungstätigkeiten ==
+{{#ask:[[Kategorie:Verfahren]] 
+|mainlabel=-
+|?=Verfahren
+|?Zwecke
+|?Folgenabschätzung durchgeführt
+|?Folgenabschätzung
+|?Begründung
+|?Betroffene Personenkreise
+|?Rechtsgrundlagen
+|?Datenkategorien
+|?Sensible Daten
+|?Strafrechtlich relevante Daten
+|?Empfängerkreise
+|?Aufbewahrungsfristen
+|?Zuletzt geändert
+|format=template
+|template=Verzeichnis
+|named args=yes
+|headers=plain
+|link=none
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Verfahren gefunden...
+}}
+&lt;/span&gt;</text>
+      <sha1>k171umufyrh88vrdp36c4h6ziyfktuu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Weitere Neuigkeiten</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>2742</id>
+      <parentid>2334</parentid>
+      <timestamp>2018-03-09T08:16:30Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="741">[[Datencockpit|&lt;&lt; Aktuelle Neuigkeiten]] &lt;br/&gt;&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Image:Neuigkeiten.png|32px|link=Neuigkeiten|Neuigkeiten]] Neuigkeiten&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+{| class=&quot;table-hover table-condensed table-responsive&quot;
+|- 
+{{#ask: [[Kategorie:Neuigkeiten]]  
+ |?Newsdatum#ISO
+ |sort=Newsdatum
+ |order=desc
+ |format=template
+ |template=Neuigkeiten
+ |limit=1000
+ |link=none
+ |searchlabel=
+ |default=Derzeit keine weiteren Neuigkeiten.
+}}
+|}
+&lt;/div&gt;&lt;/div&gt;
+[[Bild:Neuigkeiten.png|32px|left|link=]]{{#forminput:form=Neuigkeiten|placeholder=Newseintrag eingeben...|autocomplete on category=Neuigkeiten|namespace=Neuigkeiten|no autofocus}}{{#set:Title Icon=Neuigkeiten.png}}</text>
+      <sha1>3uqlnzv42az2j9b0egyk0wdg5kri39c</sha1>
+    </revision>
+  </page>
   <page>
     <title>Datencockpit:Abteilung</title>
     <ns>4</ns>
@@ -118,45 +1872,6 @@
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26">{{#default_form:Benutzer}}</text>
       <sha1>1fq6ss7fu1mwzl18oubbvt7hufpfuae</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Datencockpit:Datenschutz</title>
-    <ns>4</ns>
-    <id>643</id>
-    <revision>
-      <id>3122</id>
-      <parentid>3121</parentid>
-      <timestamp>2018-03-28T08:03:52Z</timestamp>
-      <contributor>
-        <username>Admin</username>
-        <id>1</id>
-      </contributor>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="1894">Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website. 
-
-=== Kontakt mit uns ===
-Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter. 
-
-=== Cookies ===
-Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an.
-
-Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.
-
-Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben.
-
-Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
-
-===Ihre Rechte===
-
-Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde. 
-
-Sie erreichen uns unter folgenden Kontaktdaten:[[Datencockpit:Über]]
-
-=== Haftungsausschluss ===
-Siehe [[Datencockpit:Impressum]]</text>
-      <sha1>5q91z7r5uthsi4z6xzl7dl8q6ic8raw</sha1>
     </revision>
   </page>
   <page>
@@ -251,54 +1966,6 @@ Voraussichtlich gar nicht. Wir haben Fragestellungen beispielhaft erfasst, einig
     </revision>
   </page>
   <page>
-    <title>Datencockpit:Impressum</title>
-    <ns>4</ns>
-    <id>109</id>
-    <revision>
-      <id>3123</id>
-      <parentid>1654</parentid>
-      <timestamp>2018-03-28T08:16:59Z</timestamp>
-      <contributor>
-        <username>Admin</username>
-        <id>1</id>
-      </contributor>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="3043"> KDZ - Zentrum für Verwaltungsforschung
- Guglgasse 13
- 1110 Wien
- http://www.kdz.or.at
- ZVR-Zahl: 527465780
-
-Kontakt siehe [[Datencockpit:Über|Über das Projekt]]
-
-==Haftungsausschluss ==
-Das Datencockpit wird als Open-Source-Lösung samt seinen Inhalten zur kostenlosen Nutzung bereitgestellt. Sämtliche Inhalte sowie auch die benötigten Strukturen wurden nach besten Wissem und Gewissen erstellt. Soweit möglich wurden dabei auf publizierte Dokumente dritter zurückgegriffen (siehe [[Links]]). 
-
-Wir können aber keinerlei Haftung oder Gewährleistung für die erstellen Inhalte und Strukturen übernehmen, insbesondere können wir nicht garantieren, dass die Verwendung des Datencockpits zu einer datenschutzkonformen Lösung führt. (Dies hängt ohnehin vor allem von der Qualität der eingegebenen Daten ab!). 
-
-Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Webseite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
-
-=== Haftung für Inhalte dieser Webseite ===
-
-Die Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Wir sind jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-
-=== Haftung für Links auf Webseiten Dritter ===
-
-Unser Angebot enthält Links zu externen Websites. Auf den Inhalt dieser externen Webseiten haben wir keinerlei Einfluss. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
-== Informationspflichten ==
-nformationspflicht laut ECG, UGB, Medien- und Vereinsgesetz
-
-    KDZ Zentrum für Verwaltungsforschung
-    ZVR-Zahl: 527465780, Sitz: Wien
-
-
-{{#set:Title Icon=Datencockpit.png}}</text>
-      <sha1>5d05jzvb6wfed73xkykbl3uqf61aedg</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Datencockpit:Information</title>
     <ns>4</ns>
     <id>639</id>
@@ -375,16 +2042,16 @@ nformationspflicht laut ECG, UGB, Medien- und Vereinsgesetz
     <ns>4</ns>
     <id>110</id>
     <revision>
-      <id>3137</id>
-      <parentid>3124</parentid>
-      <timestamp>2018-03-28T11:24:28Z</timestamp>
+      <id>3336</id>
+      <parentid>3137</parentid>
+      <timestamp>2018-05-25T12:18:26Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="1120">&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+      <text xml:space="preserve" bytes="1164">&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
 &lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;Kontakt öffentlicher Sektor&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;[[Image:KDZ.jpg|100px|link=https://www.kdz.or.at|left|KDZ]]
  Mag. Bernhard Krabina
  +43 676 849 579 27
@@ -397,13 +2064,14 @@ nformationspflicht laut ECG, UGB, Medien- und Vereinsgesetz
  ahoi[at]wikiahoi.at	
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
+* Projektwebsite http://www.datencockpit.at
 * Bitte beachten Sie unsere [[Datencockpit:FAQ|FAQs]] sowie [[Datencockpit:Impressum|Impressum und Haftungsausschluss]].
 * Gefördert durch https://www.netidee.at
 * Icons: [https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free Elegant Themes], https://www.iconfinder.com/iconsets/circle-icons-1
 * [https://twitter.com/datencockpit @datencockpit auf Twitter]
 
 {{#set:Title Icon=Datencockpit.png}}</text>
-      <sha1>dca4gy0pb8xv5x8r5gctgbszz51p214</sha1>
+      <sha1>mmkryeqawawpjwrrmk1qt10cu7y9kwy</sha1>
     </revision>
   </page>
   <page>
@@ -789,6 +2457,23 @@ Der Leitfaden stellt keine verbindliche Information dar, die die Datenschutzbeh�
     </revision>
   </page>
   <page>
+    <title>Datei:Folgenabschaetzung.png</title>
+    <ns>6</ns>
+    <id>660</id>
+    <revision>
+      <id>3317</id>
+      <timestamp>2018-05-25T11:50:34Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
     <title>Datei:Folgenabschätzung.png</title>
     <ns>6</ns>
     <id>87</id>
@@ -992,6 +2677,23 @@ Der Leitfaden stellt keine verbindliche Information dar, die die Datenschutzbeh�
         <id>1</id>
       </contributor>
       <comment>Admin lud eine neue Version von [[Datei:Logo.jpg]] hoch</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Loeschantrag.png</title>
+    <ns>6</ns>
+    <id>661</id>
+    <revision>
+      <id>3318</id>
+      <timestamp>2018-05-25T11:51:21Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="0" />
@@ -1619,9 +3321,9 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
     <ns>10</ns>
     <id>618</id>
     <revision>
-      <id>2899</id>
-      <parentid>2898</parentid>
-      <timestamp>2018-03-27T07:40:02Z</timestamp>
+      <id>3328</id>
+      <parentid>3323</parentid>
+      <timestamp>2018-05-25T12:10:09Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
@@ -1660,7 +3362,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 |class=table table-condensed table-hover sortable
 }}
 &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschätzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschaetzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Folgenabschätzungen]] [[Abteilung::{{FULLPAGENAME}}]] 
 |mainlabel=Folgenabschätzung
@@ -1690,7 +3392,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 |default=derzeit keine Auskunftsersuchen gefunden...
 }}
 &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Löschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Loeschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Löschantrag]] [[Abteilung::{{FULLPAGENAME}}]] 
 |mainlabel=Ersuchen
@@ -1722,7 +3424,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 [[Kategorie:Abteilungen]]{{#default_form:Abteilung}}{{#formredlink:form=Abteilung}}{{#set:Title Icon=Abteilung.png}}&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
-      <sha1>fyd3a5x0n7htropalpsobqejeey65em</sha1>
+      <sha1>jdyvivyinhzy4n86oj7xizo2sa1vv3l</sha1>
     </revision>
   </page>
   <page>
@@ -1730,9 +3432,9 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
     <ns>10</ns>
     <id>612</id>
     <revision>
-      <id>2901</id>
-      <parentid>2900</parentid>
-      <timestamp>2018-03-27T07:41:55Z</timestamp>
+      <id>3327</id>
+      <parentid>3322</parentid>
+      <timestamp>2018-05-25T12:09:41Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
@@ -1772,7 +3474,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 |class=table table-condensed table-hover sortable
 }}
 &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschätzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschaetzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Folgenabschätzungen]] [[Anwendung::{{FULLPAGENAME}}]] 
 |mainlabel=Folgenabschätzung
@@ -1802,7 +3504,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 |default=derzeit keine Auskunftsersuchen gefunden...
 }}
 &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Löschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Loeschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Löschantrag]] [[Anwendung::{{FULLPAGENAME}}]] 
 |mainlabel=Ersuchen
@@ -1833,7 +3535,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 }}
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 [[Kategorie:Anwendungen]]{{#default_form:Anwendung}}{{#formredlink:form=Anwendung}}{{#set:Title Icon=Anwendung.png}}&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
-      <sha1>4glvkdlo0lq4m6pyahssu9zcv5rovor</sha1>
+      <sha1>nmw1501d9k5b1f0trentq0f2syrvpjy</sha1>
     </revision>
   </page>
   <page>
@@ -1899,22 +3601,24 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
     <ns>10</ns>
     <id>13</id>
     <revision>
-      <id>2741</id>
-      <parentid>2592</parentid>
-      <timestamp>2018-03-09T08:14:12Z</timestamp>
+      <id>3259</id>
+      <parentid>3258</parentid>
+      <timestamp>2018-05-25T10:53:10Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="2854">&lt;noinclude&gt;Vorlage für Artikel
+      <text xml:space="preserve" bytes="3463">&lt;noinclude&gt;Vorlage für Artikel
 &lt;pre&gt;
 {{Artikel}}
 &lt;/pre&gt;
 [[Kategorie:Vorlagen]]
 &lt;/noinclude&gt;&lt;includeonly&gt;{{Navigation}}{{#vardefine: AnzahlFragestellungen | {{#ask:[[Kategorie:Fragestellungen]] [[Paragraph::{{FULLPAGENAME}}]]|format=count}}}}&lt;small&gt;
-&lt;div class=&quot;breadcrumb&quot;&gt;[[DSGVO]] / {{{Kapitel|}}} {{#if:{{{Abschnitt|}}}| / {{{Abschnitt|}}}|}} / &lt;span class=&quot;active&quot;&gt;&lt;span class=&quot;noglossary&quot;&gt;{{PAGENAME}}&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/small&gt;__NOTOC__
+&lt;div class=&quot;breadcrumb&quot;&gt;[[DSGVO]] / {{{Kapitel|}}} {{#if:{{{Abschnitt|}}}| / {{{Abschnitt|}}}|}} / &lt;span class=&quot;active&quot;&gt;&lt;span class=&quot;noglossary&quot;&gt;{{PAGENAME}}&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/small&gt;__NOTOC__{{#if: {{{ID|}}}|&lt;div class=&quot;alert alert-warning&quot;&gt;&lt;small&gt;Dieser Paragraph enthält Änderungen aus dem [http://www.consilium.europa.eu/register/en/content/out?&amp;typ=ENTRY&amp;i=ADV&amp;DOC_ID=ST-8088-2018-INIT Interinstitutional File 2012/0011 (COD)] vom 19. April 2018. [{{fullurl:{{FULLPAGENAME}}}}?type=revision&amp;diff={{REVISIONID}}&amp;oldid={{{ID|}}} Die Änderungen anzeigen &gt;&gt;&lt;/small&gt;&lt;/div&gt;]|}}
 &lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-7&quot;&gt;{{{Absätze|}}}&lt;/div&gt;
 &lt;div class=&quot;col-md-5&quot;&gt;
 &lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h2 class=&quot;panel-title &quot;&gt;[[Image:Fragestellung.png|left|24px|link=Fragestellungen]]Fragestellungen: {{#var: AnzahlFragestellungen}}&lt;/h2&gt;
@@ -1935,10 +3639,11 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 * Kapitel: [[Kapitel::{{{Kapitel|}}}]]
 * Abschnitt: [[Abschnitt::{{{Abschnitt|}}}]]
 * Fragestellungen: {{#set: Fragestellungen = {{#var: AnzahlFragestellungen}} }}
-* [{{fullurl:{{FULLPAGENAME}}}}?action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}}&lt;/span&gt;
+* {{#if: {{{ID|}}}|[{{fullurl:{{FULLPAGENAME}}}}?type=revision&amp;diff={{REVISIONID}}&amp;oldid={{{ID|}}} Änderungen zur Vorversion] {{#set:Vorige ID={{{ID|}}}}}|''keine Änderungen''}}
+* [{{fullurl:{{FULLPAGENAME}}}}?action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}} (ID: {{PAGEID}}, Revision {{REVISIONID}})&lt;/span&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;references /&gt;[[Kategorie:Gesetzesgliederung|{{{Bezeichnung|}}}]][[Kategorie:Artikel DSGVO|{{{Bezeichnung|}}}]]&lt;/includeonly&gt;</text>
-      <sha1>iagm67epp3szm8xqgq1kixt69rw3sv1</sha1>
+      <sha1>s314invfb9debrb4lj6gtxxgjm9domo</sha1>
     </revision>
   </page>
   <page>
@@ -2152,9 +3857,9 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
     <ns>10</ns>
     <id>39</id>
     <revision>
-      <id>2700</id>
-      <parentid>2699</parentid>
-      <timestamp>2018-03-08T16:44:22Z</timestamp>
+      <id>3324</id>
+      <parentid>3319</parentid>
+      <timestamp>2018-05-25T12:07:53Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
@@ -2270,7 +3975,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 }}
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;col-md-6&quot;&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschätzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschaetzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Folgenabschätzungen]] [[Kontaktperson::{{FULLPAGENAME}}]] 
 |mainlabel=Folgenabschätzung
@@ -2308,7 +4013,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 }}
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;col-md-6&quot;&gt;
-&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Löschantrag.png|30px|link=]] Löschanträge&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Loeschantrag.png|30px|link=]] Löschanträge&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
 {{#ask: [[Kategorie:Berichtigungen]] [[Kontaktperson::{{FULLPAGENAME}}]] 
 |mainlabel=Löschantrag
@@ -2330,7 +4035,7 @@ $( '.smw-csv-furtherresults &gt; a' );</text>
 == Weitere Informationen ==
 
 [[Kategorie:BenutzerInnen]][[Kategorie:BenutzerInnen {{{Abteilung|}}}]]&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
-      <sha1>flwysgdx4ai6mzqj2d1wvl4fxjqdik3</sha1>
+      <sha1>ls2q6x6yuffbrwmm4q74v38dgvuk5ev</sha1>
     </revision>
   </page>
   <page>
@@ -3167,24 +4872,26 @@ Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkat
     <ns>10</ns>
     <id>35</id>
     <revision>
-      <id>61</id>
-      <timestamp>2017-10-25T10:40:33Z</timestamp>
+      <id>3261</id>
+      <parentid>3260</parentid>
+      <timestamp>2018-05-25T10:53:10Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
-      <comment>Die Seite wurde neu angelegt: „&lt;noinclude&gt;Vorlage für Anzeige von Fragestellungen im Inhaltsverzeichnis des Gesetzes &lt;pre&gt; {{Gesetz |Fragestellung=}} &lt;/pre&gt; [[Kategorie:Vorlagen]] &lt;/noinclu…“</comment>
+      <minor/>
+      <comment>1 Version importiert</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="370">&lt;noinclude&gt;Vorlage für Anzeige von Fragestellungen im Inhaltsverzeichnis des Gesetzes
+      <text xml:space="preserve" bytes="443">&lt;noinclude&gt;Vorlage für Anzeige von Fragestellungen im Inhaltsverzeichnis des Gesetzes
 &lt;pre&gt;
 {{Gesetz
 |Fragestellung=}}
 &lt;/pre&gt;
 [[Kategorie:Vorlagen]]
-&lt;/noinclude&gt;&lt;includeonly&gt;&lt;li class=&quot;list-group-item&quot;&gt;{{{1}}}{{#ifeq: {{{2}}}|0||{{#ifeq: {{{2}}}|1|&lt;span class=&quot;badge&gt;{{{2}}} Fragestellung&lt;/span&gt;|&lt;span class=&quot;badge&gt;{{{2}}} Fragestellungen&lt;/span&gt;}}}}
+&lt;/noinclude&gt;&lt;includeonly&gt;&lt;li class=&quot;list-group-item&quot;&gt;{{{1}}}{{#ifeq: {{{2}}}|0||{{#ifeq: {{{2}}}|1|&lt;span class=&quot;badge&quot;&gt;{{{2}}} Fragestellung&lt;/span&gt;|&lt;span class=&quot;badge&quot;&gt;{{{2}}} Fragestellungen&lt;/span&gt;}}}}{{#if: {{{3}}}|&amp;nbsp;&lt;span class=&quot;bg-warning&quot;&gt;''Änderungen!''&lt;/span&gt;}}
 &lt;/li&gt;&lt;/includeonly&gt;</text>
-      <sha1>gojwpllln3pwdjjzclz26mepaigs7a0</sha1>
+      <sha1>4cwowymq2v7701aheao27rel6n2nfn2</sha1>
     </revision>
   </page>
   <page>
@@ -3563,22 +5270,24 @@ Dies ist die Vorlage für „Glossar“. Sie sollte im folgenden Format aufgeruf
     <ns>10</ns>
     <id>10</id>
     <revision>
-      <id>2740</id>
-      <parentid>2593</parentid>
-      <timestamp>2018-03-09T08:13:50Z</timestamp>
+      <id>3315</id>
+      <parentid>3314</parentid>
+      <timestamp>2018-05-25T10:55:52Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="2842">&lt;noinclude&gt;Vorlage für Paragraphen
+      <text xml:space="preserve" bytes="3332">&lt;noinclude&gt;Vorlage für Paragraphen
 &lt;pre&gt;
 {{Paragraph}}
 &lt;/pre&gt;
 [[Kategorie:Vorlagen]]
 &lt;/noinclude&gt;&lt;includeonly&gt;{{NavigationDSG}}{{#vardefine: AnzahlFragestellungen | {{#ask:[[Kategorie:Fragestellungen]] [[Paragraph::{{FULLPAGENAME}}]]|format=count}}}}&lt;small&gt;
-&lt;div class=&quot;breadcrumb&quot;&gt;[[DSG]] {{#if:{{{Hauptstück|}}}| / {{{Hauptstück|}}}|}}{{#if:{{{Abschnitt|}}}| / {{{Abschnitt|}}}|}} / &lt;span class=&quot;active&quot;&gt;&lt;span class=&quot;noglossary&quot;&gt;{{FULLPAGENAME}}&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/small&gt;__NOTOC__
+&lt;div class=&quot;breadcrumb&quot;&gt;[[DSG]] {{#if:{{{Hauptstück|}}}| / {{{Hauptstück|}}}|}}{{#if:{{{Abschnitt|}}}| / {{{Abschnitt|}}}|}} / &lt;span class=&quot;active&quot;&gt;&lt;span class=&quot;noglossary&quot;&gt;{{FULLPAGENAME}}&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/small&gt;__NOTOC__{{#if: {{{ID|}}}|&lt;div class=&quot;alert alert-warning&quot;&gt;&lt;small&gt;Dieser Paragraph enthält Änderungen aus dem Datenschutz-Deregulierungs-Gesetz 2018. [{{fullurl:{{FULLPAGENAME}}}}?type=revision&amp;diff={{REVISIONID}}&amp;oldid={{{ID|}}} Die Änderungen anzeigen &gt;&gt;&lt;/small&gt;&lt;/div&gt;]|}}
 &lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-7&quot;&gt;{{{Absätze|}}}&lt;/div&gt;
 &lt;div class=&quot;col-md-5&quot;&gt;
 &lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h2 class=&quot;panel-title &quot;&gt;[[Image:Fragestellung.png|left|24px|link=Fragestellungen]]Fragestellungen: {{#var: AnzahlFragestellungen}}&lt;/h2&gt;
@@ -3599,10 +5308,11 @@ Dies ist die Vorlage für „Glossar“. Sie sollte im folgenden Format aufgeruf
 * Hauptstück: [[Hauptstück::{{{Hauptstück|}}}]]
 * Abschnitt: [[Abschnitt::{{{Abschnitt|}}}]]
 * Fragestellungen: {{#set: Fragestellungen = {{#var: AnzahlFragestellungen}} }}
-* [{{fullurl:{{FULLPAGENAME}}}}?action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}}&lt;/span&gt;
+* {{#if: {{{ID|}}}|[{{fullurl:{{FULLPAGENAME}}}}?type=revision&amp;diff={{REVISIONID}}&amp;oldid={{{ID|}}} Änderungen zur Vorversion] {{#set:Vorige ID={{{ID|}}}}}|''keine Änderungen''}}
+* [{{fullurl:{{FULLPAGENAME}}}}?action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}} (ID: {{PAGEID}}, Revision {{REVISIONID}})&lt;/span&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;[[Kategorie:Gesetzesgliederung|{{{Bezeichnung|}}}]][[Kategorie:Paragraphen DSG|{{{Bezeichnung|}}}]]&lt;/includeonly&gt;</text>
-      <sha1>896sxt5ntvlnm6clip5jfntbea54j0z</sha1>
+      <sha1>h8qbanehev7uahm06f5pvowvuwqforg</sha1>
     </revision>
   </page>
   <page>
@@ -4146,16 +5856,16 @@ Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkat
     <ns>10</ns>
     <id>615</id>
     <revision>
-      <id>2966</id>
-      <parentid>2965</parentid>
-      <timestamp>2018-03-27T10:06:44Z</timestamp>
+      <id>3316</id>
+      <parentid>2966</parentid>
+      <timestamp>2018-05-25T11:48:49Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="1549">&lt;noinclude&gt;Vorlage für das Verzeichnis der Verarbeitungstätigkeiten
+      <text xml:space="preserve" bytes="1550">&lt;noinclude&gt;Vorlage für das Verzeichnis der Verarbeitungstätigkeiten
 &lt;pre&gt;
 {{Verzeichnis}}
 &lt;/pre&gt;
@@ -4183,7 +5893,7 @@ Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkat
 |{{#if:{{#pos:{{{?Sensible Daten|}}}|wahr}}|JA!|Nein}}
 |-
 | Strafrechtlich relevante Daten:
-|{{#if:{{#pos:{{{?Strafrechtlich relevante Date|}}}|wahr}}|JA!|Nein}}
+|{{#if:{{#pos:{{{?Strafrechtlich relevante Daten|}}}|wahr}}|JA!|Nein}}
 |-
 | Empfängerkreise: 
 ||{{#arraymap:{{{?Empfängerkreise|}}}|,|@@@@|{{#ask:[[@@@@ ({{#sub:{{{?Verfahren|}}}|10}})]]|?Drittstaat=|?Internationale Organisation=|?Dokumentation=|format=list|default=@@@@}} }} 
@@ -4192,7 +5902,7 @@ Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkat
 |{{{?Aufbewahrungsfristen|}}}
 |}&lt;/div&gt;&lt;/div&gt;
 &lt;/includeonly&gt;</text>
-      <sha1>7uhhjc68bl0q9t3srtxdul6bs3eyjti</sha1>
+      <sha1>n4nsh2pr78pypaddg98ioyhnaym9hft</sha1>
     </revision>
   </page>
   <page>
@@ -4366,20 +6076,20 @@ Dies ist die Vorlage für Hilfe-Seiten. Sie sollte im folgenden Format aufgerufe
     <ns>14</ns>
     <id>601</id>
     <revision>
-      <id>2620</id>
-      <timestamp>2018-03-08T14:09:13Z</timestamp>
+      <id>3321</id>
+      <parentid>2620</parentid>
+      <timestamp>2018-05-25T12:05:24Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
-      <comment>Die Seite wurde neu angelegt: „Überblick über [[Löschantrag|Lösch- und Änderungsanträge]]   {{#default_form:Berichtigung}}{{#set:Title Icon=Löschantrag.png}}“</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="133">Überblick über [[Löschantrag|Lösch- und Änderungsanträge]]
 
 
-{{#default_form:Berichtigung}}{{#set:Title Icon=Löschantrag.png}}</text>
-      <sha1>r7bq7i29urfs8zfba7nabsje6lxjgyp</sha1>
+{{#default_form:Berichtigung}}{{#set:Title Icon=Loeschantrag.png}}</text>
+      <sha1>bs6h4q6b9aumyifqtqhg1dyruf3j6ol</sha1>
     </revision>
   </page>
   <page>
@@ -4451,9 +6161,9 @@ Dies ist die Vorlage für Hilfe-Seiten. Sie sollte im folgenden Format aufgerufe
     <ns>14</ns>
     <id>552</id>
     <revision>
-      <id>2186</id>
-      <parentid>2046</parentid>
-      <timestamp>2018-01-26T16:08:33Z</timestamp>
+      <id>3326</id>
+      <parentid>2186</parentid>
+      <timestamp>2018-05-25T12:08:49Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
@@ -4462,8 +6172,8 @@ Dies ist die Vorlage für Hilfe-Seiten. Sie sollte im folgenden Format aufgerufe
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="108">Überblick über [[Folgenabschätzung]].
 
-{{#default_form:Folgen}}{{#set:Title Icon=Folgenabschätzung.png}}</text>
-      <sha1>523me48uhbd6543cyogxfyvd8b0csz8</sha1>
+{{#default_form:Folgen}}{{#set:Title Icon=Folgenabschaetzung.png}}</text>
+      <sha1>n0sjaki1n3vyozdx1uolhd7ls1j7dyr</sha1>
     </revision>
   </page>
   <page>
@@ -8305,6 +10015,40 @@ oder, wenn ein anderer Name gewünscht ist:
 === Weiterführendes ===
 Details siehe [https://www.mediawiki.org/wiki/Help:Formatting/de MediaWiki-Hilfe]</text>
       <sha1>64v0l3vlpm58s556wf15rnie83dhvh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Installation</title>
+    <ns>12</ns>
+    <id>662</id>
+    <revision>
+      <id>3330</id>
+      <timestamp>2018-05-25T12:12:08Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Hilfe}} Wie kommen Sie zu Ihrem Datencockpit? Lesen Sie hier über Varianten der Installation Ihrer Lösung für die DSGVO.  ==Wie installiere ich das Datenc…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1910">{{Hilfe}}
+Wie kommen Sie zu Ihrem Datencockpit? Lesen Sie hier über Varianten der Installation Ihrer Lösung für die DSGVO.
+
+==Wie installiere ich das Datencockpit?==
+Das Datencockpit ist (leider noch) keine alleinstehende App/Software, die Sie mit einem Klick auf Ihrem Desktop installieren. Es basiert auf der Open-Source-Software Semantic MediaWiki ([https://www.mediawiki.org/wiki/MediaWiki MediaWiki] + Erweiterungen rund um [https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki Semantic MediaWiki]) und ist ein „Paket“ an Inhalten, Vorlagen, Formularen, Design-Voreinstellungen, das auf dem Wiki aufgesetzt wird. Das Datencockpit ist also streng genommen nicht die Software selbst, sondern ein Inhaltspaket für diese Wiki-Software.
+
+Wenn Sie also noch kein Wiki haben, aber eines verwenden möchten, können Sie Ihr neues Wiki gleich noch um das Datencockpit erweitern.
+
+Sie benötigen nun für dieses Datencockpit-Wiki eine Form des Webhostings mit PHP, SQL. Dafür haben Sie mehrere Möglichkeiten:
+* Hosting auf einem eigenen (internen) Webserver – [https://github.com/krabina/Datencockpit/blob/master/webserver/INSTALLATION.md Installationshilfe auf GitHub]
+* Integration in eine bestehendes Wiki (MediaWiki) – [https://github.com/krabina/Datencockpit/blob/master/wiki/INSTALLATION.md Importhilfe auf GitHub]
+* Buchen eines Zugangs zu einer gehosteten Browser-Version – [http://www.wikiahoi.at/dsgvo/ weitere Informationen und Preise auf wikiahoi.at]
+
+==Installationsanleitung auf GitHub==
+Die [https://github.com/krabina/Datencockpit Installationsanleitung auf GitHub] bietet Ihnen die neueste Version des Datencockpits sowie weiteren Informationen zur Installation des Wiki. Es werden dort auch Updates und neue Versionen veröffentlicht. 
+
+Wenn Sie einen GitHub-Konto besitzen, können Sie unter &quot;Issues&quot; auch Ihre Anmerkungen, Verbesserungen und Fragen zum Datencockpit posten.</text>
+      <sha1>mwp0l6n7vlpzs8ix9xgfl4ioi5qlwjy</sha1>
     </revision>
   </page>
   <page>

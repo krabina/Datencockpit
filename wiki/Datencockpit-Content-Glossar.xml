@@ -1,8 +1,8 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de-formal">
   <siteinfo>
     <sitename>Datencockpit</sitename>
-    <dbname>kdz_datencockpit</dbname>
-    <base>http://www.datencockpit.at/Datencockpit</base>
+    <dbname>kdz_datencockpit_leer</dbname>
+    <base>http://leer.datencockpit.at/index.php?title=Datencockpit</base>
     <generator>MediaWiki 1.27.4</generator>
     <case>first-letter</case>
     <namespaces>
@@ -30,8 +30,6 @@
       <namespace key="107" case="first-letter">Formular Diskussion</namespace>
       <namespace key="108" case="first-letter">Konzept</namespace>
       <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
-      <namespace key="170" case="first-letter">Filter</namespace>
-      <namespace key="171" case="first-letter">Filter Diskussion</namespace>
       <namespace key="190" case="first-letter">Glossar</namespace>
       <namespace key="191" case="first-letter">Glossar talk</namespace>
       <namespace key="274" case="first-letter">Widget</namespace>
@@ -681,6 +679,91 @@ b) im Falle eines Auftragsverarbeiters mit Niederlassungen in mehr als einem Mit
 |Glossary-Definition=eine in der Union niedergelassene natürliche oder juristische Person, die von dem Verantwortlichen oder Auftragsverarbeiter schriftlich gemäß Artikel 27 bestellt wurde und den Verantwortlichen oder Auftragsverarbeiter in Bezug auf die ihnen jeweils nach dieser Verordnung obliegenden Pflichten vertritt (siehe Art. 4 DSGVO)
 }}</text>
       <sha1>g887md2ukgm5jew6xjkmvsupf7c0jtq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glossar</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>3132</id>
+      <parentid>1467</parentid>
+      <timestamp>2018-03-28T08:29:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1007">[[Image:Glossar.png|left|32px|link=Glossar]]{{#forminput:form=Glossar|autocomplete on category=Glossar|namespace=Glossar|no autofocus|placeholder=Glossarbegriff...|button text=erstellen oder bearbeiten}} 
+Glossar-Einträge werden im Datencockpit hervorgehoben.
+= manuelle Einträge =
+
+{{#ask: [[Kategorie:Glossar]] 
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|?Externer Link=Link
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+= Artikel DSGVO =
+{{#ask: [[Kategorie:Artikel DSGVO]] [[Glossar (Begriff)::+]]
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+= Paragraphen DS-G =
+{{#ask: [[Kategorie:Paragraphen DSG]] [[Glossar (Begriff)::+]]
+|mainlabel=Glossar-Begriff
+|?Glossary-Definition=Definition
+|format=table
+|limit=1000
+|class=table table-condensed table-striped table-hover sortable
+}}
+
+&lt;headertabs /&gt;{{#set:Title Icon=Glossar.png}}</text>
+      <sha1>honklgqi1ggwe3bewiiaek6txuezgn6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Glossar</title>
+    <ns>10</ns>
+    <id>54</id>
+    <revision>
+      <id>2594</id>
+      <parentid>2452</parentid>
+      <timestamp>2018-03-08T11:34:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1335">&lt;noinclude&gt;
+Dies ist die Vorlage für „Glossar“. Sie sollte im folgenden Format aufgerufen werden:
+&lt;pre&gt;
+{{Glossar
+|Glossary-Definition=
+|External-Link=
+}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOEDITSECTION__&lt;div class=&quot;btn-group&quot;&gt;&lt;div class=&quot;btn-group&quot; style=&quot;margin-bottom:1em;&quot;&gt;&lt;div class=&quot;btn btn-default dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Glossar-Einträge &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/div&gt;{{#ask:[[Kategorie:Glossar]]|format=ul|intro=&lt;span class=&quot;dropdown-menu small&quot; style=&quot;width:30em;&quot;&gt;|outro=&lt;/span&gt;}}&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Glossary-Term::{{PAGENAME}}]]&lt;/h3&gt;
+&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+:[[Attribut:Glossary-Definition|Definition]]: '''[[Glossary-Definition::
+{{{Glossary-Definition|}}}]]'''
+:[[Attribut:Externer Link|Externer Link]]: [[Externer Link::{{{External-Link|}}}]]
+:[{{fullurl:{{FULLPAGENAME}}}}&amp;action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}}
+[[Glossary-Link::{{FULLPAGENAME}}| ]]
+&lt;/div&gt;&lt;/div&gt;
+[[Kategorie:Glossar]]{{#set:Title Icon=Glossar.png}}__NOGLOSSARY__&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
+      <sha1>a1qkt20v157yktoob8vtpmrcyas3i8p</sha1>
     </revision>
   </page>
 </mediawiki>

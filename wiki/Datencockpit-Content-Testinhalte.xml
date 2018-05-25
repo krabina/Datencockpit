@@ -71,9 +71,9 @@
     <ns>2008</ns>
     <id>385</id>
     <revision>
-      <id>2853</id>
-      <parentid>2838</parentid>
-      <timestamp>2018-03-16T12:57:06Z</timestamp>
+      <id>3224</id>
+      <parentid>2853</parentid>
+      <timestamp>2018-04-20T15:06:31Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
@@ -84,7 +84,7 @@
 |Zwecke=Verzeichnis der MitarbeiterInnen inkl. Organigramm
 |Folgenabschätzung durchgeführt=Nein
 |Begründung=Standardanwendung
-|Personenkreise=MitarbeiterInnen, PraktikantInnen
+|Personenkreise=MitarbeiterInnen; PraktikantInnen
 |Rechtsgrundlagen=Art. 6 Abs 1 lit a (Einwilligung der Betroffenen), Art. 6 Abs 1 lit b (zur Vertragserfüllung erforderlich), Art. 6 Abs 1 lit c (gesetzliche Verpflichtungen nach der BAO und dem UGB), Art. 6 Abs 1 litf (berechtigte Interessen des Verantwortlichen) DSGVO,
 § 132 BAO,
 §§ 190, 212 UGB
@@ -116,7 +116,7 @@
 {{VerfahrenEnde}}
 Hier stehen noch weitere Infos
 Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung gestellt), dienstliche Postanschrift, Funktionsbezeichnung, Vorgesetzte und nachgeordnete MitarbeiterInnen</text>
-      <sha1>pws8an20hv1vcn6gwczokg6tg0bwvrz</sha1>
+      <sha1>huwxjwkxvyupi65z6cuy5qlo44mneun</sha1>
     </revision>
   </page>
   <page>
@@ -124,20 +124,20 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
     <ns>2008</ns>
     <id>590</id>
     <revision>
-      <id>2834</id>
-      <parentid>2831</parentid>
-      <timestamp>2018-03-09T12:26:10Z</timestamp>
+      <id>3248</id>
+      <parentid>3223</parentid>
+      <timestamp>2018-05-15T10:49:33Z</timestamp>
       <contributor>
         <username>Admin</username>
         <id>1</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9506">{{Verfahren
+      <text xml:space="preserve" bytes="14897">{{Verfahren
 |Zwecke=Verarbeitung und Übermittlung von Daten im Rahmen von Geschäftsbeziehungen mit Kunden und Lieferanten, einschließlich automationsunterstützt erstellter und archivierter Textdokumente (wie zB Korrespondenzen oder Verträge) in diesen Angelegenheiten
 |Folgenabschätzung durchgeführt=Ja
 |Folgenabschätzung=Einführung Zutrittskontrolle
-|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten, Sachbearbeiter beim Verantwortlichen, An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; Sachbearbeiter beim Verantwortlichen; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Rechtsgrundlagen=Art. 6 Abs 1 lit a (Einwilligung der Betroffenen), Art. 6 Abs 1 lit b (zur Vertragserfüllung erforderlich), Art. 6 Abs 1 lit c (gesetzliche Verpflichtungen nach der BAO und dem UGB), Art. 6 Abs 1 lit f (berechtigte Interessen des Verantwortlichen) DSGVO,
 § 132 BAO,
 §§ 190, 212 UGB
@@ -167,6 +167,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Name, Firma oder sonstige Geschäftsbezeichnung
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Ja
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -174,6 +175,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Anschrift
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -181,6 +183,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Kontaktdaten (Tel., Mail, Fax)
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -188,6 +191,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Firmenbuchdaten
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -195,6 +199,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Daten zur Bonität inkl. Mahn- und Klagsdaten
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Bis zur Beendigung der Geschäftsbeziehungen
@@ -202,6 +207,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Bankverbindungen
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; Sachbearbeiter beim Verantwortlichen
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -209,6 +215,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Kreditkartennummern und -unternehmen
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -216,6 +223,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=UID-Nummer
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -223,6 +231,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Namen der Kontaktpersonen
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -230,6 +239,7 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Kontaktdaten der Kontaktpersonen (Tel., Mail, Fax, Anschrift odgl.)
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten; An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
@@ -237,14 +247,64 @@ Name, dienstliche Telefonnummer, E-Mail-Adresse, Foto (freiwillig zur Verfügung
 }}
 {{Datenkategorie
 |Datenkategorien=Vertragstexte und Geschäftskorrespondenzen
+|Personenkreise=Kunden und Lieferanten inkl. Kontaktpersonen beim Kunden und Lieferanten
 |Sensible Daten=Nein
 |Strafrechtlich relevante Daten=Nein
 |Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
 |Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder;, Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); Versicherungen im Anlassfall
 }}
+{{Datenkategorie
+|Datenkategorien=Name
+|Personenkreise=Sachbearbeiter beim Verantwortlichen
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
+|Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); mitwirkende Vertrags- und Geschäftspartner; Versicherungen im Anlassfall; Provider (IT-Dienstleister)
+}}
+{{Datenkategorie
+|Datenkategorien=Funktion des betroffenen Sachbearbeiters beim Verantwortlichen
+|Personenkreise=Sachbearbeiter beim Verantwortlichen
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
+|Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); mitwirkende Vertrags- und Geschäftspartner; Versicherungen im Anlassfall; Provider (IT-Dienstleister)
+}}
+{{Datenkategorie
+|Datenkategorien=Vom betroffenen Sachbearbeiter bearbeitete Fälle
+|Personenkreise=Sachbearbeiter beim Verantwortlichen
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
+|Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); mitwirkende Vertrags- und Geschäftspartner; Versicherungen im Anlassfall; Provider (IT-Dienstleister)
+}}
+{{Datenkategorie
+|Datenkategorien=Umfang der Vertretungsbefugnis
+|Personenkreise=Sachbearbeiter beim Verantwortlichen
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
+|Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); mitwirkende Vertrags- und Geschäftspartner; Versicherungen im Anlassfall; Provider (IT-Dienstleister)
+}}
+{{Datenkategorie
+|Datenkategorien=UID-Nummer
+|Personenkreise=Sachbearbeiter beim Verantwortlichen
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Aufgrund der gesetzlichen Aufbewahrungsfristen auf jeden Fall 7 Jahre; darüber hinausgehend bis zur Beendigung eines allfälligen Rechtsstreits, fortlaufender Gewährleistungs- oder Garantiefristen
+|Empfängerkreise=Banken; Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte; Verwaltungsbehörden; Inkassounternehmen; Fremdfinanzierer (zB Leasing); mitwirkende Vertrags- und Geschäftspartner; Versicherungen im Anlassfall; Provider (IT-Dienstleister)
+}}
+{{Datenkategorie
+|Datenkategorien=Daten zur Bonität inkl. Mahn- und Klagsdaten
+|Personenkreise=An der Geschäftsabwicklung mitwirkende Dritte inkl. Kontaktpersonen bei den Dritten
+|Sensible Daten=Nein
+|Strafrechtlich relevante Daten=Nein
+|Aufbewahrungsfristen=Bis zur Beendigung der Geschäftsbeziehungen
+|Empfängerkreise=Rechtsvertreter im Geschäftsfall; Wirtschaftstreuhänder; Gerichte
+}}
 {{VerfahrenEnde}}
-Hier können noch weitere Informationen eingegeben werden.</text>
-      <sha1>tfzygrl4bvmelwid6c7di868iq8vmg3</sha1>
+Dieses Beispiel entstammt der WKO-Vorlage:
+https://www.wko.at/service/wirtschaftsrecht-gewerberecht/eu-dsgvo-muster-verarbeitungsverzeichnis-verantwortliche.html</text>
+      <sha1>pphirwrtq2o329f2d3bzw12lrl9f7va</sha1>
     </revision>
   </page>
   <page>
@@ -417,16 +477,16 @@ Weitere Infos hier...</text>
     <ns>2012</ns>
     <id>518</id>
     <revision>
-      <id>2325</id>
-      <parentid>2323</parentid>
-      <timestamp>2018-02-02T14:30:59Z</timestamp>
+      <id>3249</id>
+      <parentid>2325</parentid>
+      <timestamp>2018-05-15T16:52:26Z</timestamp>
       <contributor>
-        <username>Admin</username>
-        <id>1</id>
+        <username>Melnicki</username>
+        <id>2</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="785">{{Verletzung
+      <text xml:space="preserve" bytes="794">{{Verletzung
 |Datum=2018/01/25
 |Personenkreise=SeminarteilnehmerInnen
 |Anzahl Betroffene=20
@@ -439,10 +499,10 @@ Weitere Infos hier...</text>
 |Meldepflichtig=Nein
 |Meldung erfolgt=Ja
 |Vorfall=Am Flughafen wurde der Laptop PC64 von einer unbekannten Person gestohlen.
-|Folgen=Das Betriebssystem Windows 10 ist mit Passwort geschützt. Ein IT-kundiger könnte allerdings die Festplatte ausbauen und ev. das Excel-Dokument finden.
-|Maßnahmen=keine Erforderlich. Es handelt sich nur um eine Ergebnisliste der Seminaranmeldungen aus der Seminar-DB, die der Trainer beim Workshop mithatte. Die Daten enthielten nur unkritische Daten über die TeilnehmerInnen
+|Folgen=Das Betriebssystem Windows 10 ist mit Passwort geschützt. Ein IT-Kundiger könnte allerdings die Festplatte ausbauen und ev. das Excel-Dokument finden.
+|Maßnahmen=Keine erforderlich. Es handelt sich nur um eine Ergebnisliste der Seminaranmeldungen aus der Seminar-Datenbank, die der Trainer beim Workshop mit hatte. Die Daten enthielten nur unkritische Daten über die TeilnehmerInnen.
 }}</text>
-      <sha1>ney3hagdndj2mad2ts1yn3u6b1wcd4x</sha1>
+      <sha1>mzqlur67g85gdk8bi705sr72aqpsbfa</sha1>
     </revision>
   </page>
   <page>
@@ -700,6 +760,1432 @@ Unseren Datenschutzbeauftragten erreichen Sie unter
 
 Quelle: https://www.wko.at/service/wirtschaftsrecht-gewerberecht/muster-informationspflichten-website-datenschutzerklaerung.html</text>
       <sha1>2vhg8eaus29yrou7pzu5sr596g3sj5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Firma N.N. (Rechnungswesen und Geschäftsabwicklung)</title>
+    <ns>0</ns>
+    <id>623</id>
+    <revision>
+      <id>2928</id>
+      <timestamp>2018-03-27T08:48:14Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Empfänger |Verfahren=Rechnungswesen und Geschäftsabwicklung |Drittstaat=Kanada |Dokumentation=Für Kanada gibt es einen Angemessenheitsbeschluss der Europ…“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="181">{{Empfänger
+|Verfahren=Rechnungswesen und Geschäftsabwicklung
+|Drittstaat=Kanada
+|Dokumentation=Für Kanada gibt es einen Angemessenheitsbeschluss der Europäischen Kommission.
+}}</text>
+      <sha1>b2lbplp5ki4bwypnhfhxq8kobvjaub1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Steuerberatung Müller</title>
+    <ns>0</ns>
+    <id>608</id>
+    <revision>
+      <id>2684</id>
+      <timestamp>2018-03-08T16:03:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Auftragsverarbeiter |Straße=Landstraßer Hauptstraße 5 |PLZ=1030 |Ort=Wien |Website=http://www.kdz.or.at |Kontaktperson=Gerald Müller |Aufgabe für=Admin }}“</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="161">{{Auftragsverarbeiter
+|Straße=Landstraßer Hauptstraße 5
+|PLZ=1030
+|Ort=Wien
+|Website=http://www.kdz.or.at
+|Kontaktperson=Gerald Müller
+|Aufgabe für=Admin
+}}</text>
+      <sha1>srm2gfg65u8p4jilzn1q6f1dgy8aje6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Datenkategorie</title>
+    <ns>10</ns>
+    <id>584</id>
+    <revision>
+      <id>3217</id>
+      <parentid>2927</parentid>
+      <timestamp>2018-04-20T14:18:28Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="651">&lt;noinclude&gt;Vorlage für die Datenkategorien
+&lt;pre&gt;
+
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;
+|-
+|{{#arraymap:{{{Datenkategorien|}}}|;|@@@@|[[Datenkategorien::@@@@]]}}
+|{{#arraymap:{{{Personenkreise|}}}|;|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+| [[Sensible Daten::{{{Sensible Daten|}}}]] 
+| [[Strafrechtlich relevante Daten::{{{Strafrechtlich relevante Daten|}}}]]
+|{{#arraymap:{{{Empfängerkreise|}}}|;|@@@@|[[Empfängerkreise::@@@@| ]] {{#formredlink:link text=@@@@|target=@@@@ ({{PAGENAME}})|query string=Empfänger[Verfahren]={{PAGENAME}}|form=Empfänger}} }} 
+|[[Aufbewahrungsfristen::{{{Aufbewahrungsfristen|}}}]]
+&lt;/includeonly&gt;</text>
+      <sha1>43m2u04mutu9npaaux4k5ab4xt8bnpi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Organisationsdaten</title>
+    <ns>10</ns>
+    <id>549</id>
+    <revision>
+      <id>1981</id>
+      <parentid>1979</parentid>
+      <timestamp>2018-01-26T11:06:36Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="263">&lt;noinclude&gt;Vorlage für Organisationsdaten
+&lt;pre&gt;
+{{Organisationsdaten}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;{{#if:{{{2}}}|[[{{{2}}}{{!}}100px{{!}}left{{!}}{{{1}}}{{!}}link={{{1}}}]]| }}
+ {{{1}}}
+ {{{3}}}
+ {{{4}}} {{{5}}}
+ {{{6}}} &lt;/includeonly&gt;</text>
+      <sha1>jhzhlwnypa70h2o2d809ejgsbqpaj1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Verfahren</title>
+    <ns>10</ns>
+    <id>377</id>
+    <revision>
+      <id>3235</id>
+      <parentid>3216</parentid>
+      <timestamp>2018-04-27T11:19:31Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7112">&lt;noinclude&gt;Vorlage für Verfahren
+&lt;pre&gt;
+{{Verfahren}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Verfahren
+|{{#info:Name des Verfahrens}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Zwecke und Beschreibung
+|{{#info:Zwecke und kurze Beschreibung der Datenverarbeitung}}
+| [[Zwecke::{{{Zwecke|}}}]]
+|-
+| Folgenabschätzung
+|{{#info:Wurde eine Folgenabschätzung durchgeführt?}}
+| [[Folgenabschätzung durchgeführt::{{{Folgenabschätzung durchgeführt|}}}|]]{{#ifeq:{{{Folgenabschätzung durchgeführt|}}}|Ja|{{#arraymap:{{{Folgenabschätzung|}}}|,|@@@@|[[Folgenabschätzung::Folgen:@@@@|@@@@]]}} }}{{#ifeq:{{{Folgenabschätzung durchgeführt|}}}|Nein|Nein. Begründung: [[Begründung::{{{Begründung|}}}]] }}
+|-
+| Betroffene Personenkreise
+|{{#info:Beschreibung der Kategorien betroffener Personen}}
+|{{#arraymap:{{{Personenkreise|}}}|;|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+|-
+| Rechtsgrundlagen
+|{{#info:Die Rechtsgrundlagen (zB rechtliche Verpflichtung, Einwilligung, Vertragserfüllung, lebenswichtige Interessen des Betroffenen, kein überwiegendes berechtigtes Interesse des Betroffenen) sind nach der DSGVO zwar nicht verpflichtend ins Verarbeitungsverzeichnis aufzunehmen. Allerdings unterliegt der verantwortliche Verarbeiter einer sogenannten Rechenschaftspflicht. Diese besagt eine Nachweispflicht bzgl. der Einhaltung der Pflichten nach der DSGVO. Dazu gehört unter anderem auch der Nachweis, dass die Datenverarbeitung nach den in der DSGVO normierten Rechtmäßigkeitsgrundlagen erfolgt.}}
+| {{#arraymap:{{{Rechtsgrundlagen|}}}|,|@@@@|[[Rechtsgrundlagen::@@@@]]}}
+|-
+| Unterlagen
+|{{#info:Die Angabe, wo Verträge, Zustimmungserklärungen oder sonstige Unterlagen innerhalb der Organisation abgelegt wurden, ist nicht verpflichtend im Verarbeitungsverzeichnis zu dokumentieren, erleichtert aber vor allem in größeren, arbeitsteilig organisierten Organisationen das Auffinden der entscheidenden Unterlagen (dient also lediglich der innerbetrieblichen Arbeitserleichterung).}}
+| [[Unterlagen::{{{Unterlagen|}}}]]
+|-
+| Dokument (Upload)
+|{{#info:Dokument}}
+| {{#if:{{{Dokument|}}}| {{#arraymap:{{{Dokument|}}}|,|@@@@|[[Dokument::Datei:@@@@| ]] [[Media:@@@@|@@@@]]  [[Datei:Datei.png|Datei:@@@@|16px|link=Datei:@@@@]] }} 
+|-
+| Interne Kennung
+|{{#info:Interne Kennung, Bezeichnung, Numerierung zur weiteren Kennzeichnung des Eintrags.}}
+| [[Interne Kennung::{{{Interne Kennung|}}}]]
+|-
+|-
+| Anwendung
+|{{#info:Anwendung(en), die im Verfahren verwendet werden.}}
+|{{#arraymap:{{{Anwendung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Anwendung:|[[Anwendung::@@@@|{{#sub:@@@@|10}}]]|[[Anwendung::Anwendung:@@@@|@@@@]]}}}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Verfahren verantwortlich bzw. am Verfahren beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für das Verfahren ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;technisch-organisatorische Maßnahmen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{{Maßnahmen|}}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;{{#set:ID={{PAGEID}}|Maßnahmen={{{Maßnahmen|}}} }}[[Kategorie:Verfahren]]{{#default_form:Verfahren}}
+&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Datenkategorien&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive sortable&quot;  
+|-
+! Datenkategorien {{#info:Kategorien personenbezogener Daten}}
+! Personenkreise {{#info:Beschreibung der Kategorien betroffener Personen}}
+! Sensible Daten {{#info:Sind sensible Daten betroffen? Daten nach Art. 9 DSGVO sind besondere Datenkategorien („sensible Daten): rassische und ethnische Herkunft, politische Meinungen, religiöse oder weltanschauliche Überzeugungen, Gewerkschaftszugehörigkeit, genetische und biometrische Daten zur Identifizierung einer natürlichen Person, Gesundheitsdaten, Daten zum Sexualleben oder der sexuellen Orientierung.}}
+! Strafrechtlich relevante Daten {{#info:Sind strafrechtlich relevante Daten betroffen? Verarbeitung personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten oder damit zusammenhängende Sicherungsmaßregeln unter behördlicher Aufsicht.}}
+! Empfängerkreise {{#info:Namen der Gesellschaften außerhalb der eigenen Gesellschaft, aber innerhalb des Konzerns oder fremde  Dritte}}
+! Aufbewahrungsfristen {{#info:Speicherdauer der einzelnen Datenkategorien}}&lt;/includeonly&gt;</text>
+      <sha1>11uo55ctipsu30uiypv89z2tgn54oeq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:VerfahrenEnde</title>
+    <ns>10</ns>
+    <id>616</id>
+    <revision>
+      <id>2837</id>
+      <parentid>2835</parentid>
+      <timestamp>2018-03-09T12:29:59Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="277">&lt;noinclude&gt;Vorlage für die Verfahren, Ende der Datenkategorien-Liste. 
+
+Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkategorien, vor dem Restlichen Text der Verfahrens-Seite
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;|}&lt;/div&gt;&lt;/div&gt;&lt;/includeonly&gt;</text>
+      <sha1>lrpab21msxrdm973p10kszmld0c1uv6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Folgen</title>
+    <ns>10</ns>
+    <id>539</id>
+    <revision>
+      <id>3178</id>
+      <parentid>3169</parentid>
+      <timestamp>2018-04-11T13:35:47Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6294">&lt;noinclude&gt;Vorlage für Datenschutz-Folgenabschätzungen
+&lt;pre&gt;
+{{Folgen}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Folgen
+|{{#info:Bezeichnung der Folgenabschätzung}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Datum
+|{{#info:Datum des Vorfalls}}
+| [[Datum::{{{Datum|}}}]]
+|-
+| Betroffene Personenkreise
+|{{#info:Beschreibung der Kategorien betroffener Personen}}
+|{{#arraymap:{{{Personenkreise|}}}|,|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+|-
+| Datenkategorien
+|{{#info:Kategorien personenbezogener Daten}}
+|{{#arraymap:{{{Datenkategorien|}}}|,|@@@@|[[Datenkategorien::@@@@]]}}
+|-
+| Sensible Daten
+|{{#info:Sind sensible Daten betroffen?}}
+| [[Sensible Daten::{{{Sensible Daten|}}}]]
+|-
+| Strafrechtlich relevante Daten
+|{{#info:Sind strafrechtlich relevante Daten betroffen?}}
+| [[Strafrechtlich relevante Daten::{{{Strafrechtlich relevante Daten|}}}]]
+|-
+| Konsultation der Aufsichtsbehörde
+|{{#info:Ist eine Konsultation der Aufsichtsbehörde erfolgt?}}
+| [[Konsultation::{{{Konsultation|}}}]]
+|-
+| Anwendung
+|{{#info:Anwendung(en), die im Verfahren verwendet werden.}}
+|{{#arraymap:{{{Anwendung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Anwendung:|[[Anwendung::@@@@|{{#sub:@@@@|10}}]]|[[Anwendung::Anwendung:@@@@|@@@@]]}}}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Verfahren verantwortlich bzw. am Verfahren beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für die Folgenabschätzung ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+{{#if: {{{Dokument|}}}|
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Dokument: [[Media:{{{Dokument|}}}|{{{Dokument|}}}]]&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;[[Dokument::Datei:{{{Dokument|}}}|]]
+[[:Datei:{{{Dokument|}}}|Details]]
+{{#widget:PDF
+ |url={{filepath: {{#replace:{{{Dokument|}}}|Datei:|}}}}
+}}&lt;/div&gt;&lt;/div&gt;
+|
+}}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Beschreibungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+=== Geplante Verarbeitungsvorgänge === 
+[[Verarbeitungsvorgänge::{{{Verarbeitungsvorgänge|}}}]]
+
+=== Bewertung der Notwendigkeit und Verhältnismäßigkeit === 
+[[Notwendigkeit ::{{{Notwendigkeit |}}}]]
+
+=== Bewertung der Risiken === 
+[[Risiken::{{{Risiken|}}}]]
+
+=== Geplante Abhilfemaßnahmen === 
+[[Abhilfemaßnahmen::{{{Abhilfemaßnahmen |}}}]]
+
+=== Empfehlungen und Entscheidungen === 
+[[Entscheidungen::{{{Entscheidungen|}}}]]
+
+=== Standpunkt der Betroffenen === 
+[[Standpunkt ::{{{Standpunkt |}}}]]
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;{{#set:ID={{PAGEID}}}}[[Kategorie:Folgenabschätzungen]]{{#default_form:Folgen}}
+&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Risikobewertung&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive sortable&quot;  
+|-
+! Risiko {{#info:Errechnet sich aus der Kombination Auswirkung und Wahrscheinlichkeit}}
+! Zielobjekt {{#info:Bestandteile der Datenanwendung, z. B. IT-Anwendungen, Prozessabläufe, handelnde Personen}}
+! Datenschutzbedrohung {{#info:z. B. Unautorisierter Zugriff auf Systeme, Gefährung der Rechte der Betroffenen, Unbeabsichtigte Veröffentlichung.}}
+! Schutzziel {{#info:z. B. Vertraulichkeit, Integrität, Verfügbarkeit, Verarbeitungsgrundsätze, Betroffenenrechte}}
+! Auswirkung {{#info:Klassifikation der Schadenshohe bzw. Schadensauswirkung}}
+! Wahrscheinlichkeit {{#info:Klassifikation der Eintrittswahrscheinlichkeit des Schadens}}
+! Beschreibung {{#info:Beschreibung der Bedrohung}}
+! Maßnahmen {{#info:Beschreibung der Maßnahmen}}
+&lt;/includeonly&gt;</text>
+      <sha1>kutm7uh2ax8fez8n98r4gs41i270k7w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:FolgenEnde</title>
+    <ns>10</ns>
+    <id>624</id>
+    <revision>
+      <id>2979</id>
+      <parentid>2977</parentid>
+      <timestamp>2018-03-27T10:47:45Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Admin verschob die Seite [[Vorlage:FolgenabschätzungEnde]] nach [[Vorlage:FolgenEnde]], ohne dabei eine Weiterleitung anzulegen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="297">&lt;noinclude&gt;Vorlage für die Folgenabschätzung, Ende der Risikobewertungs--Liste. 
+
+Nach dem &lt;/div&gt; könnte noch Text kommen, unterhalb der Liste der Datenkategorien, vor dem Restlichen Text der Folgenabschätzungs-Seite
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;|}&lt;/div&gt;&lt;/div&gt;&lt;/includeonly&gt;</text>
+      <sha1>e0k05bwkvn83nvilfmvcx6eahyry3h0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Risikobewertung</title>
+    <ns>10</ns>
+    <id>625</id>
+    <revision>
+      <id>3025</id>
+      <parentid>3023</parentid>
+      <timestamp>2018-03-27T13:07:04Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1152">&lt;noinclude&gt;Vorlage für die Risikobewertungen
+&lt;pre&gt;
+
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;
+|- 
+|{{#ifexpr:({{#sub:{{{Wahrscheinlichkeit|}}}|0|1}}*{{#sub:{{{Auswirkung|}}}0||1}})&gt;10|&lt;p class=&quot;text-danger&quot;&gt;[[Risiko::sehr hoch]]&lt;/p&gt;|
+{{#ifexpr:({{#sub:{{{Wahrscheinlichkeit|}}}|0|1}}*{{#sub:{{{Auswirkung|}}}0||1}})&gt;7|&lt;p class=&quot;text-warning&quot;&gt;[[Risiko::hoch]]&lt;/p&gt;|
+{{#ifexpr:({{#sub:{{{Wahrscheinlichkeit|}}}|0|1}}*{{#sub:{{{Auswirkung|}}}0||1}})&gt;5|&lt;p class=&quot;text-info&quot;&gt;[[Risiko::mittel]]&lt;/p&gt;|
+{{#ifexpr:({{#sub:{{{Auswirkung|}}}0||1}}*1)&gt;2|&lt;p class=&quot;text-info&quot;&gt;[[Risiko::mittel]]&lt;/p&gt;|
+&lt;p class=&quot;text-success&quot;&gt;[[Risiko::gering]]&lt;/p&gt;
+}}}}}}}}
+|{{#arraymap:{{{Zielobjekt|}}}|;|@@@@|[[Zielobjekt::@@@@]]}}
+|{{#arraymap:{{{Datenschutzbedrohung|}}}|;|@@@@|[[Zielobjekt::@@@@]]}}
+|{{#arraymap:{{{Schutzziel|}}}|;|@@@@|[[Schutzziel::@@@@]]}}
+| [[Auswirkung::{{{Auswirkung|}}}]][[Auswirkung Wert::{{#sub:{{{Auswirkung|}}}0||1}} | ]]
+| [[Wahrscheinlichkeit::{{{Wahrscheinlichkeit|}}}]][[Wahrscheinlichkeit Wert::{{#sub:{{{Wahrscheinlichkeit|}}}|0|1}}| ]]
+| [[Beschreibung::{{{Beschreibung|}}}]] 
+| [[Maßnahmen::{{{Maßnahmen|}}}]] 
+&lt;/includeonly&gt;</text>
+      <sha1>blgh23y5exss0ye2fqfyl4ztovovnr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Verletzung</title>
+    <ns>10</ns>
+    <id>513</id>
+    <revision>
+      <id>3177</id>
+      <parentid>3168</parentid>
+      <timestamp>2018-04-11T13:35:40Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4830">&lt;noinclude&gt;Vorlage für Datenschutzverletzungen
+&lt;pre&gt;
+{{Verletzung}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]][[Funktion::Verantwortliche]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask:[[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Verletzung
+|{{#info:Bezeichnung des Verletzung}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Datum
+|{{#info:Datum des Vorfalls}}
+| [[Datum::{{{Datum|}}}]]
+|-
+| Betroffene Personenkreise
+|{{#info:Beschreibung der Kategorien betroffener Personen}}
+|{{#arraymap:{{{Personenkreise|}}}|,|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+|-
+| Anzahl Betroffene
+|{{#info:ungefähre Zahl der betroffenen Personen}}
+| [[Anzahl Betroffene::{{{Anzahl Betroffene|}}}]]
+|-
+| Datenkategorien
+|{{#info:Kategorien personenbezogener Daten}}
+|{{#arraymap:{{{Datenkategorien|}}}|,|@@@@|[[Datenkategorien::@@@@]]}}
+|-
+| Sensible Daten
+|{{#info:Sind sensible Daten betroffen?}}
+| [[Sensible Daten::{{{Sensible Daten|}}}]]
+|-
+| Strafrechtlich relevante Daten
+|{{#info:Sind strafrechtlich relevante Daten betroffen?}}
+| [[Strafrechtlich relevante Daten::{{{Strafrechtlich relevante Daten|}}}]]
+|-
+| Anwendung
+|{{#info:Anwendung(en), die im Verfahren verwendet werden.}}
+|{{#arraymap:{{{Anwendung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Anwendung:|[[Anwendung::@@@@|{{#sub:@@@@|10}}]]|[[Anwendung::Anwendung:@@@@|@@@@]]}}}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Verfahren verantwortlich bzw. am Verfahren beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Meldung von
+|{{#info:Benutzer/in, von der/dem die Meldung erfolgt ist.}}
+| {{#arraymap:{{{Meldung von|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Meldung von::@@@@|{{#sub:@@@@|9}}]]|[[Meldung von::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Meldepflichtig
+|{{#info:Ist eine Meldung an die Aufsichtsbehörde nötig}}
+| [[Meldepflichtig::{{{Meldepflichtig|}}}]]
+|-
+| Meldung innerhalb von 72h erfolgt
+|{{#info:Ist eine Meldung an die Aufsichtsbehörde innerhalb von 72h erfolgt?}}
+| [[Meldung erfolgt::{{{Meldung erfolgt|}}}]]
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Beschreibung von Vorfall, Folgen und Maßnahmen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+=== Beschreibung des Vorfalls === 
+[[Vorfall::{{{Vorfall|}}}]]
+
+=== Wahrscheinliche Folgen === 
+[[Folgen::{{{Folgen|}}}]]
+
+=== Maßnahmen === 
+[[Maßnahmen::{{{Maßnahmen|}}}]]
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+{{#set:ID={{PAGEID}}}}[[Kategorie:Datenschutzverletzungen]]{{#default_form:Verletzung}}{{#set:Title Icon=Verletzung.png}}
+&lt;/includeonly&gt;</text>
+      <sha1>etpdtig0bvvitni4e7zvb29dfwem7oq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Auskunft</title>
+    <ns>10</ns>
+    <id>603</id>
+    <revision>
+      <id>3180</id>
+      <parentid>3171</parentid>
+      <timestamp>2018-04-11T13:36:36Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4543">&lt;noinclude&gt;Vorlage für Auskunftsersuchen
+&lt;pre&gt;
+{{Auskunft}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Auskunftsersuchen
+|{{#info:Bezeichnung des Auskunftsersuchens}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Status des Antrags
+|{{#info:Status des Antrags}}
+| [[Status des Antrags::{{{Status|}}}]]
+|-
+| Datum des Antrags
+|{{#info:Datum des Antrags}}
+| [[Datum des Antrags::{{{Datum|}}}]]
+|-
+| Art des Antrags
+|{{#info:Art des Antrags}}
+|{{#arraymap:{{{Art des Antrags|}}}|,|@@@@|[[Art des Antrags::@@@@]]}}
+|-
+| Form des Antrags
+|{{#info:Form des Antrags}}
+|{{#arraymap:{{{Form des Antrags|}}}|,|@@@@|[[Form des Antrags::@@@@]]}}
+|-
+| Betroffene Personenkreise
+|{{#info:Beschreibung der Kategorien betroffener Personen}}
+|{{#arraymap:{{{Personenkreise|}}}|,|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+|-
+| Verfahren
+|{{#info:Verfahren, das bezüglich des Auskunftsersuchens betroffen ist.}}
+|{{#arraymap:{{{Verfahren|}}}|,|@@@@|[[Verfahren::Verfahren:@@@@|@@@@]]}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Auskunftsersuchen verantwortlich bzw. am Auskunftsersuchen beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für das Auskunftsersuchen ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Datum der Erledigung
+|{{#info:Datum der Erledigung}}
+| [[Datum der Erledigung::{{{Datum der Erledigung|}}}]]
+|-
+| Art der Erledigung
+|{{#info:Art der Erledigung}}
+|{{#arraymap:{{{Art der Erledigung|}}}|,|@@@@|[[Art der Erledigung::@@@@]]}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Beschreibungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+=== Angaben zum Antrag === 
+[[Antrag::{{{Antrag|}}}]]
+
+=== Durchgeführte Maßnahmen === 
+[[Maßnahmen::{{{Maßnahmen|}}}]]
+
+=== Angaben zur Erledigung === 
+[[Erledigung ::{{{Erledigung |}}}]]
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;{{#set:ID={{PAGEID}}}}[[Kategorie:Auskunftsersuchen]]{{#default_form:Auskunft}}
+&lt;/includeonly&gt;</text>
+      <sha1>6q13x4uoj7j8edw7igjoob125b5gpoe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Berichtigung</title>
+    <ns>10</ns>
+    <id>567</id>
+    <revision>
+      <id>3179</id>
+      <parentid>3170</parentid>
+      <timestamp>2018-04-11T13:36:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4569">&lt;noinclude&gt;Vorlage für Änderungs-, Löschanträge oder Widersprüche (Berichtigungen)
+&lt;pre&gt;
+{{Berichtigung}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Stammdaten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Organisationen]] 
+|mainlabel=Organisation
+|?Logo
+|?Straße
+|?PLZ
+|?Ort
+|?Website
+|format=template
+|template=Organisationsdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Organisation]] Sie haben keine Verantworliche [[Organisation]] definiert!&lt;/div&gt;
+}}
+=== Verantwortliche ===
+{{#ask: [[Kategorie:BenutzerInnen]] [[Funktion::Verantwortliche]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=BenutzerInnen]] Sie haben keine Verantworliche [[BenutzerInnen]] definiert!&lt;/div&gt;
+}}
+=== Datenschutzbeauftragte ===
+{{#ask:[[Kategorie:BenutzerInnen]] [[Funktion::Datenschutzbeauftragte]]
+|mainlabel=BenutzerIn
+|?Abteilung
+|?Vorname
+|?Nachname
+|?Telefon
+|?E-Mail
+|format=template
+|template=Benutzerdaten
+|link=none
+|default=&lt;div class=&quot;alert alert-danger&quot;&gt;[[Image:Fail.png|30px|left|link=Datenschutzbeauftragte]] Sie haben keine [[Datenschutzbeauftragte]]!&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Berichtigung
+|{{#info:Bezeichnung der Berichtigung}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Status des Antrags
+|{{#info:Status des Antrags}}
+| [[Status des Antrags::{{{Status|}}}]]
+|-
+| Datum des Antrags
+|{{#info:Datum des Antrags}}
+| [[Datum des Antrags::{{{Datum|}}}]]
+|-
+| Art des Antrags
+|{{#info:Art des Antrags}}
+|{{#arraymap:{{{Art des Antrags|}}}|,|@@@@|[[Art des Antrags::@@@@]]}}
+|-
+| Form des Antrags
+|{{#info:Form des Antrags}}
+|{{#arraymap:{{{Form des Antrags|}}}|,|@@@@|[[Form des Antrags::@@@@]]}}
+|-
+| Betroffene Personenkreise
+|{{#info:Beschreibung der Kategorien betroffener Personen}}
+|{{#arraymap:{{{Personenkreise|}}}|,|@@@@|[[Betroffene Personenkreise::@@@@]]}}
+|-
+| Verfahren
+|{{#info:Verfahren, das bezüglich des Berichtigungsantrags betroffen ist.}}
+|{{#arraymap:{{{Verfahren|}}}|,|@@@@|[[Verfahren::Verfahren:@@@@|@@@@]]}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Verfahren verantwortlich bzw. am Verfahren beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für die Folgenabschätzung ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Datum der Erledigung
+|{{#info:Datum der Erledigung}}
+| [[Datum der Erledigung::{{{Datum der Erledigung|}}}]]
+|-
+| Art der Erledigung
+|{{#info:Art der Erledigung}}
+|{{#arraymap:{{{Art der Erledigung|}}}|,|@@@@|[[Art der Erledigung::@@@@]]}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Beschreibungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+=== Angaben zum Antrag === 
+[[Antrag::{{{Antrag|}}}]]
+
+=== Durchgeführte Maßnahmen === 
+[[Maßnahmen::{{{Maßnahmen|}}}]]
+
+=== Angaben zur Erledigung === 
+[[Erledigung ::{{{Erledigung |}}}]]
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;{{#set:ID={{PAGEID}}}}[[Kategorie:Berichtigungen]]{{#default_form:Berichtigung}}
+&lt;/includeonly&gt;</text>
+      <sha1>m092oyz1yssitid0uqs9haz56aiyhcg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Anwendung</title>
+    <ns>10</ns>
+    <id>612</id>
+    <revision>
+      <id>2901</id>
+      <parentid>2900</parentid>
+      <timestamp>2018-03-27T07:41:55Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4095">&lt;noinclude&gt;
+&lt;pre&gt;
+{{Anwendung}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC__&lt;div class=&quot;col-md-6&quot; style=&quot;float: right;&quot;&gt;
+&lt;div class=&quot;panel panel-default&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Bild:Bearbeiten.png|30px|link=]]&amp;nbsp; ''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;{{PAGENAME}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für die Folgenabschätzung ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Verfahren.png|30px|link=]] Verfahren&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Verfahren]] [[Anwendung::{{FULLPAGENAME}}]]
+|mainlabel=Verfahren
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|default=Derzeit keine Verfahren gefunden...
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschätzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Folgenabschätzungen]] [[Anwendung::{{FULLPAGENAME}}]] 
+|mainlabel=Folgenabschätzung
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Folgenabschätzungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Auskunftsersuchen.png|30px|link=]] Auskunftsersuchen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Auskunftsersuchen]] [[Anwendung::{{FULLPAGENAME}}]] 
+|mainlabel=Ersuchen
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Auskunftsersuchen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Löschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Löschantrag]] [[Anwendung::{{FULLPAGENAME}}]] 
+|mainlabel=Ersuchen
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Löschanträge gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Verletzung.png|30px|link=]] Datenschutzverletzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Datenschutzverletzungen]] [[Anwendung::{{FULLPAGENAME}}]] 
+|mainlabel=Vorfall
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Datenschutzverletzungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+[[Kategorie:Anwendungen]]{{#default_form:Anwendung}}{{#formredlink:form=Anwendung}}{{#set:Title Icon=Anwendung.png}}&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
+      <sha1>4glvkdlo0lq4m6pyahssu9zcv5rovor</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Abteilung</title>
+    <ns>10</ns>
+    <id>618</id>
+    <revision>
+      <id>2899</id>
+      <parentid>2898</parentid>
+      <timestamp>2018-03-27T07:40:02Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3773">&lt;noinclude&gt;
+&lt;pre&gt;
+{{Abteilung}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC__&lt;div class=&quot;col-md-6&quot; style=&quot;float: right;&quot;&gt;
+&lt;div class=&quot;panel panel-default&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;[[Bild:Bearbeiten.png|30px|link=]]&amp;nbsp; ''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Benutzer.png|30px|link=]] BenutzerInnen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:BenutzerInnen]] [[Abteilung::{{FULLPAGENAME}}]]
+|mainlabel=BenutzerIn
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|default=Derzeit keine BenutzerInnen gefunden...
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Verfahren.png|30px|link=]] Verfahren&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Verfahren]] [[Abteilung::{{FULLPAGENAME}}]]
+|mainlabel=Verfahren
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|default=Derzeit keine Verfahren gefunden...
+|format=table
+|headers=plain
+|class=table table-condensed table-hover sortable
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Folgenabschätzung.png|30px|link=]] Folgenabschätzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Folgenabschätzungen]] [[Abteilung::{{FULLPAGENAME}}]] 
+|mainlabel=Folgenabschätzung
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Folgenabschätzungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Auskunftsersuchen.png|30px|link=]] Auskunftsersuchen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Auskunftsersuchen]] [[Abteilung::{{FULLPAGENAME}}]] 
+|mainlabel=Ersuchen
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Auskunftsersuchen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Löschantrag.png|30px|link=]] Löschantrag&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Löschantrag]] [[Abteilung::{{FULLPAGENAME}}]] 
+|mainlabel=Ersuchen
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Löschanträge gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Verletzung.png|30px|link=]] Datenschutzverletzungen&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{#ask: [[Kategorie:Datenschutzverletzungen]] [[Abteilung::{{FULLPAGENAME}}]] 
+|mainlabel=Vorfall
+|?Datum
+|?Zuletzt geändert
+|?Letzter Bearbeiter ist=durch
+|sort=Datum
+|order=desc
+|format=tabelle
+|headers=plain
+|class=table table-condensed table-hover sortable
+|default=derzeit keine Datenschutzverletzungen gefunden...
+}}
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+[[Kategorie:Abteilungen]]{{#default_form:Abteilung}}{{#formredlink:form=Abteilung}}{{#set:Title Icon=Abteilung.png}}&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
+      <sha1>fyd3a5x0n7htropalpsobqejeey65em</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ShowComments</title>
+    <ns>10</ns>
+    <id>154</id>
+    <revision>
+      <id>355</id>
+      <parentid>354</parentid>
+      <timestamp>2017-10-25T14:42:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="288">&lt;noinclude&gt;{{Template}}
+
+[[Rationale::Shows all comments incl. a form entry field for the given article.]]
+[[Category:Template]]
+&lt;/noinclude&gt;&lt;includeonly&gt;{{#ifeq:{{lc:{{{show|}}}}}|true|{{ShowCommentsIntern}}|}}&lt;/includeonly&gt;&lt;noinclude&gt;
+[[Part of bundle::SemanticComments| ]]
+&lt;/noinclude&gt;</text>
+      <sha1>1esyxr6c8n60p6sypndv44ex6tq80di</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ShowCommentsIntern</title>
+    <ns>10</ns>
+    <id>153</id>
+    <revision>
+      <id>353</id>
+      <parentid>352</parentid>
+      <timestamp>2017-10-25T14:42:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1000">&lt;noinclude&gt;{{Template}}
+
+[[Rationale::Show all comments incl. form.]]
+[[Category:Template]]
+&lt;/noinclude&gt;&lt;includeonly&gt;&lt;!--start surrounding div --&gt;&lt;div class=&quot;collabComInternSurround&quot;&gt;&lt;!-- start header div --&gt;&lt;div class=&quot;collabComInternHeader&quot;&gt;[[File:Comment_icon_crystal.png|text-bottom|nopreview|16px|link=]]&lt;/div&gt;&lt;!-- end header div --&gt;
+{{#set:
+|Article has average rating={{#averagerating:}}
+}}
+{{#showcommentform:}}
+&lt;div id=&quot;collabComResults&quot;&gt;
+{{#ask: [[Belongs to article::{{FULLPAGENAME}}]] [[Category:Comment]][[Modification date::+]]
+  | ?Has comment person
+  | ?Has comment date
+  | ?Has comment text
+  | ?Has comment rating
+  | ?Belongs to comment
+  | ?Comment was deleted#true,false
+  | ?Has comment editor
+  | ?Modification date
+  | ?Has attached article
+  | format=template
+  | template=CommentResult
+  | sort=Has comment date
+  | order=asc
+  | link=none
+  | limit=100
+}}
+&lt;/div&gt;
+&lt;/div&gt;&lt;!-- end surround div --&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+[[Part of bundle::SemanticComments| ]]
+&lt;/noinclude&gt;</text>
+      <sha1>6x9sjxcgpzdnf05unwrab5b8x47omnu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Thema</title>
+    <ns>10</ns>
+    <id>321</id>
+    <revision>
+      <id>2456</id>
+      <parentid>1907</parentid>
+      <timestamp>2018-03-02T11:38:32Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1790">&lt;noinclude&gt;
+&lt;pre&gt;
+{{Thema}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC__&lt;div class=&quot;btn-group&quot;&gt;&lt;div class=&quot;btn btn-default btn-xs&quot; style=&quot;padding-top:2px; padding-bottom:2px; margin-bottom:1em;&quot;&gt;[[Image:Thema.png|32px|link=Themen|Themen]]&lt;/div&gt;&lt;div class=&quot;btn-group&quot; style=&quot;margin-bottom:1em;&quot;&gt;&lt;div class=&quot;btn btn-default dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Themen &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/div&gt;{{#ask:[[Kategorie:Themen]]|format=ul|intro=&lt;span class=&quot;dropdown-menu&quot; style=&quot;width:30em;&quot;&gt;|outro=&lt;/span&gt;}}&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Fragestellungen]] zu Thema: {{PAGENAME}}&lt;/h3&gt;
+&lt;/div&gt;&lt;div class=&quot;panel-body&quot;&gt;
+{{#ask:[[Kategorie:Fragestellungen]] [[Thema::{{FULLPAGENAME}}]]
+|mainlabel=Fragestellung
+|?Status der Fragestellung
+|?Stichwort
+|?Paragraph
+|?Quelle
+|?Beantwortet durch
+|?Zuletzt geändert
+|sort=Status der Fragestellung
+|default=Derzeit sind keine Fragestellungen zum Thema &quot;{{PAGENAME}}&quot; vorhanden.
+|format=table
+|class=table table-condensed table-hover sortable
+}}&lt;/div&gt;&lt;/div&gt;
+[{{fullurl:{{FULLPAGENAME}}}}&amp;action=history Letzte Änderung]: {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} durch {{#formredlink:form=Benutzer|link text={{REVISIONUSER}}|target=Benutzer:{{REVISIONUSER}}||existing page link text={{REVISIONUSER}}}}
+&lt;div class=&quot;panel panel-default mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;[[Bild:Information.png|24px|link=|Diskussionsbeiträge]] Diskussion&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{{ShowComments|show=True}}
+&lt;/div&gt;&lt;/div&gt;
+[[Kategorie:Themen]]{{#default_form:Thema}}{{#formredlink:form=Thema}}{{#set:Title Icon=Thema.png}}&lt;nowiki/&gt;&lt;/includeonly&gt;</text>
+      <sha1>emh6pog48a20566pc2vbvvhvmu419ca</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information</title>
+    <ns>10</ns>
+    <id>635</id>
+    <revision>
+      <id>3041</id>
+      <parentid>3039</parentid>
+      <timestamp>2018-03-27T14:30:37Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2544">&lt;noinclude&gt;Vorlage für Informationspflichten
+&lt;pre&gt;
+{{Information}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC____NOEDITSECTION__
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default &quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title&quot;&gt;''[{{fullurl:{{FULLPAGENAME}}}}?action=history Letze Änderung am] {{REVISIONDAY}}. {{REVISIONMONTH1}}. {{REVISIONYEAR}} von [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]].''&lt;/h3&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Informationspflichten&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| Bezeichnung
+|{{#info:Bezeichnung der Website oder des Vertrages}}
+| [[Bezeichnung::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| Link zur Datenschutzerklärung
+|{{#info:Link zur Datenschutzerklärung}}
+| [[Datenschutzerklärung::{{{Datenschutzerklärung|}}}]]
+|-
+| Verfahren
+|{{#info:Verfahren, das bezüglich des Auskunftsersuchens betroffen ist.}}
+|{{#arraymap:{{{Verfahren|}}}|,|@@@@|[[Verfahren::Verfahren:@@@@|@@@@]]}}
+|-
+| Abteilung
+|{{#info:Abteilung(en), die für das Auskunftsersuchen verantwortlich bzw. am Auskunftsersuchen beteiligt sind.}}
+|{{#arraymap:{{{Abteilung|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|10}}|Abteilung:|[[Abteilung::@@@@|{{#sub:@@@@|10}}]]|[[Abteilung::Abteilung:@@@@|@@@@]]}}}}
+|-
+| Kontaktperson
+|{{#info:Benutzer/in, der/die die eine Kontaktperson für das Auskunftsersuchen ist.}}
+| {{#arraymap:{{{Kontaktperson|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Kontaktperson::@@@@|{{#sub:@@@@|9}}]]|[[Kontaktperson::Benutzer:@@@@|@@@@]]}}}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|}
+{{#if: {{{Dokument|}}}|
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Dokument: [[Media:{{{Dokument|}}}|{{{Dokument|}}}]]&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;[[Dokument::Datei:{{{Dokument|}}}|]]
+[[:Datei:{{{Dokument|}}}|Details]]
+{{#widget:PDF
+ |url={{filepath: {{#replace:{{{Dokument|}}}|Datei:|}}}}
+}}&lt;/div&gt;&lt;/div&gt;
+|
+}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;{{#set:ID={{PAGEID}}}}[[Kategorie:Informationspflichten]]{{#default_form:Information}}
+&lt;/includeonly&gt;</text>
+      <sha1>pccpiydzj84oeyhegvlevwmvloosgvw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Empfänger</title>
+    <ns>10</ns>
+    <id>586</id>
+    <revision>
+      <id>2914</id>
+      <parentid>2913</parentid>
+      <timestamp>2018-03-27T08:13:39Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1053">&lt;noinclude&gt;Vorlage für die Empfänger
+&lt;pre&gt;
+
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;ID: {{PAGEID}}&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table table-hover table-condensed table-responsive&quot;  
+|-
+| [[Attribut:Verfahren|Verfahren]] 
+|{{#info:Verfahren}}
+| [[Verfahren::Verfahren:{{{Verfahren|}}}]]
+|-
+| [[Attribut:Drittstaat|Drittstaat]]
+|{{#info:Angabe des Drittstaats, d.h. Staaten außerhalb der EU}}
+|{{#arraymap:{{{Drittstaat|}}}|,|@@@@|[[Drittstaat::@@@@]]}}
+|-
+| [[Attribut:Internationale Organisation|Internationale Organisation]]
+|{{#info:Angabe der internationalen Organisation bei Übermittlung an Internationale Organisation wie zB UNO, OSZE}}
+|{{#arraymap:{{{Internationale Organisation|}}}|,|@@@@|[[Internationale Organisation::@@@@]]}}
+|-
+| [[Attribut:Dokumentation|Dokumentation]]
+|{{#info:Dokumentation}}
+| [[Dokumentation::{{{Dokumentation|}}}]]
+|}
+[[Kategorie:Empfänger]]
+&lt;/includeonly&gt;</text>
+      <sha1>asiqov04vf7vaityj5jrppkdpxpm096</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Auftragsverarbeiter</title>
+    <ns>10</ns>
+    <id>607</id>
+    <revision>
+      <id>2686</id>
+      <parentid>2674</parentid>
+      <timestamp>2018-03-08T16:04:01Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1953">&lt;noinclude&gt;Vorlage für Auftragsverarbeiter
+&lt;pre&gt;
+{{Auftragsverarbeiter}}
+&lt;/pre&gt;
+[[Kategorie:Vorlagen]]
+&lt;/noinclude&gt;&lt;includeonly&gt;__NOTOC__
+&lt;div class=&quot;panel panel-default  mw-collapsible&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Auftragsverarbeiter&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;
+{| class=&quot;table-hover table-responsive table-condensed&quot;  
+|-
+| [[Attribut:Organisation|Name]]
+|{{#info:Name der Organisation}}
+| [[Seitenname::{{FULLPAGENAME}}|{{PAGENAME}}]]
+|-
+| [[Attribut:Straße|Straße]]
+|{{#info:Straße}}
+| [[Straße::{{{Straße|}}}]]
+|-
+| [[Attribut:PLZ|Postleitzahl]]
+|{{#info:Postleitzahl}}
+| [[PLZ::{{{PLZ|}}}]]
+|-
+| [[Attribut:Ort|Ort]]
+|{{#info:Ort}}
+| [[Ort::{{{Ort|}}}]] 
+|-
+| [[Attribut:Website|Website]]
+|{{#info:Website der Organisation.}}
+| [[Website::{{{Website |}}}]]
+|-
+| Kontaktperson
+|{{#info:Name von Kontaktpersonen des Aufrragsverarbeiters}}
+|{{#arraymap:{{{Kontaktperson|}}}|,|@@@@|[[Kontaktperson::@@@@]]}}
+|-
+| Aufgabe für
+|{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
+| {{#arraymap:{{{Aufgabe für|}}}|,|@@@@|{{#ifeq:{{#sub:@@@@|0|9}}|Benutzer:|[[Aufgabe für::@@@@|{{#sub:@@@@|9}}]]|[[Aufgabe für::Benutzer:@@@@|@@@@]]}}}}
+|-
+|[{{fullurl:{{FULLPAGENAME}}}}&amp;action=history Letze Änderung] 
+|
+| {{REVISIONYEAR}}/{{REVISIONMONTH1}}/{{REVISIONDAY}} durch [[Benutzer:{{REVISIONUSER}}|{{REVISIONUSER}}]]
+|}
+{{#if: {{{Dokument|}}}|
+&lt;div class=&quot;panel panel-default  mw-collapsible mw-collapsed&quot;&gt;&lt;div class=&quot;panel-heading&quot;&gt;&lt;h3 class=&quot;panel-title &quot;&gt;Dokument: [[Media:{{{Dokument|}}}|{{{Dokument|}}}]]&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;panel-body mw-collapsible-content&quot;&gt;[[Dokument::Datei:{{{Dokument|}}}|]]
+[[:Datei:{{{Dokument|}}}|Details]]
+{{#widget:PDF
+ |url={{filepath: {{#replace:{{{Dokument|}}}|Datei:|}}}}
+}}&lt;/div&gt;&lt;/div&gt;
+|
+}}&lt;/div&gt;&lt;/div&gt;
+[[Kategorie:Auftragsverarbeiter]]{{#default_form:Auftragsverarbeiter}}
+&lt;/includeonly&gt;</text>
+      <sha1>3599pk0qqab558ugirjyohuh7af0ex0</sha1>
     </revision>
   </page>
 </mediawiki>
