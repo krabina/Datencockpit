@@ -24,6 +24,12 @@ Bei den Content-Seiten können Sie selbst entscheiden, was Sie importieren möch
 * [Datencockpit-Content-Glossar.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-Glossar.xml) (Glossar-Einträge)
 * [Datencockpit-Content-Testinhalte.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-Testinhalte.xml) (ein paar Testinhalte)
 
+Nach dem Import empfiehlt es sich, folgende Befehle auszuführen
+```
+php maintenance/runJobs.php
+php maintenance/refreshLinks.php
+```
+
 ## Weitere Files für das Skinning
 Das Datencockpit verwendet ein Bootstrap-Basiertes Skin. Wenn Sie dieses auch verwenden wollen, müssen Sie zusätzlich die folgenden Files in ihr Installatiosverzeichnis kopieren:
 * https://github.com/krabina/Datencockpit/blob/master/wiki/bootswatch.less
