@@ -1,12 +1,9 @@
 # Anleitung zum Updgrade einer bestehenden Version
 
 ## Upgrade V0.2 - > V1.0
-* [DSG](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSG.xml) 
-* [DSGVO](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSGVO.xml)
-* [Strukturen](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Strukturen.xml)
-via Spezial:Importieren in die bestehende Installation importieren (die anderen XML-Files haben sich nicht verändert)
-
-
+* [DSG](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSG.xml), [DSGVO](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Content-DSGVO.xml) und [Strukturen](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Strukturen.xml) via Spezial:Importieren in die bestehende Installation importieren (die anderen XML-Files haben sich nicht verändert)
+* Aus dem File https://github.com/krabina/Datencockpit/blob/master/wiki/Icons.zip die beiden Icons Folgenabschaetzung.png und Loeschantrag.png über Spezial:Hochladen in die Installation hochladen
+* die Extension (SemanticComments) aus dem /extensions-Ordner des tarballs ersetzen, um die aktuellere Version zu haben. Das Update des Chameleon-Skins ist eigentlich nicht nötig.
 
 ## Beispiel V0.1 - > V0.2
 * [Datencockpit-Update-V0-2.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Update-V0-2.xml) via Spezial:Importieren in die bestehende Installation importieren
