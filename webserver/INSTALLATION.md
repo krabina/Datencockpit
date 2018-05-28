@@ -28,8 +28,8 @@ Das Datencockpit basiert auf
 * Laden Sie die Software-Komponenten herunter: https://github.com/krabina/Datencockpit/releases/download/1.0/datencockpit.tar.gz (Achtung: ca. 70MB)
 * entpacken Sie das File Sie im Verzeichnis des Webservers
 ```
-wget http://www.datencockpit.at/release/datencockpitV0-2.tar.gz
-tar -xzvf datencockpitV0-2.tar.gz
+wget http://www.datencockpit.at/release/datencockpit.tar.gz
+tar -xzvf datencockpit.tar.gz
 ```
 
 Nun haben Sie ein Verzeichnis "datencockpit" mit der entpackten Software. Dieses muss das Web-Root-Verzeichnis des Webservers sein. Andernfalls müssen Sie den Inhalt des Verzeichnisses in <ihr Web-Root legen (häufig z. B. "public_html"). 
