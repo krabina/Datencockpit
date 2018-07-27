@@ -22,7 +22,7 @@ Das Datencockpit basiert auf
   * [Aconomi](http://www.aconomi.com) hat uns dankenswerter Weise eine ausführliche Installationsanleitung für die Installation eines Ubuntu-Servers bis zum fertigen Datencockpit zur Verfügung gestellt: [Datencockpit_Installation_Ubuntu.pdf](https://github.com/krabina/Datencockpit/blob/master/webserver/Datencockpit_Installation_Ubuntu.pdf)
 * Legen Sie eine Datenbank an, nennen Sie diese "kdz_datencockpit"
 * Legen Sie einen DB-User an, nennen Sie diesen ebenfalls "kdz_datencockpit", geben Sie ihm alle Rechte und weisen Sie ihm der erzeugten Datenbank zu
-* Importieren Sie den [Datenank-Dump](https://github.com/krabina/Datencockpit/blob/master/webserver/Datenbank.zip) (ca. 25 MB) in Ihre Datenbank 
+* Importieren Sie den [Datenbank-Dump](https://github.com/krabina/Datencockpit/blob/master/webserver/Datenbank.zip) (ca. 25 MB) in Ihre Datenbank 
       * (sehr einfach geht das mit https://www.phpmyadmin.net/ - aber auch über die [Kommandozeile](https://www.mediawiki.org/wiki/Manual:Restoring_a_wiki_from_backup#Import_the_database_backup))
 
 * Laden Sie die Software-Komponenten herunter: https://github.com/krabina/Datencockpit/releases/download/1.0/datencockpit.tar.gz (Achtung: ca. 70MB)
