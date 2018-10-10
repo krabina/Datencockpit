@@ -14,7 +14,7 @@ Es gibt grundsätzlich mehrere Möglichkeiten, wie man ein eigenes Datencockpit 
 
 Installationsvariante | Anmerkungen
 ------------ | -------------
-Starten einer VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. COMING SOON....
+Starten einer VirtualBox | eine speziell hergerichtete virtuelle Maschine wird mittels https://www.virtualbox.org/ gestartet. Hierzu das von [Gesinn-IT](https://github.com/gesinn-it) zur Verfügung gestellte .OVA-File [datencockpit_1.0.1+02.ova](https://github.com/krabina/Datencockpit/releases/download/1.0/datencockpit_1.0.1+02.ova) herunterladen (ACHTUNG: ist 1,8GB groß), in die VirtualBox importieren und starten. 
 Installation auf einem [Webserver](https://github.com/krabina/Datencockpit/blob/master/webserver/INSTALLATION.md) | die Software wird auf einem Webserver entpackt, die Datenbank importiert
 Integration in ein bestehendes [Wiki](https://github.com/krabina/Datencockpit/blob/master/wiki/INSTALLATION.md) | XML-Files mit den MediaWiki-Seiten werden in ein bestehendes Wiki importiert
 Installation via Docker | Dank [soudis](https://github.com/soudis) gibt es eine Version zur Installation via [Docker](https://www.docker.com/): https://github.com/soudis/datencockpit-docker
