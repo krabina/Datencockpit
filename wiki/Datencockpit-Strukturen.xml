@@ -9267,7 +9267,7 @@ Existierende Benutzer können auf freiwilliger Basis persönliche Informationen 
 |-
 |Dokument:
 |{{#info:Hier können Sie ein Dokument hochladen, falls z. B. eine schriftliche Folgenabschätzung als PDF-Bericht vorliegt.}}
-|{{{field|Dokument|uploadable|class=form-control}}}
+|{{{field|Dokument|input type=text|uploadable|class=form-control}}}
 |-
 |Aufgabe für:
 |{{#info:BenutzerInnen können Aufgaben zugewiesen werden, die in der Liste auf ihrer Benutzerseite angezeigt werden.}}
