@@ -6,7 +6,7 @@
 * die Extension (SemanticComments) aus dem /extensions-Ordner des tarballs ersetzen, um die aktuellere Version zu haben. Das Update des Chameleon-Skins ist eigentlich nicht nötig.
 
 ## Beispiel V0.1 - > V0.2
-* [Datencockpit-Update-V0-2.xml](https://github.com/krabina/Datencockpit/blob/master/wiki/Datencockpit-Update-V0-2.xml) via Spezial:Importieren in die bestehende Installation importieren
+* [Datencockpit-Update-V0-2.xml](https://github.com/krabina/Datencockpit/blob/master/Datencockpit-Update-V0-2.xml) via Spezial:Importieren in die bestehende Installation importieren
 * File [Bearbeiten-Menü.png](https://github.com/krabina/Datencockpit/blob/master/wiki/Bearbeiten-Men%C3%BC.png) hochladen
 
 ## Nach dem Import von XML-Files
