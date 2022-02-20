@@ -31,4 +31,4 @@ Noch einfacher ist eine Hosting-Variante. Dabei wird ihr persönliches Datencock
 Beachten Sie die [RELEASE-NOTES](https://github.com/krabina/Datencockpit/blob/master/RELEASE-NOTES.md) sowie die Hinweise zum [UPGRADE](https://github.com/krabina/Datencockpit/blob/master/UPGRADE.md)
 
 # Feedback und Support
-Für Fragen und Feedback schreiben Sie bitte ein E-Mail an datencockpit@kdz.or.at 
+Für Fragen und Feedback schreiben Sie bitte ein E-Mail an bernhard.krabina@km-a.net 
